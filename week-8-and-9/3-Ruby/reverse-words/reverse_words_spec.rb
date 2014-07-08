@@ -6,18 +6,18 @@ end
 
 describe "reverse_words" do
   it "does nothing to an empty string" do
-    reverse_words("").should eq ""
+    expect(reverse_words("")).to eq ""
   end
   it "reverses a single word" do
     word = random_word
-    reverse_words(word).should eq word.reverse
+    expect(reverse_words(word)).to eq word.reverse
   end
   it "reverses two words" do
     word1 = random_word
     word2 = random_word
-    reverse_words("#{word1} #{word2}").should eq "#{word1.reverse} #{word2.reverse}"
+    expect(reverse_words("#{word1} #{word2}")).to eq "#{word1.reverse} #{word2.reverse}"
   end
   it "reverses a sentence" do
-    reverse_words("Ich bin ein Berliner").should eq "hcI nib nie renilreB"
+    expect(reverse_words("Ich bin ein Berliner")).to eq "hcI nib nie renilreB"
   end
 end
