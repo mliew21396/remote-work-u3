@@ -6,15 +6,15 @@ end
 
 describe "is_fibonacci?" do
    it "returns true when a integer is one number of the Fibonacci sequence" do
-      is_fibonacci?(random_fibonacci).should be_true
+      expect(is_fibonacci?(random_fibonacci)).to be true
    end
    it "returns true with a large Fibonacci number" do
-      is_fibonacci?(8670007398507948658051921).should be_true
+      expect(is_fibonacci?(8670007398507948658051921)).to be true
    end
    it "returns false when it's not in the Fibonacci seqence" do
-      is_fibonacci?(random_fibonacci+100).should be_false
+      expect(is_fibonacci?(random_fibonacci+100)).to be false
    end
    it "returns false on large non-Fibonacci numbers" do
-      is_fibonacci?(927372692193078999171).should be_false
+      expect(is_fibonacci?(927372692193078999171)).to be false
    end
 end
