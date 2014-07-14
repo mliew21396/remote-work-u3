@@ -22,7 +22,7 @@ Start the first set of exercises "SELECT basics".  Complete this set and complet
 
 You will need to do some research as you go. The tutorial is more meant to get you to experiment and try queries. It's not really intended to teach. So this is a good time to amp up your researching skills! [w3schools.com](http://www.w3schools.com/sql/default.asp) is a pretty good reference.
 
-When you finish each quiz, take a screenshot of it. You'll need to include it in your solution file. 
+When you finish each required quiz, take a screenshot of it. You'll need to include it in your solution file. 
 
 ## Release 3: Save your Quiz Results
 When you are finished, rename your Screen shots to correspond to the different quizzes and save them in the [imgs](../imgs) directory in this repository. THEN, add the images inline into your [my_quizzes.md](my_quizzes.md) file in this directory using markdown.
