@@ -10,7 +10,7 @@
 In this challenge, you will dive in to SQL - Structured Query Language for databases.  If you are new to SQL and databases, make sure to watch some of the videos listed on the [Week 7 Readme](../readme.md).
 
 ## Release 0: Go to [SQLzoo](http://sqlzoo.net/wiki/Main_Page)
-Start the first set of exercises "SELECT basics".  Complete this set and complete the quiz that is linked to at the bottom. **DO NOT CREATE AN ACCOUNT - There is an annoying bug in SQLZoo that gives users issues when they try. **
+Start the first set of exercises "SELECT basics".  Complete this set and complete the quiz that is linked to at the bottom. **DO NOT CREATE AN ACCOUNT - There is an annoying bug in SQLZoo that gives users issues when they try.**
 
 
 ## Release 1:  Complete the following sections along with their quizzes:  
