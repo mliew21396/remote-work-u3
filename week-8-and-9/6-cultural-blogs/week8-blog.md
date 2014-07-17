@@ -3,7 +3,7 @@
 # U3.W8: Dealing with Conflict
 
 ## Learning Competencies
-- Describe how you delt with conflict
+- Describe how you dealt with conflict
 - Evaluate whether your actions produced positive or negative reactions
 
 ## Release 0: New file
