@@ -3,8 +3,6 @@
 
 # I worked on this challenge [by myself, with: ].
 
-# 2. What are the problems in the error messages?
-
 
 
 # Original Code
@@ -28,20 +26,22 @@ class Person
   end
 end
 
-# 3. Modified Code (with scope identified as comments)
+# 1. Modified Code (with scope identified as comments)
 
 
 
 
 
-# 1. Call the methods here. Later, come back and add tests
+# 0 & 3. Call the methods here. Later, come back and add tests
+
+
+# What are the problems in the error messages?
+
+
+
+# 2. What is the scope of each variable?
 
 
 
 
-# 4. What is the scope of each variable?
-
-
-
-
-# 5. Reflection 
+# 4. Reflection 
