@@ -3,11 +3,11 @@
 
 # I worked on this challenge [by myself, with: ].
 
-# 1. What are the problems in the error messages?
+# 2. What are the problems in the error messages?
 
 
 
-# 2. Original Code
+# Original Code
 
 $var_1 = 22
  
@@ -34,9 +34,12 @@ end
 
 
 
-# 1. DRIVER TESTS/ASSERT STATEMENTS GO BELOW THIS LINE
+# 1. Call the methods here. Later, come back and add tests
 
 
+
+
+# 4. What is the scope of each variable?
 
 
 
