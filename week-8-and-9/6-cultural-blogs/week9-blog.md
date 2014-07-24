@@ -3,7 +3,7 @@
 # U3.W9: Asking the right questions
 
 ## Learning Competencies
-- 
+- formulate good questions that help you get answers you need
 
 ## Release 0: New file
 
