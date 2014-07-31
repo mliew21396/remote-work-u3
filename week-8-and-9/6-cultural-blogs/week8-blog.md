@@ -32,4 +32,10 @@ Link to your blog on the index of your site and push your changes.
 Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
 
 ## Release 4: Promote
-Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
+Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
+
+Tweet your blog post using #DBCConflict
+
+## Release 5: Read
+
+Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!

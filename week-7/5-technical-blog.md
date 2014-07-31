@@ -16,11 +16,11 @@ If you don't have a blog-posts directory, create one, move all of your blog post
 ## Release 1: Research
 Select a topic below to research. 
 
-- Look up issues with SQL (specifically SQL Injection) Enjoy this [XKCD comic](http://xkcd.com/327/) for an amusing intro. What is it? Why is it a problem? What can newb programmers do to combat this issue?
+- Look up issues with SQL (specifically SQL Injection) Enjoy this [XKCD comic](http://xkcd.com/327/) for an amusing intro. What is it? Why is it a problem? What can newb programmers do to combat this issue? ##DBCSQLInject
 
-- Compare SQL databases with NoSQL databases. What are the pros and cons of either? Which are you most excited to work with and why?
+- Compare SQL databases with NoSQL databases. What are the pros and cons of either? Which are you most excited to work with and why? #DBCNoSQL
 
-- Imagine having a huge database with millions of entries. It would probably take a lot of time to run advanced queries on such a large dataset. What are some of the things you can do to optimize SQL queries?
+- Imagine having a huge database with millions of entries. It would probably take a lot of time to run advanced queries on such a large dataset. What are some of the things you can do to optimize SQL queries? #DBCDataset
 
 ## Release 2: Blog!
 Write a blog post about what you learned. Teach your audience and future employer!
@@ -28,5 +28,12 @@ Write a blog post about what you learned. Teach your audience and future employe
 ## Release 3: Publish
 Link to your blog on the index of your github.io site and push your changes. 
 
-Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
+## Release 4: Promote
 
+Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
+
+Tweet your blog post using the hashtags associated with each topic. 
+
+## Release 5: Read
+
+Read at least one post for each topic (except for the one you wrote about). Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!

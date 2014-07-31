@@ -2,6 +2,10 @@
 
 Unit 3 only has one week of new material and two weeks of collaborative review. Each week will be released on Monday and will be due on the following Sunday at 11:59pm.
 
+##Twitter
+You will start using Twitter during this unit to promote your blog posts rather than the google+ community. (This is required) If you would like an introduction to Twitter, check out our new [Twitter challenge](https://github.com/Devbootcamp/phase-0-unit-1/tree/master/week-1/10-twitter-intro.md)!
+
+
 ### [Week 7: SQL and Databases](week-7)
 ### [Week 8 and 9: REVIEW!](week-8-and-9)
 

@@ -137,4 +137,10 @@ Can you think of any other exercises you can use to help you when you are feelin
 Link to your blog on the index of your github.io site and push your changes.
 
 ## Release 7: Promote 
-Share your blog on the google+ community under "Blog Posts!" Read others blogs. What did you like about them? 
+
+Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
+
+Tweet your blog post using #DBCValue
+
+## Release 8: Read
+Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
