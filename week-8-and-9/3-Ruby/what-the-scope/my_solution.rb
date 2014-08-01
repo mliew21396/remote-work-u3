@@ -3,11 +3,9 @@
 
 # I worked on this challenge [by myself, with: ].
 
-# 1. What are the problems in the error messages?
 
 
-
-# 2. Original Code
+# Original Code
 
 $var_1 = 22
  
@@ -28,17 +26,22 @@ class Person
   end
 end
 
-# 3. Modified Code (with scope identified as comments)
+# 1. Modified Code (with scope identified as comments)
 
 
 
 
 
-# 1. DRIVER TESTS/ASSERT STATEMENTS GO BELOW THIS LINE
+# 0 & 3. Call the methods here. Later, come back and add tests
+
+
+# What are the problems in the error messages?
+
+
+
+# 2. What is the scope of each variable?
 
 
 
 
-
-
-# 5. Reflection 
+# 4. Reflection 

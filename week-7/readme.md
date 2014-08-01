@@ -18,8 +18,8 @@ Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.
 9. [BONUS: Using the SQLite Gem](8-SQLite-gem) 
 
 ## Remember your expectations for the unit!
-- Pair at least once each week with a member of your accountability group.  *You need to pair* **6** *times this unit*
-- Give feedback for each person you paired with. *You need to submit at least 5 pieces of feedback in this unit* (6 for peer-pairing, and 1 GPS)
+- Pair at least twice each week.  *You need to pair* **6** *times this unit*
+- Give feedback for each person you paired with. *You need to submit at least 7 pieces of feedback in this unit* (6 for peer-pairing, and 1 GPS)
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) per week on Socrates. *You need to rate 20 pieces of feedback per unit.*
 
 ## Submitting your work

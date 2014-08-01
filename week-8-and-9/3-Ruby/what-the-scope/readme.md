@@ -12,7 +12,7 @@ Sometimes you'll run into some *seriously* messy code. In this challenge, your g
 
 
 ## Release 0: Run the Code
-What errors are you getting? Note them so you can fix them in Release 1. 
+Create an instance of the class and run the methods. What errors are you getting? Note them so you can fix them in Release 1. 
 
 ## Release 1: Modify the Code
 Modify the code so all variables are accessible within the code when needed (ie make the code run).  For each modification add a comment in the code that states what you modified and why.
@@ -25,5 +25,6 @@ For each variable, identify the scope. Include the scope of each variable as a c
 ```
 
 ## Release 3: Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) or Assert Statements
+
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
