@@ -11,7 +11,7 @@ Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.
 2. [SQLZoo for SQL Queries](2-SQLzoo)
 3. [Designing Schemas](3-designing-schemas)
 4. [Modeling a One to Many Database - SOLO CHALLENGE](4-model-one-to-many-solo-challenge)
-5. [Intro to SQLite](5-intro-to-SQLite)
+5. [SQLite Revisited](5-SQLite-revisited)
 6. [Technical Blog](6-technical-blog.md)
 7. [Cultural Blog](7-cultural-blog.md)
 8. [GPS 3.1](8-gps3.1) **DO NOT LOOK UNTIL YOUR GUIDED PAIRING SESSION!**
