@@ -1,6 +1,6 @@
 [Week 7 Home](../)
 
-# U3.W7: Intro to SQLite
+# U3.W7: SQLite Revisited
 
 ## Learning Competencies
 - Write simple SELECT statements to extract data from one or more fields on a single table using the SELECT, FROM, WHERE, LIMIT, and ORDER BY keywords
@@ -8,7 +8,7 @@
 
 
 ## Summary
-You should already have SQLite installed from the first challenge this week. If you haven't done so yet, please do so. You'll need to do some research, however. We have not given you instructions because it is important to your growth as a developer that you can learn to do some of this on your own. 
+You should already have SQLite installed from the first challenge this week. If you haven't done so yet, please do so. You'll need to do some research, however. We have not given you instructions because it is important to your growth as a developer that you can learn to do some of this on your own.
 
 [SQLite](http://en.wikipedia.org/wiki/SQLite) is a simple relational database. Every database is a single file, which you can move around.
 
@@ -75,7 +75,7 @@ You'll be doing all of this in the console, so after each release you'll want to
 
 Create your own dummy database in SQLite, and create a users schema as shown above.
 
-## Release 1: Insert Data 
+## Release 1: Insert Data
 You now have a table, so let's insert some data!  Paste the following into the sqlite shell:
 
 ```sql
@@ -125,8 +125,8 @@ And don't forget to update the `updated_at` column.  It should be the current ti
 Use a select statement to see the database entries, they should include the correct spellings and updated nickname.  Nice work!
 
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md) 
-...in the reflection section of your [my_solution.md](my_solution.md) file. 
+## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+...in the reflection section of your [my_solution.md](my_solution.md) file.
 
 
 
