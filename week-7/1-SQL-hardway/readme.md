@@ -8,7 +8,7 @@
 - Destroy and alter tables
 
 ## Release 0: Learn SQL the Hard Way
-Go to [Learn SQL the Hard Way].
+Go to [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/).
 
 Read the preface through Chapter 13.
 
