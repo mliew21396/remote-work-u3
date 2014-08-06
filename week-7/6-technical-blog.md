@@ -16,7 +16,7 @@ If you don't have a blog-posts directory, create one, move all of your blog post
 ## Release 1: Research
 Select a topic below to research. 
 
-- Look up issues with SQL (specifically SQL Injection) Enjoy this [XKCD comic](http://xkcd.com/327/) for an amusing intro. What is it? Why is it a problem? What can newb programmers do to combat this issue? ##DBCSQLInject
+- Look up issues with SQL (specifically SQL Injection) Enjoy this [XKCD comic](http://xkcd.com/327/) for an amusing intro. What is it? Why is it a problem? What can newb programmers do to combat this issue? #DBCSQLInject
 
 - Compare SQL databases with NoSQL databases. What are the pros and cons of either? Which are you most excited to work with and why? #DBCNoSQL
 
