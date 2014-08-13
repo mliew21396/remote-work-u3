@@ -18,7 +18,7 @@ Come up with something that needs at least 2 tables.
 Using [SQL Designer](https://socrates.devbootcamp.com/sql), create a schema for your database. 
 
 ## Release 2: Add the schemas
-Follow the instructions from [4_intro_to_SQLite](../../../week_7/5-SQLite-revisited) to set up your database.
+Follow the instructions from [5 SQLite Revisited](../../../week-7/5-SQLite-revisited) to set up your database.
 
 ## Release 3: Join your tables
 Research connecting your tables to one another. 
