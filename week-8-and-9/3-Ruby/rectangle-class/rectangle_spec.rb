@@ -6,7 +6,7 @@ describe Rectangle do
 
   describe '#area' do
     it "is defined" do
-      expect(Rectangle.method_defined?(:area)).to be true
+      expect(Rectangle.method_defined?(:area)).to be_truthy
     end
 
     it "returns the correct area of a rectangle" do
@@ -20,7 +20,7 @@ describe Rectangle do
 
   describe '#perimeter' do
     it "is defined" do
-      expect(Rectangle.method_defined?(:perimeter)).to be true
+      expect(Rectangle.method_defined?(:perimeter)).to be_truthy
     end
 
     it "returns the correct perimeter of a rectangle" do
@@ -34,7 +34,7 @@ describe Rectangle do
 
   describe '#diagonal' do
     it "is defined" do
-      expect(Rectangle.method_defined?(:diagonal)).to be true
+      expect(Rectangle.method_defined?(:diagonal)).to be_truthy
     end
 
     it "returns the correct diagonal of a rectangle" do
@@ -48,15 +48,15 @@ describe Rectangle do
 
   describe '#square?' do
     it "is defined" do
-      expect(Rectangle.method_defined?(:square?)).to be true
+      expect(Rectangle.method_defined?(:square?)).to be_truthy
     end
 
     it "returns false for a rectangle" do
-      expect(rectangle.square?).to be_false
+      expect(rectangle.square?).to be_falsey
     end
 
     it "returns true for a square" do
-      expect(square.square?).to be true
+      expect(square.square?).to be_truthy
     end
   end
 end
