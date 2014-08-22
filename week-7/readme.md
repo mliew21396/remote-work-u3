@@ -7,15 +7,14 @@ If you aren't familiar with databases, please take some time to watch the videos
 Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/intro-gps-signup.md) to sign up.
 
 ## Challenges
-1. [SQL The Hard Way](1-SQL-hardway)
+1. [Designing Schemas](1-designing-schemas)
 2. [SQLZoo for SQL Queries](2-SQLzoo)
-3. [Designing Schemas](3-designing-schemas)
-4. [Modeling a One to Many Database - SOLO CHALLENGE](4-model-one-to-many-solo-challenge)
-5. [SQLite Revisited](5-SQLite-revisited)
-6. [Technical Blog](6-technical-blog.md)
-7. [Cultural Blog](7-cultural-blog.md)
-8. [GPS 3.1](8-gps3.1) **DO NOT LOOK UNTIL YOUR GUIDED PAIRING SESSION!**
-9. [BONUS: Using the SQLite Gem](9-BONUS-SQLite-gem)
+3. [Modeling a One to Many Database - SOLO CHALLENGE](3-model-one-to-many-solo-challenge)
+4. [Intro to SQLite](4-intro-to-SQLite)
+5. [Technical Blog](5-technical-blog.md)
+6. [Cultural Blog](6-cultural-blog.md)
+7. [GPS 3.1](7-gps3.1) **DO NOT LOOK UNTIL YOUR GUIDED PAIRING SESSION!**
+8. [BONUS Challenges](8-BONUS-challenges)
 
 ## Submitting your work
 **You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There is a "Unit 3 Week 7 Submission" form.**
