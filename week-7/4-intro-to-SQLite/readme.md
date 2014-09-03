@@ -8,7 +8,7 @@
 
 
 ## Summary
-You should already have SQLite installed from the first challenge this week. If you haven't done so yet, please do so. You'll need to do some research, however. We have not given you instructions because it is important to your growth as a developer that you can learn to do some of this on your own.
+You should already have SQLite installed from the [installation instructions](https://github.com/Devbootcamp/phase-0-unit-1/tree/master/week-1) from Unit 1. If you haven't done so yet, please do so.
 
 [SQLite](http://en.wikipedia.org/wiki/SQLite) is a simple relational database. Every database is a single file, which you can move around.
 
