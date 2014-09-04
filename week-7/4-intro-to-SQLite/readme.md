@@ -8,7 +8,7 @@
 
 
 ## Summary
-You should already have SQLite installed from the first challenge this week. If you haven't done so yet, please do so. You'll need to do some research, however. We have not given you instructions because it is important to your growth as a developer that you can learn to do some of this on your own.
+You should already have SQLite installed from the [installation instructions](https://github.com/Devbootcamp/phase-0-unit-1/tree/master/week-1) from Unit 1. If you haven't done so yet, please do so.
 
 [SQLite](http://en.wikipedia.org/wiki/SQLite) is a simple relational database. Every database is a single file, which you can move around.
 
@@ -103,7 +103,9 @@ Now try adding Kimmy to the database again, with the same data as above.  Did yo
 
 ## Release 3: Add a column
 
-Now add a column to the users table for "nicknames".  You'll need to use the `ALTER` statement. Make sure you add the correct type for the nickname `VARCHAR(64)` and that it is a mandatory field - ie `NOT NULL`. If you make a mistake, don't worry!  Just `.quit` out of SQLite, delete the `dummy.db` file and start over again.
+Now add a column to the users table for "nicknames".  You'll need to use the `ALTER` statement. Make sure you add the correct type for the nickname `VARCHAR(64)` and that it is a mandatory field - ie `NOT NULL`. *Note: Because you already have a few entries in your database, you will get an error if you immediately make the field mandatory because they can't be `NULL.` You'll need to think around this a bit.* 
+
+If you make a mistake, don't worry!  Just `.quit` out of SQLite, delete the `dummy.db` file and start over again.
 
 Make sure the schema was updated by typing `.schema`.  Your new `nickname` column should appear last.
 

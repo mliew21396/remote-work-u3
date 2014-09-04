@@ -16,7 +16,7 @@ In this challenge, you will design schemas to represent some basic database rela
 **NOTE:** In [SQL Designer](https://socrates.devbootcamp.com/sql), you'll notice that you can pick a "type" for each field.  For example, the birthday field should be a "date" type.  There's a core set of datatypes that all SQL-based databases support, but many have additional types. You can read more about that at [w3schools.com](http://www.w3schools.com/sql/sql_datatypes.asp) or on [Wikipedia](http://en.wikipedia.org/wiki/SQL#Data_types). For now, don't worry about using the perfect datatype (i.e. `varchar` vs. `text`), just use the one that colors it appropriately.
 
 ## Release 0: Watch
-In this challenge, you will dive in to SQL - Structured Query Language for databases. If you are new to SQL and databases, watch at least one of the videos listed on the [Week 7 Readme](../readme.md) to orient yourself to the topic of databases.
+In this challenge, you will dive in to SQL - Structured Query Language for databases. If you are new to SQL and databases, watch at least one of the videos listed on the [Week 7 Readme](../README.md) to orient yourself to the topic of databases.
 
 ## Release 1: Student Roster Schema
 Read through [1_student_roster](database_schemas/1_student_roster.md) in the [database_schemas](database_schemas) directory in this challenge. When you finish reading. Visit [SQL Designer](https://socrates.devbootcamp.com/sql) and recreate the <tt>students</tt> table in a schema format. Display the screenshot in your [my_solution.md](my_solution.md) file and commit your changes.

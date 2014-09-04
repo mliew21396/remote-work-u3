@@ -36,7 +36,7 @@ jQuery allows you to select elements by their id, class, tag name or other css s
 For example, the add the code `bodyElement = $('body')` to the `jquery_example.js` file and then in the Chrome DevTools Console type `bodyElement`.  This should show a jQuery object in the console.
 
 ### Release 2: Modify Elements with jQuery
-The jQuery [css method ]( http://api.jquery.com/css/) allows you to modify a selected elements css.  Use this to change the following css attributes on the `<h1>` element:
+The jQuery [css method ]( http://api.jquery.com/css/) allows you to modify a selected elements css.  Use this to change the following css attributes on the `<h1>` element in the body (not the `<h1>` element in the mascot div):
 
 1. color
 2. border
