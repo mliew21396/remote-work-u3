@@ -13,8 +13,9 @@ First, create a new HTML file named `week9_cultural_blog.html` in your [USERNAME
 Have you ever posted on the google+ community (or elsewhere) and didn't get the answer you needed? Were you frustrated by not receiving a response or did you review the question and consider why people weren't answering. Did you not give enough information? Was the question asked elsewhere? Was the question unclear? Learning how to ask good questions is a necessary skill for sucess as a developer. So take some time to research how to ask good questions.
 
 Here are a couple suggestions:
+
 -[How do I ask a good question?](http://stackoverflow.com/help/how-to-ask)
--[Writing the Perfect Question](http://msmvps.com/blogs/jon_skeet/archive/2010/08/29/writing-the-perfect-question.aspx)
+-[Writing the Perfect Question](http://web.archive.org/web/20140709094611/http://msmvps.com/blogs/jon_skeet/archive/2010/08/29/writing-the-perfect-question.aspx) *The blog post has been removed so we are using the internet archive to get the information*
 
 You may also want to research on asking good questions in person. Use the power of google.
 
