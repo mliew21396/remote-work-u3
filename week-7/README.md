@@ -45,4 +45,4 @@ Sometimes we will make changes to the original repository to clarify instruction
 - [VIDEO: Database Fundamentals](http://www.youtube.com/watch?v=xNJZYX6tpWU)
 - [VIDEO: Relational Database Concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
 - [READING: Relational Database Design](http://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
-- [VIDEO: SQL Joins](https://www.youtube.com/watch?v=sAhPEzRrZCA)
+- [VIDEO: SQL Joins](https://www.youtube.com/watch?v=8VNbUplDieE&src_vid=sAhPEzRrZCA&feature=iv&annotation_id=annotation_682908339)
