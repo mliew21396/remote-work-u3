@@ -6,7 +6,6 @@
 # 2. Pseudocode
 
 
-
 # 3. Initial Solution
 class Rectangle
   attr_accessor :width, :height
@@ -16,10 +15,7 @@ class Rectangle
     @height = height
   end
 
-  def ==(other)
-    (other.width  == self.width && other.height == self.height ) ||
-    (other.height == self.width && other.width  == self.height )
-  end
+
 end
 
 
@@ -39,4 +35,4 @@ end
 
 
 
-# 5. Reflection 
+# 5. Reflection
