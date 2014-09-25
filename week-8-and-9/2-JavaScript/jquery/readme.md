@@ -15,7 +15,11 @@ jQuery is a feature-rich JavaScript library. It makes things like HTML document 
 
 
 ## Releases
-### Release 0: Link your code
+
+## Release 0: Link the image
+The image isn't loading! You'll want to fix this so you can actually see the dbc_logo.jpg first. There is an image in the `imgs` directory in the `week-9-and-9` directory.
+
+## Release 1: Link your code
 This challenge directory contains two files, `jquery_example.html` and `jquery_example.js`.  Open both of these in Sublime for editing, and then open the  `jquery_example.html`  file in a Chrome Browser for viewing.  You should see a very simple web page.  If you open the Chrome DevTools Console tab (right click on the page and choose Inspect Element) you should see an error that looks like: 
 
 ```
@@ -30,12 +34,12 @@ This is because the `jquery_example.html` file contains a link to the `jquery_ex
 ```
 Now if you refresh the browser you should see the simple web page with a colored background. 
 
-### Release 1: Selecting Elements with jQuery
+## Release 2: Selecting Elements with jQuery
 jQuery allows you to select elements by their id, class, tag name or other css style selectors.  Use several different [jQuery Selectors](http://api.jquery.com/category/selectors/) to select the elements on this page.  Verify your selectors work by assigning them to a variable and then viewing this variable in the console.  
 
 For example, the add the code `bodyElement = $('body')` to the `jquery_example.js` file and then in the Chrome DevTools Console type `bodyElement`.  This should show a jQuery object in the console.
 
-### Release 2: Modify Elements with jQuery
+## Release 3: Modify Elements with jQuery
 The jQuery [css method ]( http://api.jquery.com/css/) allows you to modify a selected elements css.  Use this to change the following css attributes on the `<h1>` element in the body (not the `<h1>` element in the mascot div):
 
 1. color
@@ -44,7 +48,7 @@ The jQuery [css method ]( http://api.jquery.com/css/) allows you to modify a sel
 
 The jQuery `.html( ) ` method allows us to set and get the html of an element.  Use this method to change the text above the cohort mascot to be the name of YOUR COHORT MASCOT.
 
-### Release 3: Event Handlers
+## Release 4: Event Handlers
 jQuery has an `.on( )` method to register event handlers.  Let's use this to change the image on the page. 
 
 1. Find an image of your cohort animal mascot on the web. Copy the url of this image.  
@@ -59,7 +63,7 @@ jQuery has an `.on( )` method to register event handlers.  Let's use this to cha
 
 You may notice that this effect doesn't reload the original image when your mouse leaves the element.  Apply a [jQuery Event](http://api.jquery.com/category/events/) to show the original `dbc_logo.jpg`
 
-### Release 4: Have Some Fun
+## Release 5: Have Some Fun
 There are a lot of effects you can implement with jQuery.  Use the [jQuery Animate](http://api.jquery.com/animate/) method to animate the size and border of the mascot image.  
 
 ## Helpful Resources
