@@ -16,7 +16,7 @@ When you think of the times in your life where you’ve been the
 happiest, the proudest, or the most satisfied, which of the following
 values come to mind?
 
-Values| |
+Exploring | Your  | Values
 ------|-------|-----
 Accomplishment       | Accountability       | Achievement
 Activism             | Adventure            | Affection
