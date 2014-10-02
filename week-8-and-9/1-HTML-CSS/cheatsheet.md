@@ -40,8 +40,11 @@ Once you create the template, start adding your information. You can copy and pa
 ## Release 3: Implement your design
 Now that you have the HTML and content in your site, make it appealing using CSS (create a custom CSS file for this assignment). Have fun with it, but keep in mind it should also be an effective learning tool.
 
-## Release 4: Commit and Sync
+## Release 4: Commit and Push
 Link to your new Cheatsheet from the index of your github.io website. 
 
-##Optimize your learning: Compile!
+## Release 5: Promote!
+Share your cheatsheet with others on Twitter using **#DBCCheatsheet**.
+
+## Release 6: Compile (Optional)
 It's great to have all these handy cheat sheets, but wouldn't it be even better to have them handy in one place for Phase 1?  Compile your favorite cheat sheets and compile them into one website. What are the challenges that emerge from using different CSS stylesheets? Do you need to select one or can you use different sheets? Share the website with your fellow cohort-mates. 
