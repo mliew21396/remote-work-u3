@@ -53,7 +53,7 @@ Volunteering         | Wealth               | Will-power
 Wisdom               |[add any that I missed]|
 
 ## Release 2: Select a value
-Pick one value and write a couple of sentences about why one of the values you chose is important to you.
+Pick one or two values and write a couple of sentences about why they are important to you.
 
 ## Release 3: Values in your Life
 Answer the following for the values you chose in Exercise 1:
@@ -63,12 +63,14 @@ In general, I try to live up to these values:
 Disagree 1 ----- 2 ----- 3 ----- 4 ----- 5 Agree
 
 ## Release 4: Advice
-What was the last topic that someone asked for your advice on?
+What was the last topic that someone asked for your advice on? Does it relate to your values?
 
 ## Release 5: Values and Stereotype threat
-How do you feel when you think about your values? Do you think it can help you mediate stereotype threat if you recognize you feel it?
+Values can be a powerful way to negate stereotype threat if you can bring them to mind when you are under a threat. For this part, consider:
 
-Can you think of any other exercises you can use to help you when you are feeling down (for whatever reason) at DBC?
+- How do you feel when you think about your values?
+- Do you think it can help you mediate stereotype threat if you recognize you feel it?
+- Can you think of any mental or physical exercises you can use to help you when you are feeling down (for whatever reason) at DBC?
 
 ## Release 6: Publish
 Link to your blog on the index of your github.io site and push your changes.
