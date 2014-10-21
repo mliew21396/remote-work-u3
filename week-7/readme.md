@@ -1,48 +1,45 @@
-# Databases, SQL, and Schemas
+# Introduction to JavaScript
 
-You've played with classes quite a bit at this point. Have you ever thought of storing data about a specific thing, for example, songs and playlists in a database? Wouldn't that be a nice change? This week you get to start looking at SQL and database relationships.
+<!-- Please do not start week 7. We will release it with changes at least by the Friday before the week begins. -->
 
-If you aren't familiar with databases, please take some time to watch the videos listed in the resources (below) before working through the challenges.
 
-Make sure to attend GPS 3.1 this week! Follow the [instructions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/intro-gps-signup.md) to sign up.
+JavaScript is known as the "language of the web." It is a powerful object-oriented language (Ruby is as well). It is light-weight and can communicate with the browser. This week, we will introduce you to basic JavaScript syntax; we want you to feel comfortable with simple variables and functions.
+
+You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't worry if you feel like you will forget everything. You will have the chance to review in the last two weeks of Phase 0 and the weekend before you begin Phase 2. Moreover, professional programmers look up information and syntax all the time. They don't have everything memorized either, so think of this as an introduction. The more you use JavaScript the more you will remember. For our purposes here, we want you to learn basics so that you can easily re-learn them later.
+
+**You have an asynchronous group challenge this week. Take a look at it early so you don't get blind-sided.**
 
 ## Challenges
-1. [Designing Schemas](1-designing-schemas)
-2. [SQLZoo for SQL Queries](2-SQLzoo)
-3. [Modeling a One to Many Database - SOLO CHALLENGE](3-model-one-to-many-solo-challenge)
-4. [Intro to SQLite](4-intro-to-SQLite)
-5. [Technical Blog](5-technical-blog.md)
-6. [Cultural Blog](6-cultural-blog.md)
-7. [GPS 3.1](7-gps3.1) **DO NOT LOOK UNTIL YOUR GUIDED PAIRING SESSION!**
-8. [BONUS Challenges](8-BONUS-challenges)
+1. [Code Combat](1-code-combat)
+2. [Eloquent JavaScript](2-eloquent-js)
+3. [Javascript Variables and Objects](3-js-variables-objects)
+4. [Manipulating JavaScript Objects](4-manipulating-js-objects)
+5. [Design Your Own Code Combat Mission- SOLO CHALLENGE](5-design-cc-mission-solo-challenge)
+6. [Group Project](6-group-project) **Check this out early!**
+7. [Technical Blog](7-technical-blog.md)
+8. [Cultural Blog](8-cultural-blog.md)
+9. [GPS 3-1](9-gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
+
+## Remember your Unit Expectations!
+- Pair at least twice this week.  *You need to pair 6 times on your own this unit*
+- Give feedback for each person you paired with. *You need to submit at least 8 pieces of feedback in this unit* `{GPS: 2, peer_pairing: 6}`
+- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
 
 ## Submitting your work
-**You need to submit your work through on [apply.devbootcamp.com](http://apply.devbootcamp.com) by Sunday at 11:59pm. When you log in, look at your profile page. There is a "Unit 3 Week 7 Submission" form.**
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
+- The week's work is due each Sunday be 11:59pm.
 
-We use the submission form to gather feedback on our curriculum, so please answer the questions honestly to help us make the program better.
-
-## Remember your expectations for the unit!
-- Pair at least twice each week.  (You need to pair 6 times this unit).
-- Give feedback for each person you paired with. You need to submit at least 7 pieces of feedback in this unit. (6 for peer-pairing, and 1 GPS)
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) per week on Socrates. You need to rate 20 pieces of feedback per unit.
-
-## Fork this repo
-This week you will be storing your reflections in the challenge files in this repository.
-- Fork this (phase-0-unit-3) repository by clicking "Fork" at the top right of the page.
-- Enable "issues" under settings so others can give you feedback.
-- Open your GitHub desktop app. Find the `phase-0-unit-3` repository and click "clone to computer."
-
-## Fetching Changes
-Sometimes we will make changes to the original repository to clarify instructions. You will need to fetch these changes from the master branch when we announce changes on the google+ community. Use these instructions. Substitute phase-0-unit-3 for each instance of phase-0-unit-1 in the instructions.
+**If you do not finish by the deadline:**
+- Complete the week 7 extension request. (You only get to apply for extension for week 7)
+- When the work is complete, turn it in using the [week's submission form](http://apply.devbootcamp.com).
 
 
 ## Resources
-- [VIDEO: Database Basics](https://www.youtube.com/watch?v=oxuy4AP860g)
-- [SQL SELECT statements](https://www.youtube.com/watch?v=DDIAnk6CRsU)
-- [SQL Tutorial on w3schools.org](http://www.w3schools.com/sql/default.asp)
-- [Zetcode's SQLite Tutorial](http://zetcode.com/db/sqlite/)
-- [VIDEO: Databases and SQL - an introduction](http://www.youtube.com/watch?v=SVV7HjKmFY4)
-- [VIDEO: Database Fundamentals](http://www.youtube.com/watch?v=xNJZYX6tpWU)
-- [VIDEO: Relational Database Concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
-- [READING: Relational Database Design](http://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
-- [VIDEO: SQL Joins](https://www.youtube.com/watch?v=sAhPEzRrZCA)
+- [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Dev Bootcamp's JavaScript Lab Material](reading-material/javascript_intro_lab)
+- [JavaScript Object Types](reading-material/object_types.md)
+- [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) *A JavaScript reference guide for those new to programming*
+- [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) *This resource is better for students with some familiarity with JavaScript who want to know more about style and syntax.*
+- [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
+
+
