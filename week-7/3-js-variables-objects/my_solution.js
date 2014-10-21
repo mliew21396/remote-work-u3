@@ -87,4 +87,3 @@ assert(
   "The fourth element in the value of members should be 'Mary'.",
   "9. "
 )
-

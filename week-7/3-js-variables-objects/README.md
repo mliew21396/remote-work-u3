@@ -8,43 +8,23 @@
 - Use pre-written tests to drive development
 
 ## Summary
-Now that you have had a bit of fun with JavaScript in the [Code Combat](../2_code_combat)
-challenge, you will want to learn a bit more about how JavaScript works. Before working
-on this challenge, read through [object_types](../reading-material/object_types.md) and
-[JavaScript Intro](../reading-material/javascript_intro_lab). Make sure to practice as
-you go. You can open a new sublime file and run it in your terminal with node.js.
-This will help to solidify your knowledge. By the way, this would be a cool thing to pair on.
-If you read with your pair and practice as you go, you may learn the concepts a bit better.
-
-In this challenge you will be creating a series of variables. The values of the variables
-will be different types of JavaScript objects.
+Now that you have learned a bit about JavaScript, it's time to use that knowledge a bit more. In this challenge you will be creating a series of variables. The values of the variables will be different types of JavaScript objects. Since you already worked with variables a bit in the last challenge, this challenge should be a basic review.
 
 ## Release 0: Test-Driven Development
+If you look at the bottom of your [my_solution.js](my_solution.js) file, you'll see a function `assert`. These are tests that will help drive your development. In the Developer world, basing your code off of tests is called Test-Driven Development (TDD) and is popular with many developers. Read [The Newbie's Guide to Test-Driven Development](http://code.tutsplus.com/tutorials/the-newbies-guide-to-test-driven-development--net-13835) to learn more about TDD if you're interested.
 
-You will find test code at the bottom of your [my_solution.js](my_solution.js) file. Run the code in this file either from the command line
-using Node.js or by pasting the code of this entire file into your browser console. All tests will log `true` in the console when they pass--`false`, otherwise.
+The tests will tell you what code to write next. Run the code and read the message explaining why the code couldn't run or why the test failed. The first step is going be to make the first test pass. Then make the second test pass, and so on.
 
-The tests will tell you what to do next.  Run the code and read the message explaining
-why the code couldn't run or why the test failed.  The first step is going be to make
-the first test pass.  Then make the second test pass, and so on.
+## Release 1: Code it!
+When you encounter the errors, write the code to pass the tests. When it passes, repeat the process until there aren't any errors left.
 
 Hint: If you get an error message that says something like ...
 
 `ReferenceError: secretNumber is not defined`, try declaring a variable with that name (e.g., `secretNumber`).
 
-This is your first introduction to Test-Driven Development (TDD). In this challenge, you will be dependent upon the provided driver code to guide your coding. Read [The Newbie's Guide to Test-Driven Development](http://code.tutsplus.com/tutorials/the-newbies-guide-to-test-driven-development--net-13835) to learn more about TDD if you're interested.
+All tests will log `true` in the console when they pass--`false`, otherwise.
 
-## Release 1: Commit and push
-Now that you've done all this work, don't forget to push your changes to github using the command line!
+## Release 2: Commit and push
+Once you have added your code, push your solutions to GitHub.
 
-Make sure to edit line 1 to reflect whether you worked on the challenge on your own or with a pair. If you worked with a pair, make sure to put his/her name!
-
-## Release 2: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md).
-
-## Release 3: [Review others' Reflections/Solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
-
-Leave an issue telling the student what they did well and can do better next time with regard to the reflection. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
-
-
-
+## Release 3: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
