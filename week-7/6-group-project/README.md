@@ -1,5 +1,5 @@
 [Week 7 Home](../)
-# U3.W7: Code Telephone (group challenge)
+# U3.W7: Code Telephone (Group Challenge)
 
 ## Learning Competencies
 - Write easily implementable pseudocode based on tests
@@ -10,75 +10,63 @@
 - Collaborate with others to solve a problem
 
 ## Summary
-You will be required to work with others in your career as a developer, but you will not always know the large-goals or be responsible for implementing every part of the code. In this challenge, you are going to work with your accountability group to solve small challenges. Each person will have a specific role and you are not allowed to pass along any information outside of your particular responsibility. The roles are determined by the order in your accountability group spreadsheet. The first person will have the first role, second person the second, etc.
+You will be required to work with others in your career as a developer, but you will not always know the larger goals or be responsible for implementing every feature. In this challenge, you will work with your accountability group to solve a series of small challenges. Each person will have a specific role and you are not allowed to pass along any information outside of your particular responsibility. The roles are determined by the order in your accountability group spreadsheet. The first person will have the first role, second person the second, etc. The goal is to try to communicate effectively in your roles, but your group doesn't necessarily need to have a working solution.
 
 Most of this challenge will probably need to be done between Thursday and Sunday (so you feel comfortable with JavaScript before hand). Email your group to decide on a potential schedule.
 
-**Notes on this challenge**
- - If you are the first person, reach out to your accountability group to let them know when they should expect your solution. If you can't complete it by the middle of the week (Wed), the second person should be defaulted to the first person role, unless you are all in agreement to do it on a delayed schedule (as long as it's all in by Sunday).
- - If you have trouble getting into contact with people in your group, please contact the phase0@devbootcamp.com to inform us. It's really important that you have the participation of each person. See the graphics below for help knowing who you need to send your files to depending on the size of your accountability group. **Do NOT look at the tests if you are not person 1!
- - If you have a three person group, follow the graphic to see who should do which roles.
+If you have trouble getting into contact with people in your group, please contact <phase0@devbootcamp.com> to inform us. It's really important that each person participates. See the graphics below for help knowing who you need to send your files to depending on the size of your accountability group.
 
-## Release 0: Person 1
-### Translate tests into user stories
+**Do NOT look at the tests if you are not person 1!**
+
+If you have a three person group, follow the graphic to see who should do which roles.
+
+## Release 0: Translate Tests into User Stories (Person 1)
 
 Look at the `tests.js` file in this directory.
 
-**Rename your [my_solution.js](./my_solution.js) file to `gc1_user_stories.js`.**
+**Rename your [my_solution.js](./my_solution.js) file to `user_stories.js`.**
 
-**Based on the tests, write user stories that describe what the code needs to do in very specific terms.** User stories take the following format:
+Based on the tests, write user stories that describe what the code needs to do. User stories take the following format:
 
 As a user, I want to...
 
-Because you aren't working with users, you can omit the "As a user" part of the story, but make sure you are specific on the "I want to..."part. The user stories should be easily translated into pseudocode by the next person in your group.  However, a user story is *NOT* psuedocode -- it should describe the experience of someone *using* the function.  Words like `array` or `loop` or any word not known to a non-technical person should not be used.  In this case, you can specify the function name.
+The user stories should be easily translated into pseudocode by the next person in your group.  However, a user story is *NOT* pseudocode -- it should describe the experience of someone *using* the function.  Words like `array` or `loop` or any word not known to a non-technical person should not be used. You can specify the function name.
 
-**Email your `gc1_user_stories.js` URL (from your forked phase-0-unit-1 repo) to the next person in your group.**
+**Email your `user_stories.js` URL to the next person in your group.**
 
-## Release 1: Person 2
-### Translate user stories into [pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
-**Rename your [my_solution.js](./my_solution.js) file to `gc1_pseudocode.js`**
+## Release 1: Translate User Stories into [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)(Person 2)
+**Rename your [my_solution.js](./my_solution.js) file to `pseudocode.js`**
 
-Based on the user stories you receive from the first person, write pseudocode that can be easily implemented by the next person in your group.  Your psuedocode should be steps that specify at least 1 line of code.
+Based **only** on the user stories you received from the first person, pseudocode the logic you would need to implement each story. Your pseudocode should be small steps that can be easily translated into code.
 
-**Email the `gc1_pseudocode.js` URL (from your forked phase-0-unit-1 repo) (without the user stories) to the next person/people in your group.** You may not deviate from the user stories in your pseudocode.
+**Email the `pseudocode.js` URL without the user stories to the next person/people in your group.**
 
-## Release 2: Person 3
-### Translate Pseudocode into Code
-**Rename your [my_solution.js](./my_solution.js) file to  `gc1_initial_solution.js`**
+## Release 2: Translate Pseudocode into Code (Person 3)
+**Rename your [my_solution.js](./my_solution.js) file to  `initial_solution.js`**
 
-You will receive a file with pseudocode. Translate this pseudocode into code. You can choose to pair (if you are able) or work alone to translate the pseudocode into code. Do not deviate from the pseudocode given to you.
-When you finish your coding, make sure the code runs without any syntax errors. If the code is missing a step from the pseudocode, message the person ahead of you to tell them. They need to give you an updated file.
+When you receive a file with pseudocode, translate it into JavaScript. Do not deviate from the pseudocode given to you. When you finish, make sure the code runs without any syntax errors, and send your solution to the next person in your group (again based on the graphics below).
 
-When you are finished, send your solution to the next person in your group (again based on the graphics below).
+## Release 3: Refactor the Initial Solution (Person 4)
 
-**Person 4 will also do this in a five and six person group.**
+**Rename your [my_solution.js](./my_solution.js) file to `refactored.js`**
 
-## Release 3: Person 4
-### [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md) and translate
-**Rename your [my_solution.js](./my_solution.js) file to `gc1_refactored.js`**
+When you receive the `initial_solution.js` links, refactor it. Then translate each chunk back into user stories. You may not change the way the code works, even if it's broken. The inputs and outputs must stay the same. You will send your refactored code and user stories to the first person in the group.
 
-When you receive the `gc1_initial_solution.js` links, refactor it/them to make the code more clear. Then translate each into user stories. You may not change the way the code works, even if it's broken. The inputs and outputs must stay the same. You should clean up the internals of the method or the method/argument names. You will send your refactored code and your user stories to the first person in the group.
+## Release 4: Put it all together (Person 1)
 
-**Person 5 and 6 do this in a five or six person group**
+When the first person receives the refactored code from the last person, they need to run the code with the tests. Which tests pass? Which tests fail? Send a summary with the code and user stories you received to the rest of the group.
 
-## Release 4: Person 1
-### Put it all together
+## Release 5: Compile (Everyone)
 
-When the first person receives the refactored code from the last person, she/he needs to run the code with the tests. Which tests pass? Which tests fail? Send a summary with the and the final code you received to the rest of your group.
-
-For everyone: When you receive the summary email, send your repo link to the other students in your accountability group. Look at the two people who followed you (go to the top if you're at the bottom) and comment on each.
+When you receive the summary email from Person 1, send your repo link to the other students in your accountability group. Look at each person's solution and provide A.S.K. feedback to each person.
 
 ## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-In the reflection section of your formerly named 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md). Also answer the following:
+In the reflection section of your solution file, reflect on your learning. Also answer the following:
 - What was this experience like?
-- Was your group successful in passing the tests?
-- What did you learn about writing user stories, pseudocoding, writing code, refactoring, etc.?
+- Was your group successful in writing code that passed the tests?
+- What did you learn about the process of coding in a group?
 
-![3-person](/week-3/imgs/3-person.jpg)<br><br><br>
+![3-person.jpg](/week-3/imgs/3-person.jpg)<br><br><br>
 ![4_person.jpg](/week-3/imgs/4_person.jpg)<br><br><br>
 ![5_person.jpg](/week-3/imgs/5_person.jpg)<br><br><br>
 <!-- ![6_person.jpg](/week_3/imgs/6_person.jpg)<br><br><br> -->
-
-## Resources
-- JavaScript: [Object Syntax](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
-- Socrates JavaScript Labs: [Looping](https://socrates.devbootcamp.com/labs/javascript/loops/looping-basics)
