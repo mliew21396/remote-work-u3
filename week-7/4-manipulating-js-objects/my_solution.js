@@ -1,3 +1,5 @@
+ // U3.W7: Manipulating JavaScript Objects
+
 // I worked on this challenge: [by myself, with: ]
 
 
@@ -28,12 +30,12 @@ var terah = {
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+//
+//
+//
+//
+//
+//
 
 
 // __________________________________________

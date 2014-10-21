@@ -1,25 +1,25 @@
-# U3.W7: Build an Electronic Grocery List!
- 
+# U3.W7: Build an Electronic Grocery List! (in Ruby)
+
 # Your full names:
 # 1.
 # 2.
- 
+
 # User Stories (As many as you want. Delete the statements you don't need)
 # As a user, I want to
 # As a user, I want to
 # As a user, I want to
 # As a user, I want to
 # As a user, I want to
- 
+
 # Pseudocode
-# 
-# 
-# 
-# 
-# 
-# 
- 
- 
+#
+#
+#
+#
+#
+#
+
+
 # Your fabulous code goes here....
 
 
@@ -28,7 +28,6 @@
 
 
 
-# DRIVER CODE GOES HERE. 
- 
- 
- 
+# DRIVER CODE GOES HERE.
+
+

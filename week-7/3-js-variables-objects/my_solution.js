@@ -1,3 +1,5 @@
+ // U3.W7: JavaScript Variables and Objects
+
 // I paired [by myself, with:] on this challenge.
 
 // __________________________________________
@@ -11,13 +13,13 @@
 
 
 // __________________________________________
-// Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
-// 
-// 
+// Reflection: Use the reflection guidelines to write a reflection here.
+//
+//
+//
+//
+//
+//
 
 
 // __________________________________________
