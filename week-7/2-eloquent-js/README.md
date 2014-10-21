@@ -1,7 +1,6 @@
 [Week 7 Home](../)
 # U3.W7: Eloquent JavaScript
 
-
 ## Learning Competencies
 - Compare Ruby and JavaScript Syntax
 - Define local variables in JavaScript
@@ -10,19 +9,23 @@
 ## Summary
 This book comes highly recommended by our staff, so we're asking you to read through it and answer some questions before starting the next challenges.
 
-For each release, read the appropriate chapter and answer the questions in the [my_solution.md](my_solution.md) file. If you are less into writing, you can always record a video to include rather than text. It's up to you!
+For each release, read the appropriate chapter and answer the questions in the [javascript_notes.md](javascript_notes.md) file. If you are less into writing, you can always record a video to include rather than text. It's up to you!
+
+For the sections in [javascript_notes.md](javascript_notes.md) that ask you to solve a problem using JavaScript, write the code in [my_solution.js](my_solution.js) and run it in node unless prompted to do otherwise.
+
+## Releases:
 
 ## Release 0: [Introduction](http://eloquentjavascript.net/00_intro.html)
 
-## Release 1: [Ch. 1 Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
+## Release 1: [Ch. 1: Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
 
-## Release 2: [Ch. 2 Program Structure](http://eloquentjavascript.net/02_program_structure.html)
+## Release 2: [Ch. 2: Program Structure](http://eloquentjavascript.net/02_program_structure.html)
 
-## Release 3: [Ch. 3 Functions](http://eloquentjavascript.net/03_functions.html)
+## Release 3: [Ch. 3: Functions](http://eloquentjavascript.net/03_functions.html)
 
-Skip the sections on closure and recursion
+Skip the sections on closure and recursion.
 
-## Release 4: [Ch. 4 Data Structures: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
+## Release 4: [Ch. 4: Data Structures: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 
 You may skip the following sections:
 - The lycanthrope’s log
@@ -30,13 +33,6 @@ You may skip the following sections:
 - from Further Arrayology to The Global Object
 
 Read the chapter summary.
-
-
-
-## Release 5: Evaluate Code Combat
-Now that you know a little bit about JavaScript, go to the Taunt the Guards challenge on [Code Combat](http://codecombat.com/play/level/taunt-the-guards) and answer the questions in the [my_solution.js](my_solution.js)file.
-
-You can choose whether to complete the actual challenge or not.
 
 Now you should be ready to face the next challenges!
 

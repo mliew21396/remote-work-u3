@@ -2,7 +2,9 @@ U3.W7: Eloquent JavaScript
 
 I worked on this challenge [by myself, with:]
 
-##Release 0: Introduction
+You should complete any coding sections in the [my_solution.js](my_solution.js) file unless prompted to do so here. You can run the file using node. Similar to Ruby simply go to your terminal and type `node file_name.js`.
+
+## Release 0: Introduction
 
 - Did you learn anything new about JavaScript or programming in general?
 
@@ -10,8 +12,7 @@ I worked on this challenge [by myself, with:]
 
 ## Release 1: Chapter 1: Values, Types, and Operators
 
-- Identify 2 similarities and 2 differences between JavaScript and Ruby syntax with regard to numbers, arithematic, strings, booleans, and various operators you noticed.
-
+- Identify 2 similarities and 2 differences between JavaScript and Ruby syntax with regard to numbers, arithmetic, strings, booleans, and various operators you noticed.
 
 ## Release 2: Chapter 2: Program Structure
 
@@ -21,18 +22,13 @@ I worked on this challenge [by myself, with:]
 
 - What is the cause of a variable returning "undefined?"
 
-- Write your own variable and do something to it:
+- Write your own variable and do something to it in the [my_solution.js](my_solution.js) file.
 
-```javascript
-
-// Write your variable and expression here
-
-```
-
-- What does console.log do and when would you use it?
+- What does console.log do and when would you use it? What Ruby method is this similar to?
 
 - Write a program that asks for a user to input their favorite food. If they input a string, say: "Hey! That's my favorite too!" If they put something other than a string, return "I wouldn't eat that."
- (Test it out in the browser console. Node does not support the `prompt` function).
+
+Use the browser console to do this one. Node does not support the `prompt` function. Paste your solution in the box below.
 
 ```javascript
 
@@ -44,13 +40,8 @@ I worked on this challenge [by myself, with:]
 
 - Did you notice any other similarities or differences between Ruby and JavaScript in this section?
 
-- Complete at least one of the exercises (Looping a Triangle, FizzBuzz, or Chess Board below)
+- Complete at least one of the exercises (Looping a Triangle, FizzBuzz, or Chess Board) in the [my_solution.js](my_solution.js) file.
 
-```javascript
-
-// Your code here
-
-```
 
 ## Release 3: Functions
 
@@ -60,41 +51,16 @@ I worked on this challenge [by myself, with:]
 
 - What is a function declaration?
 
-- Complete the minimum exercise.
-
-```javascript
-
-// your code here
-
-```
-
-
+- Complete the `minimum` exercise in the [my_solution.js](my_solution.js) file.
 
 ## Release 4: Data Structures: Objects and Arrays
 
 - What is the difference between using a dot and bracket to look up a property? Ex. array.max vs. array[max]
 
-- Create an object called "me" that stores your name, age, 3 favorite foods, and a quirk below.
+- Create an object called "me" that stores your name, age, 3 favorite foods, and a quirk in your [my_solution.js](my_solution.js) file.
 
-```javascript
-
-// Your object here
-
-```
 
 - What object in Ruby is a JavaScript object with a name and value property similar to?
-
-## Release 5: Evaluate Code Combat
-
-- Hover over `this` in the planning/spell section. Think programming-wise rather than in terms of the game.
-
-- What kind of JavaScript thing are the spells? (don't list them out)
-
-- What does `say` need in order to be invoked? Write an example of calling the say method.
-
-```javascript
-
-// your fancy say invokation here
 
 ```
 
