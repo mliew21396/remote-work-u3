@@ -1,45 +1,43 @@
 [Week 7 Home](../)
 # U3.W7: Code Combat's Beginner Campaign
 
-
 ## Learning Competencies
 - Manipulate an object using JavaScript
+- Analyze how commands work using Object-Oriented principles
 - Explain what `()` does in JavaScript
 - Use error messages correct syntax mistakes
 
+## Summary
+Have you ever wanted to create a game that teaches people something? It's actually really challenging. In this challenge you will play two missions in [Code Combat](http://codecombat.com/play), an open-source project that aims to teach people JavaScript. You can determine for yourself whether it succeeds at its mission (and give their team feedback if you wish).
+
+## Releases
 
 ## Release 0: Beginner Campaign
-Visit [Code Combat](http://codecombat.com/play) and complete the first three missions in the beginner campaign using the steps below. These directions might seem tedious for something so simple, but it's important to get in the habit of going through these steps every time you work through a challenge.
+Visit [Code Combat](http://codecombat.com/play) and complete the first two missions in the beginner campaign.
 
-## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
-Write the title of each mission (as a comment) in your [my_solution.js](./my_solution.js) file.
+## Release 1: Consider the syntax
+Use the fundamentals you learned in Ruby to analyze what each command you typed does. What are you doing in these missions? Are you creating objects? Are you creating methods? Are you calling existing functions and methods?
 
-Write simple pseudocode for each challenge. For example, write something like:
+## Release 2: Analyze the syntax
+Can you break down each command to determine what it's doing? Select two to break down.
 
-```javascript
-// move right x2
-// move up 1x
-// ATTACK!
-```
+For Example, if you were to select `this.moveLeft();` you could writes something like:
 
-## Release 2: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
-Translate your pseudocode into code and see if it achieves your goals. If it doesn't quite work, modify it. Once you achieve each of the goals in each part, paste your successful code into your file.
+`this` is a/an .....
+`moveLeft` is a/an ....
+`();` does ...
+Combined, `this.moveLeft();` calls .... on ....
 
-Repeat releases 1 and 2 for each mission.
+Consider, If you were going to write your own code (in ruby) to do the same thing, would you have an idea of how to do that? (You don't need to do this, it's just something to think about.) Do you feel you have the tools with your Ruby tool belt to move something in the terminal? What about moving something on the DOM?
 
 ## Release 3: Answer the following questions
-When you are finished with all of the campaigns, answer the following questions. You may want to look at some resources on JavaScript before answering.
+When you are finished with the two campaigns, answer the following questions. You may want to look at some resources on JavaScript before answering.
   - What is `this` referring to? Think programming-wise rather than in the terms of the game.
   - What does the `()` do in JavaScript?
   - What is the point of the semicolons?
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md).
+In the reflection section of your 'my_solution.js` file, reflect on this experience. Do you think the game succeeds at its mission to teach JavaScript? What does it do well? What does it not do well? Were you able to use your Ruby knowledge to break down two of the commands effectively?
 
 ## Release 5: Give Code Combat Feedback (Optional)
-So the people who developed Code Combat are personal friends of mine, and they are working hard to make Code Combat better. But they are the first to admit it's not perfect. Now that you've had a bit of experience with their site, give them feedback on it! George requests you email feedback directly to him at <George@codecombat.com>. Practice your feedback skills by making it actionable, specific, and kind. Giving feedback on sites is a great way to engage with the larger tech community if the recipients desire it, so be generous! Oh, and you might want to introduce yourself as a Dev Bootcamp student.
-
-
-
-
-
+The developers at Code Combat are personal friends of mine, and they are working hard to make Code Combat better. But they are the first to admit it's not perfect. Now that you've had a bit of experience with their site, give them feedback on it! George requests you email feedback directly to him at <George@codecombat.com>. Practice your feedback skills by making it actionable, specific, and kind. Giving feedback on sites is a great way to engage with the larger tech community if the recipients desire it (and in this case they do), so be generous! You might want to introduce yourself as a Dev Bootcamp student.
