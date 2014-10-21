@@ -6,8 +6,9 @@
 - Create, add properties to, delete properties from, and access values from JavaScript Object literals
 - Use pre-written tests to drive development
 
+## Summary
 
-In this challenge you will work with the following JavaScript object that has been assigned to the variable terah.
+In this challenge you will work with the following JavaScript object that has been assigned to the variable `terah`. You will have to complete each task without modifying the object itself. That means everything must be done outside of the curly braces.
 
 ```javascript
 var terah = {
@@ -20,55 +21,50 @@ var terah = {
 }
 ```
 
+Releases
+
 ## Release 0: Run the tests
-You will find test code in the [my_solution.js](./my_solution.js) file associated with this challenge. Run the code either
-from the command line using Node.js or by pasting the code of this
-entire file into your browser console.  All tests will log `true`
-in the console when they pass--`false`, otherwise.
+You will find test code in the [my_solution.js](./my_solution.js) file associated with this challenge. Run the code either from the command line using Node.js. All tests will log `true` in the console when they pass--`false`, otherwise.
 
-## Release 1: [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
-Turn your pseudocode into code by translating each step into code until the test passes.
-
+## Release 1: Pass the Tests
 You'll want to follow the outline below. Note that each step should build on but not modify any of the code before it.
 
-1. Define a variable adam and use object literal notation to assign this variable
-   the value of a JavaScript Object with no properties.
+1. Define a variable `adam` and use object literal notation to assign this variable
+ the value of a JavaScript Object with no properties.
 
-2. Give adam a name property with the value "Adam".
+2. Give `adam` a name property with the value "Adam".
 
-3. Add a spouse property to terah and assign it the value of adam.
+3. Add a spouse property to `terah` and assign it the value of `adam`.
 
-4. Change the value of the terah weight property to 125.
+4. Change the value of the `terah` weight property to 125.
 
-5. Remove the eyeColor property from terah.
+5. Remove the eyeColor property from `terah`.
 
-6. Add a spouse property to adam and assign it the value of terah.
+6. Add a spouse property to `adam` and assign it the value of `terah`.
 
-7. Add a children property to terah and and use object literal notation to assign
-   this variable the value of a JavaScript Object object with no properties
+7. Add a children property to `terah` and and use object literal notation to assign
+ this variable the value of a JavaScript Object object with no properties.
 
-8. Add a carson property to the value of the terah children property and assign it
-  the value of an object with the property name with a value of "Carson".
+8. Add a `carson` property to the value of the `terah` children property and assign it
+ the value of an object with the property name with a value of "Carson".
 
-9. Add a carter property to the value of the terah children property and assign it
-   the value of an object with the property name with a value of "Carter".
+9. Add a carter property to the value of the `terah` children property and assign it
+ the value of an object with the property name with a value of "Carter".
 
-10. Add a colton property to the value of the terah children property and assign it
-    the value of an object with the property name with a value of "Colton".
+10. Add a `colton` property to the value of the `terah` children property and assign it
+ the value of an object with the property name with a value of "Colton".
 
-11. Add a children property to adam and assign it the value of terah children.
+11. Add a children property to `adam` and assign it the value of `terah` children.
 
 Follow the steps below to make the tests pass and complete the challenge.
-The order of the steps corresponds to the order of the tests.  After completing
+The order of the steps corresponds to the order of the tests. After completing
 each step, run your code to be certain that the next test has passed.
 
 When all of the tests have passed, your final `terah` object will be logged to the console.
 
 ## Release 2: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md).
 
 ## Release 3: Commit and push your changes!
-Make sure to put everything (pseudocode, initial solution, and reflection) in your [my_solution.js](./my_solution.js) file and push your changes with your repo on github!
 
-## Release 4: [Review other's solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
+## Release 4: [Review other's solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) **Mandatory**
 Were there differences in the way you implemented the code based on the tests? Leave an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).

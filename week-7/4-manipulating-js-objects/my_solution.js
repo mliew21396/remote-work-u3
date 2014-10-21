@@ -2,11 +2,9 @@
 
 // I worked on this challenge: [by myself, with: ]
 
-
 // There is a section below where you will write your code.
-// Do not alter this object here.
 
-
+// DO NOT ALTER THIS OBJECT BY ADDING ANYTHING WITHIN THE CURLY BRACES!
 var terah = {
   name: "Terah",
   age: 32,
@@ -15,9 +13,6 @@ var terah = {
   hairColor: "brown",
   eyeColor: "brown"
 }
-
-
-
 // __________________________________________
 // Write your code below.
 
