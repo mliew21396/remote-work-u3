@@ -9,7 +9,7 @@
 - Create, add properties to, delete properties from, and access values from JavaScript Object literals
 
 ## Summary:
-Find a ruby challenge you particularly enjoyed. Then solve it again using JavaScript. 
+Find a Ruby challenge you particularly enjoyed. Then solve it again using JavaScript.
 
 ## Release 0: Write your Tests
 Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) in JS!

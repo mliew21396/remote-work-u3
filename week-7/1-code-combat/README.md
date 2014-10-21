@@ -28,7 +28,7 @@ For Example, if you were to select `this.moveLeft();` you could writes something
 `();` does ...
 Combined, `this.moveLeft();` calls .... on ....
 
-Consider, If you were going to write your own code (in ruby) to do the same thing, would you have an idea of how to do that? (You don't need to do this, it's just something to think about.) Do you feel you have the tools with your Ruby tool belt to move something in the terminal? What about moving something on the DOM?
+Consider, If you were going to write your own code (in Ruby) to do the same thing, would you have an idea of how to do that? (You don't need to do this, it's just something to think about.) Do you feel you have the tools with your Ruby tool belt to move something in the terminal? What about moving something on the DOM?
 
 ## Release 3: Answer the following questions
 When you are finished with the two campaigns, answer the following questions. You may want to look at some resources on JavaScript before answering.
