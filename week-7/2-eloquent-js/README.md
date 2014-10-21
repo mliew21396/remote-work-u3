@@ -39,9 +39,3 @@ Now you should be ready to face the next challenges!
 If you want to continue reading this book, we have no problem with that. You can even work through the exercises, but this is the end of what you will need for this week. Work to get a basic understanding of JavaScript fundamentals before you go deeper into the book.
 
 ## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-
-
-
-
-
