@@ -1,37 +1,37 @@
 [Week 7 Home](../)
-# U3.W7: Design Your Own Code Combat Mission SOLO CHALLENGE
-
-**This is a solo challenge. Refer to the [solo challenge](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) guidelines.**
+# U3.W7: Design Your Own Code Combat Mission [SOLO CHALLENGE](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md)
 
 ## Learning Competencies
 - Define local variables in JavaScript
 - Create, add properties to, delete properties from, and access property values of JavaScript Object literals
 - BONUS: Integrate HTML, CSS, and JavaScript to display and manipulate objects
 
-
 ## Summary
-You now have some practice with JavaScript so let's get creative with it. In this challenge, **you are not expected to create a real, working mission on codecombat.com**, rather, we want you to have fun designing a simple mission and creating some basic objects and functions to manipulate those objects. You don't need to visit Code Combat to do this, just write out your solution in the `my_solution.js` file. The end is up to you.
+You now have some practice with JavaScript so it's time to get creative. In this challenge, **you are not expected to create a real, working mission on Code Combat's website**, rather, we want you to have fun designing a simple mission and creating some basic objects and functions to manipulate those objects. You don't need to visit Code Combat to do this, just write out your solution in the `my_solution.js` file.
 
-This is an open-ended challenge so there are a lot of things you can do with it (and ways to make it really hard or farily simple). It's up to you to decide how much detail you want to go in to. If you are having fun, keep working and solidifying your understanding of JavaScript concepts. If you're bored and feel like you've gotten enough out of it after writing a few objects and functions that work together, consider yourself done. That said, make sure you go through the workflow and complete each release.
+This is an open-ended challenge so there are a lot of things you can do with it (and ways to make it really hard or fairly simple). It's up to you to decide how much detail you want to go in to. If you are having fun, keep working and solidifying your understanding of JavaScript concepts. If you're bored and feel like you've gotten enough out of it after writing a few objects and functions that work together, consider yourself done. That said, make sure you go through the work flow and complete each release.
 
 In order to fully complete the challenge, you will need to:
 - Create at least 2 objects with properties
 - Create at least 2 functions that interact with those objects by adding or modifying the object's properties
-- Call the functions (invoke the function)
+- Call the functions (invoke the function) **make sure the output is actually what you expect!**
 
-Click [here](http://kiopelani.github.io/Projects/orpheus_game.html) to see one student's bonus solution to the challenge.
+You should use time-management strategies to keep yourself on task and motivated. Check in with yourself often. This can be a simple challenge if you design it that way, or you could build an elaborate world. Keep it simple at first. You can always add on later.
+
+Click [here](http://kiopelani.github.io/Projects/orpheus_game.html) to see one student's bonus solution to the challenge. You don't have to go this in depth, but it's a great example of student creativity.
 
 ## Release 0: Design your Mission
 
-Remember how Code Combat had goals to complete a mission? Visible at the top left of each challenge?
+Remember how Code Combat had goals to complete a mission? They were visible at the top left of each challenge. Keep the goals and overall mission simple.
 
 ![Mission goals](../imgs/cc-mission.png)
 
 Write an outline of your overall mission and goals to complete your mission as comments in your [my_solution.js](my_solution.js) file.
 
 Then consider:
-- Who are the main characters in your mission? Write a bit about them. What properties do they have? HINT: You should probably have a protagonist (and maybe an antagonist). You can actually see what the code combat objects are if you hover over "this." In the image below, we can see the current information for Tharin. Identify the characters (objects) you'll need to create as comments.
-- Consider other objects you need. Do you need a sword? What about a cannon, death ray, magic seeds, etc. Write those as comments as well.
+- Who are the main characters in your mission? What properties do they have? Write these as comments in the description section.
+  You will probably want a protagonist and perhaps an antagonist. (If you look to Code Combat for an example, you can see an Objects properties when you hover over `this`. In the image below, you can see the current information for Tharin.)
+- Consider any other objects you need. Do you need a sword? What about a cannon, death ray, gold, magic seeds, etc. Write those as comments in the description section as well.
 
 ![objects](../imgs/cc-objects.png)
 
@@ -43,15 +43,15 @@ You can also view the functions or get documentation on them in Code Combat:
 
 ## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-Pseudocode your objects and functions. Write these in plain english and save them as comments.
+Pseudocode your objects and functions. Write these in plain English and save them as comments.
 
 *NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
 
 ## Release 2: Write your [initial code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-Your functions don't have to actually create movement on the screen (unless you want them to), but think about how to pass information between objects using functions. Think about what information the functions need to have access to in order to work.
+Your functions don't have to actually create movement on the screen (unless you want them to), but think about how to pass information between objects using functions. Think about what information the functions need to have access to. You'll also need to think about how you will model behavior using code.
 
-If you are doing something like, collecting gold, then you would need to have gold objects, a bag object, and a way to put gold into your bag, as well as a way to see how much gold you have.
+For example, if your mission is to collect gold, then you would need to have gold objects, a bag object, and a way to put gold into your bag, as well as a way to see how much gold you have.
 
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 

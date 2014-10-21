@@ -3,9 +3,11 @@
 // This is a solo challenge
 
 // Your mission description:
-//
-//
-//
+// Overall mission:
+// Goals:
+// Characters:
+// Objects:
+// Functions:
 
 // Pseudocode
 //
