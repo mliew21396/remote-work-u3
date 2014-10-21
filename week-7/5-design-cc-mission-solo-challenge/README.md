@@ -60,7 +60,4 @@ For example, if your mission is to collect gold, then you would need to have gol
 ## Release 5: Manipulate objects on the DOM (Optional)
 Add your JavaScript objects to an HTML page. Use CSS to make it pretty. What about ascii art? Then look up how to manipulate objects on a page with JavaScript using your functions...
 
-Avoid JQuery for now. You may want to check out the [JavaScript - HTML DOM Methods](http://www.w3schools.com/js/js_htmldom_methods.asp) for some help.
-
-
-
+Avoid JQuery for now. You may want to check out the [W3 Schools JavaScript Intro](http://www.w3schools.com/js/js_intro.asp) or [JavaScript - HTML DOM Methods](http://www.w3schools.com/js/js_htmldom_methods.asp) for help.
