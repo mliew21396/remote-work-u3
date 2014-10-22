@@ -4,10 +4,13 @@
 
 ## Learning Competencies
 - Identify values that are important to you
-- Explain how you will use affirmation to help you succeed.
+- Explain how to use affirmation to help you succeed
+
+## Summary
+Last week you learned about Stereotype Threat. One of the antidotes identified by Claude M. Steele in his book is affirmation. In this blog you will identify values that are important to you and consider how your values may help you combat Stereotype Threat at Dev Bootcamp.
 
 ## Release 0: Copy your Blog Template
-In your blog-posts directory on your [USERNAME].github.io repository, copy your blog tempate into a new HTML file named `week7_cultural.html`.
+In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c7-oop-concepts.html`.
 
 Once you've created your file, write a response to each exercise using the HTML you've learned to set up the file:
 
@@ -40,7 +43,7 @@ Leadership           | Location             | Loyalty
 Meaningful work      | Mentorship           | Merit
 Money                | Movement             | Music
 Nature               | Openness             | Order
-Patriotism           | Peace                | Persistance
+Patriotism           | Peace                | Persistence
 Personal development | Physical challenge   | Pleasure
 Power and authority  | Privacy              | Public service
 Purity               | Quality              | Recognition
