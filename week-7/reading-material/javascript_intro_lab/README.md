@@ -14,4 +14,4 @@ Click [here](1_numbers.md) to start.
 
 [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript/): probably the best online reference for all things JavaScript. <br>
 [Stack Overflow](http://stackoverflow.com/questions/tagged/javascript): always a good source for specific, practical questions. <br>
-[Codecademy](http://www.codecademy.com/): not as heavy on the explanation side, but there are some decent tutorials to peruse if you feel like stretching your JS muscles a little further.
+[Codecademy](http://www.codecademy.com/): not as heavy on the explanation side, but there are some decent tutorials to peruse if you feel like stretching your JavaScript muscles a little further.
