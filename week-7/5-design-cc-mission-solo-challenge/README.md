@@ -14,7 +14,7 @@ This is an open-ended challenge so there are a lot of things you can do with it 
 In order to fully complete the challenge, you will need to:
 - Create at least 2 objects with properties
 - Create at least 2 functions that interact with those objects by adding or modifying the object's properties
-- Call the functions (invoke the function) **make sure the output is actually what you expect!**
+- Call the functions (invoke the function) **Make sure the output is actually what you expect!**
 
 You should use time-management strategies to keep yourself on task and motivated. Check in with yourself often. This can be a simple challenge if you design it that way, or you could build an elaborate world. Keep it simple at first. You can always add on later.
 
