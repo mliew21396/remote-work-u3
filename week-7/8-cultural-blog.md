@@ -12,7 +12,7 @@ Last week you learned about Stereotype Threat. One of the antidotes identified b
 ## Release 0: Copy your Blog Template
 In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c7-oop-concepts.html`.
 
-Once you've created your file, write a response to each exercise using the HTML you've learned to set up the file:
+Once you've created your file, write a response to each exercise using the HTML you've learned to set up the file.
 
 ## Release 1: Exploring your values
 When you think of the times in your life where you’ve been the
