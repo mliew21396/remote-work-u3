@@ -40,7 +40,7 @@ You may have noticed that if you use `/` with integers that are not evenly divis
 
 JavaScript also supports the modulus operator `%` which returns the remainder of a division operation.
 
-In addition to the usual operators, JavaScript also has a set of methods that can be called on any kind of number numbers.  You can see a list of all of these methods on the [Number page of the MDN reference](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Number).
+In addition to the usual operators, JavaScript also has a set of methods that can be called on any kind of numbers.  You can see a list of all of these methods on the [number page of the MDN reference](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Number).
 
 If you want to divide two integers and get an integer result (as you would in Ruby), you have to use the Math object's `floor` method. For example, if you want to write 391 seconds as "6 minutes and 31 seconds", you'd run:
 
