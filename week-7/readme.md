@@ -21,7 +21,7 @@ This week focuses on the basics of the JavaScript language. You will have more a
 
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
-- The week's work is due each Sunday be 11:59pm.
+- The week's work is due each Sunday by 11:59pm.
 
 **If you do not finish by the deadline:**
 - Complete the week 7 extension request. (You only get to apply for an extension for week 7 in Unit 3).
@@ -29,7 +29,7 @@ This week focuses on the basics of the JavaScript language. You will have more a
 
 ## Remember your Unit Expectations!
 - Pair at least twice this week.  *You need to pair 6 times on your own this unit*
-- Give feedback for each person you paired with. *You need to submit at least 8 pieces of feedback in this unit* `{GPS: 2, peer_pairing: 6}`
+- Give feedback for each person you paired with. *You need to submit at least 8 pieces of feedback in this unit* `{GPS: 2, peer-pairing: 6}`
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
 
 ## Resources
