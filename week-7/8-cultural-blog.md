@@ -57,7 +57,7 @@ Wisdom               |[add any that I missed]|
 
 
 ## Release 2: Select a value
-Pick one value and write a couple of sentences about why one of the values you chose is important to you.
+Pick one value and write a couple of sentences about why the value you chose is important to you.
 
 ## Release 3: Values in your Life
 Answer the following for the values you chose in Exercise 1:
