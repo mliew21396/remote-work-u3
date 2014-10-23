@@ -66,7 +66,7 @@ In the reflection section of your solution file, reflect on your learning. Also 
 - Was your group successful in writing code that passed the tests?
 - What did you learn about the process of coding in a group?
 
-![3-person.jpg](/week-3/imgs/3-person.jpg)<br><br><br>
-![4_person.jpg](/week-3/imgs/4_person.jpg)<br><br><br>
-![5_person.jpg](/week-3/imgs/5_person.jpg)<br><br><br>
+![3-person.jpg](/week-7/imgs/3-person.jpg)<br><br><br>
+![4_person.jpg](/week-7/imgs/4_person.jpg)<br><br><br>
+![5_person.jpg](/week-7/imgs/5_person.jpg)<br><br><br>
 <!-- ![6_person.jpg](/week_3/imgs/6_person.jpg)<br><br><br> -->
