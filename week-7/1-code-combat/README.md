@@ -23,10 +23,10 @@ Can you break down each command to determine what it's doing? Select two to brea
 
 For Example, if you were to select `this.moveLeft();` you could writes something like:
 
-`this` is a/an .....
-`moveLeft` is a/an ....
-`();` does ...
-Combined, `this.moveLeft();` calls .... on ....
+`this` is a/an ..... <br>
+`moveLeft` is a/an ....<br>
+`();` does ...<br>
+Combined, `this.moveLeft();` calls .... on ....<br>
 
 Consider, if you were going to write your own code (in Ruby) to do the same thing, would you have an idea of how to do that? (You don't need to do this, it's just something to think about.) Do you feel you have the tools with your Ruby tool belt to move something in the terminal? What about moving something on the DOM?
 
