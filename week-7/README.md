@@ -19,8 +19,12 @@ This week focuses on the basics of the JavaScript language. You will have more a
 8. [Cultural Blog](8-cultural-blog.md)
 9. [GPS 3-1](9-gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
 
+Note: There are no bonus challenges this week. Look to previous bonus challenges for additional work, or go crazy with the optional release in the solo challenge.
+
+This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W7.** Only other DBC students can actually see your repositories because they are private.
+
 ## Submitting your work
-- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due each Sunday by 11:59pm.
 
 **If you do not finish by the deadline:**
