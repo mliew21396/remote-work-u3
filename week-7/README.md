@@ -20,7 +20,7 @@ This week focuses on the basics of the JavaScript language. You will have more a
 9. [GPS 3-1](9-gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
 
 ## Submitting your work
-- You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to "turn in" your work.
 - The week's work is due each Sunday by 11:59pm.
 
 **If you do not finish by the deadline:**

@@ -13,7 +13,7 @@ First, create a new HTML file named `week8_cultural_blog.html` in your [USERNAME
 ## Release 1: Research Compass of Shame
 Remember the [compass of shame](http://southdown.on.ca/publications/articles/Compass-of-Shame.pdf)? Oftentimes when we have a conflict with someone we use one of our strategies for dealing with shame.
 
-Conduct some research on strategies for identifying the sources for conflict then discuss a time you had a conflict in your life. Identify the reason you had the conflict and whether your actions made it better or worse.
+Conduct some research on strategies for identifying the sources for conflict then discuss a time you had a conflict in your life. Identify the reason you had the conflict and whether your actions made it better or worse. You don't have to pick the most intense emotional conflict, choose one you are ok sharing with others.
 
 ## Release 2: Blog
 

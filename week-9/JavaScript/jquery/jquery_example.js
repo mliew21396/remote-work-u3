@@ -1,23 +1,27 @@
 $(document).ready(function(){
  
 //RELEASE 0: 
+  //link the image
+ 
+//RELEASE 1:
+
   //Link this script and the jQuery library to the jquery_example.html file and analyze what this code does. 
  
 $('body').css({'background-color': 'pink'})
- 
-//RELEASE 1:
+
+//RELEASE 2:
   //Add code here to select elements of the DOM 
  
  
-//RELEASE 2: 
+//RELEASE 3: 
   // Add code here to modify the css and html of DOM elements
  
  
-//RELEASE 3: Event Listener
+//RELEASE 4: Event Listener
   // Add the code for the event listener here 
  
  
-//RELEASE 4 : Experiment on your own
+//RELEASE 5: Experiment on your own
  
  
  

@@ -14,7 +14,7 @@ Your program will create arrays of student data, and compute the average scores 
 
 ## Release 0: Create an Array of Students
 
-Create an array `students` with 5 Students.** Each student should be assigned a `first_name`, and 5 test scores (scores are between 0 and 100) when it is created. The first Student should be named `"Alex"` with scores `[100,100,100,0,100]`. Once you've done this properly, release 0 tests should pass.
+Create an array `students` with 5 Student objects (HINT: You'll need to create the student objects first). Each student should be assigned a `first_name`, and 5 test scores (scores are between 0 and 100) when it is created. The first Student should be named `"Alex"` with scores `[100,100,100,0,100]`. Once you've done this properly, release 0 tests should pass.
 
 ## Release 1: Average Scores
 Compute and assign a score average and a letter grade to each student.Letter grades are based on the average (A for >=90%, B for >=80%, C for >= 70%, D for >= 60% and F for < 60%). 
