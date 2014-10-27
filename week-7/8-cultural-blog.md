@@ -10,7 +10,7 @@
 Last week you learned about Stereotype Threat. One of the antidotes identified by Claude M. Steele in his book is affirmation. In this blog you will identify values that are important to you and consider how your values may help you combat Stereotype Threat at Dev Bootcamp.
 
 ## Release 0: Copy your Blog Template
-In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c7-oop-concepts.html`.
+In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c7-values.html`.
 
 Once you've created your file, write a response to each exercise using the HTML you've learned to set up the file.
 
