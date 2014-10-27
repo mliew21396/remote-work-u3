@@ -9,7 +9,7 @@
 You've spent four weeks learning Ruby and getting to know its powerful built-in methods. How was your experience learning JavaScript?
 
 ## Release 0: Create your file
-In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `t6-JavaScript.html`.
+In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `t7-JavaScript.html`.
 
 ## Release 1: Compare
 Identify one fundamental difference between how Ruby and JavaScript do something, and teach your audience about it. There are many ways you can look at this. Here are some ideas:
