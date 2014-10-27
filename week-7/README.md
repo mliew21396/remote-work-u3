@@ -17,7 +17,7 @@ This week focuses on the basics of the JavaScript language. You will have more a
 6. [Group Project](6-group-project) **Check this out early!**
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
-9. [GPS 3-1](9-gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
+9. [GPS 3.1](9-gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
 
 Note: There are no bonus challenges this week. Look to previous bonus challenges for additional work, or go crazy with the optional release in the solo challenge.
 
