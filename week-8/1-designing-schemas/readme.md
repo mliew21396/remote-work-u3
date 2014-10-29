@@ -137,16 +137,17 @@ You'll want to look up commands for each of the challenges using the [SQL Tutori
 If you want to see what the correct output looks like for each, you can look at the [answers.md](answers.md) file. NOTE: some of the state names are cut off in the answers. Don't worry about that.
 
 Create SQL Queries for the following:
+
 1. Select all data for all states
 2. Select all data for the regions
 3. Select the `state_name` and `population` for all states.
 4. Select the `state_name` and `population` for all states ordered by population. The most populous state should be at the top.
-5. Select the 'state_name's for the states in region 7.
-6. Select the 'state_names' and 'population_density' with a population density over 50 ordered from least to most dense.
-7. Select all state_names for states with a population between 1 million and 1.5 million people.
-8. Select all state_names and region_id ordered by region in ascending order.
-9. Select the 'region_name' for the regions with "Central" in the name.
-10. Select all of the region names and the state names in ascending order by regional id. Refer to the region by name. (This will involve joining the tables).
+5. Select the `state_names` for the states in region 7.
+6. Select the `state_names` and `population_density` with a population density over 50 ordered from least to most dense.
+7. Select all `state_names` for states with a population between 1 million and 1.5 million people.
+8. Select all `state_names` and `region_id` ordered by region in ascending order.
+9. Select the `region_name` for the regions with "Central" in the name.
+10. Select all of the `region_name`s and the `state_name`s in ascending order by `region_id`. Refer to the region by name. (This will involve joining the tables).
 
 
 ## Release 2: One to Many Schema
