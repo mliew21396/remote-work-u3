@@ -2,7 +2,6 @@
 
 #### I worked on this challenge [by myself, with: ]
 
-
 ## Release 4: SQL Queries
 
 Paste the correct SQL queries for each of the following challenges below. There is a screen shot associated with each challenge. You should make sure your query matches the screen shot before moving on.
@@ -56,6 +55,9 @@ Paste the correct SQL queries for each of the following challenges below. There 
   ![join](10-join)
 
   SQL Query:
+
+## Release 4: `persons` and `outfits` Schema
+<!-- Include a link to your schema design here -->
 
 
 ## Release 5: Reflection

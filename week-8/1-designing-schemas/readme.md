@@ -3,9 +3,9 @@
 # U3.W7: Introduction to Databases
 
 ## Learning Competencies
--
--
--
+- Identify a one-to-many relationship
+- Create SQL queries to access data in a database
+- Design a one-to-many schema
 
 ## Summary
 You have been building programs that need to store data. Up to this point you have been storing data in data structures, probably in either `array`s or `hash`es. In reality, most applications do not store data this way. Imagine Facebook storing its users' information in one data structure. It would be massive, difficult to navigate, and the site would take a really long time to load. Instead, information is often stored in a database. Depending on the data you want to collect and use and its relationship to one another, databases can get pretty complex. In this challenge, you will learn a bit about databases and a one-to-many relationship.
@@ -101,7 +101,7 @@ id | region_name |
 
 As you can see, the region is referred to by its `id` in the `states` table rather than by its name. That is because it is faster for the computer to search for numbers rather than strings.
 
-Release 2: Schema Design
+## Release 2: Schema Design
 When designing a database, it is a good idea to draw out a design where you identify the table and field (column) names.
 
 For the VirusPredictor example, the two tables would be represented like this:
@@ -127,14 +127,14 @@ As you can see, there is a line connecting the `id` field from the `regions` tab
 
 **NOTE:** In [SQL Designer](https://socrates.devbootcamp.com/sql), you'll notice that you can pick a "type" for each field.  For example, the birthday field should be a "date" type.  There's a core set of datatypes that all SQL-based databases support, but many have additional types. You can read more about that at [w3schools.com](http://www.w3schools.com/sql/sql_datatypes.asp) or on [Wikipedia](http://en.wikipedia.org/wiki/SQL#Data_types). For now, don't worry about using the perfect datatype (i.e. `varchar` vs. `text`), just use the one that colors it appropriately. SQL Designer is a bit weird to use. You have to use the menu at the right and then play with it a bit. You'll get the hang of it soon!
 
-## Release 3: Basic SELECT statements
+## Release 3: SELECT statements
 Now that you know a bit about the database, and you already know its contents, it's time to use SQL to query the information.
 
 Before you can do that, you'll want to navigate to this directory in your terminal and type `sqlite3 state_region.sqlite3`. This will put you into a SQLite shell where you can experiment with SQL commands. You can see the schema for the database by calling `.schema`. You can quit by typing `.exit`.
 
-You'll want to look up commands for each of the challenges using the [SQL Tutorial on w3schools.com](http://www.w3schools.com/sql/). Once you find the correct SQL query (the correct code that returns what it should return), you'll need to add the proper commands to your [my_solution.sql](my_solution.sql) file.
+You'll want to look up commands for each of the challenges using the [SQL Tutorial on w3schools.com](http://www.w3schools.com/sql/). Once you find the correct SQL query (the correct code that returns what it should return), you'll need to add the proper commands to your [my_solution.md](my_solution.md) file.
 
-If you want to see what the correct output looks like for each, you can look at the [answers.md](answers.md) file. NOTE: some of the state names are cut off in the answers. Don't worry about that.
+The correct output is shown in the [my_solution.md](my_solution.md) file. Don't worry if the names of states and regions are cut off.
 
 Create SQL Queries for the following:
 
@@ -149,19 +149,16 @@ Create SQL Queries for the following:
 9. Select the `region_name` for the regions with "Central" in the name.
 10. Select all of the `region_name`s and the `state_name`s in ascending order by `region_id`. Refer to the region by name. (This will involve joining the tables).
 
+## Release 4: One-to-Many Schema
 
-## Release 2: One to Many Schema
+In the 1995 Teen Comedy "Clueless," Cher (the main character) had a lot of outfits, and an entire software program to help her create them. Make a simple schema design in [SQL Designer](https://socrates.devbootcamp.com/sql) to include `persons` and `outfits` tables. Create at least 4 fields (with general types*) for each table. One of the fields in the `persons` table should refer to the `id` in the `outfits` table. You may want to reference the [conventions.md](conventions.md) file to read about database naming conventions.
 
+When you finish, take a screen shot of your schema design, upload it into the imgs directory and include it inline in your [my_solution.md](my_solution.md) file.
 
-## Release 3:
-
-
-## Release 4:
-
-
-## Release 5:
+* For types, just select the type that creates the right color. It doesn't matter right now whether you select between TEXT or VARCHAR for example, as long as it's yellow you're ok.
 
 ## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 in the reflection section of your [my_solution.md](my_solution.md) file.
 
-## Release 7:
+## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+**Optional but HIGHLY encouraged!**
