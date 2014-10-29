@@ -23,6 +23,9 @@ var terah = {
 
 
 
+
+
+
 // __________________________________________
 // Reflection: Use the reflection guidelines
 //
@@ -58,7 +61,7 @@ assert(
 
 assert(
   terah.spouse === adam,
-  "terah should have a spouse property with the value of the variable adam.",
+  "terah should have a spouse property with the value of the object adam.",
   "3. "
 )
 
@@ -70,44 +73,62 @@ assert(
 
 assert(
   terah.eyeColor === undefined,
-  "The terah eyeColor property should be removed.",
+  "The terah eyeColor property should be changed to undefined.",
   "5. "
 )
 
 assert(
   terah.spouse.spouse === terah,
-  "The terah spouse property's value spouse property should be terah.",
+  "Terahs spouses spouse should refer back to the terah object.",
   "6. "
 )
 
 assert(
   (terah.children instanceof Object),
-  "The value of the terah children property should be an Object.",
+  "The value of the terah children property should be defined as an Object.",
   "7. "
 )
 
 assert(
-  terah.children.carson.name === "Carson",
-  "The terah children property should have a carson property with its own property name with a value of 'Carson'.",
+  (terah.children.carson instanceof Object),
+  "carson should be defined as an object and assigned as a child of Terah",
   "8. "
-)
+  )
 
 assert(
-  terah.children.carter.name === "Carter",
-  "The terah children property should have a carter property with its own property name with a value of 'Carter'.",
+  terah.children.carson.name === "Carson",
+  "Terah's children should include an object called carson which has a name property equal to 'Carson'.",
   "9. "
 )
 
 assert(
-  terah.children.colton.name === "Colton",
-  "The terah children property should have a colton property with its own property name with a value of 'Colton'.",
+  (terah.children.carter instanceof Object),
+  "carter should be defined as an object and assigned as a child of Terah",
   "10. "
+  )
+
+assert(
+  terah.children.carter.name === "Carter",
+  "Terah's children should include an object called carter which has a name property equal to 'Carter'.",
+  "11. "
+)
+
+assert(
+  (terah.children.colton instanceof Object),
+  "carter should be defined as an object and assigned as a child of Terah",
+  "12. "
+  )
+
+assert(
+  terah.children.colton.name === "Colton",
+  "Terah's children should include an object called colton which has a name property equal to 'Colton'.",
+  "13. "
 )
 
 assert(
   adam.children === terah.children,
-  "The value of the adam children property should be the value of the terah children property",
-  "11. "
+  "The value of the adam children property should be equal to the value of the terah children property",
+  "14. "
 )
 
 console.log("\nHere is your final terah object:")
