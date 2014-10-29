@@ -5,56 +5,74 @@
 
 ## Learning Competencies
 1. Create and manipulate objects in JavaScript
-2. Define functions in JavaScript
-3. Use Javascript built in methods
-4. Debug using Node's error messages
+2. Use functions in JavaScript
+3. Debug using Node's error messages
 
 
 ## Summary
-It is finally time... For the Phase 0 Javascript Olympics! We will be completing a pentathlon of challenges to stretch you Javascript knowledge. We will be going through a variety of tasks, some of they you will know how to do already, some will test your research abilities.
+Aside from being totally awesome developers-in-training, you're also up-and-coming movie
+agents waiting to sign your first big star!
 
-Write your code in Stypi and run your code in Node.
+You're gonna make it big in this business, so it'd be a good idea to create a way to
+MANAGE ALL OF YOUR CLIENTS. We've compiled a list of things we want to be able to manage, and
+it just so happens we can use JavaScript to handle this. Let's get to work!
 
-## RELEASE 0: Warm up: Objects
+It's a rough industry, so to get things started, both you and your partner
+each get **one freebie**. You get to sign ANY actor/actress, so choose wisely!
 
-Create your athlete profiles. What is your name, age, sport and quote. You can use object literal notation for this exercise. Test in Node to make sure your properties are defined properly.
+## RELEASE 0: "You signed...Who?!"
+Thinking in Javascript, let's find a way to store information for our two freebie clients. Before writing any code, it's very important to first discuss with your partner how you'd like to approach this. Do you know of more than one way to do this, and if so, what are the pros/cons of each? I want to know the following about each client:
+  - Name
+  - Age
+  - Quote (your favorite, or just make one up!)
 
-## RELEASE 1: Bulk up! Adding Properties to objects
-Create a function that can take an array of athletes and give them a property called win that prints to the console that the athlete won at their sport.
+Once you've done this, make sure your code actually works by testing it in **Node**! How can we go about testing our code? This is a good opportunity to try out Screen Sharing in the Google Hangout (one person will share their Terminal).
 
-Would it make more sense to have this function defined as a function expression or a function declaration?
+## RELEASE 1: "Here they come!"
+The following actors heard about your growing clientele, and want in! Create **Objects** for the following
+individuals. Now that we have a growing **list** of clients, come up with a good way to store this information!
 
-## RELEASE 2: !sdrow ruoy elbmuJ: Reverse a string
+  Name: Adam Sandler<br>
+  Age: 47<br>
+  Quote: "That's your home! Are you too good for your home?!"<br>
 
-Create a function that accepts a string as an argument and reverses it.
+  Name: Kristen Bell<br>
+  Age: 33<br>
+  Quote: "Do you wanna build a snowman?"<br>
 
-Use the built in Javascript methods for strings and arrays to accomplish this. [ MDN string docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) [MDN array docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+  Name: Jim Carrey<br>
+  Age: 52<br>
+  Quote: "...So you're telling me there's a chance? YEAH!"<br>
 
-Think about how you would write this in Ruby and translate!
+Like before, make sure to test your code in Node! How can we access information within our Objects? If you know more than one way, do you know why we'd want to use one way over another? Accessing information in Objects is something that we'll be doing all the time in JavaScript, so make sure to discuss and ask questions!
 
-## RELEASE 3: 2, 4, 6 ,8! Who do we appreciate!: Remove the odd numbers from an array
+## RELEASE 2: "Time is Money"
+Well done! But we seem to be repeating ourselves quite a bit when creating our client Objects.
+Let's find a more efficient way to do this!
 
-Create a function that accepts any length array of numbers and removes any odd numbers.
+*HINT* Creating new clients is something we plan to do often... What do we usually do with code that we want to reuse often?
 
-You can use the manual method to do this, or use one of the built in array methods in Javascript [MDN array docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
-
-Are you missing Ruby yet?
-
-## RELEASE 4: We built this city! Create a constructor function
-
-Test code is below, copy paste it to your my_solution.js file. Skim this excellent but old article to learn what a constructor is and why you would want to use it. [Constructor](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
-
-You will have plenty of time to look at the article later, focus on constructor definition right now.
+If done correctly, the following test code should pass! Examine each, and ask questions if anything looks new!
 
 ```javascript
-var michaelPhelps = new Athlete("Michael Phelps", 29, "swimming", "It's medicinal I swear!")
-console.log(michaelPhelps.constructor === Athlete)
-console.log(michaelPhelps.name + " " + michaelPhelps.sport + " " + michaelPhelps.quote)
+var shooterMcGavin = new Client("Shooter McGavin", 48, "Just stay out of my way... or you'll pay. Listen to what I say.");
+shooterMcGavin.constructor === Client;
+shooterMcGavin.age === 48;
+shooterMcGavin.quote === "Just stay out of my way... or you'll pay. Listen to what I say.";
+
 ```
 
+## RELEASE 3: "Show 'em off!"
+You've done an incredible job making a names for yourselves! Now that you have all these clients,
+create a way to display each of them with their respective properties, and **make it look nice!**
+
+## RELEASE 4: "But wait, there's more!"
+Just like your clients, JavaScript Objects are capable of some awesome stuff! Not only can they hold simple information like strings and integers, but properties can also store **functions**! Pick any of the client objects you created, and assign it a property called ```showQuote``` that stores a function that will display that client's quote. Test your code!
+
+## RELEASE 5: Bonus
+Now that you're just as awesome at Javascript as you are in wrangling Hollywood talent,
+try adding something new to your system! Want to manage something new from your clientele?
+Or maybe a way to display/advertise your business? Get in there and Code with the Stars!
 
 ## Release 6: Reflect
-
-Whew! Nice work, you must be exhausted, take some time to cool down and reflect.
-
 In the reflection section of your 'my_solution.js` file, reflect on your learning using the [reflection guidelines](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md). ***NOTE: Reflections are mandatory!***
