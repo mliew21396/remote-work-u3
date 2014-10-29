@@ -35,7 +35,7 @@ Each column (or in DB speak **field**) has a name.  We can describe the structur
 
 ### Conventions
 
-We can use any field names and table names we want, but there are some conventions that we follow for sanity. 
+We can use any field names and table names we want, but there are some conventions that we follow for sanity.
 
 1. Table names are pluralized, e.g., "students," "products," "todos," etc.
 2. Each row is uniquely identified by an automatically-incrementing integer field called <code>id</code>.  [ActiveRecord migrations](http://guides.rubyonrails.org/migrations.html) do this for you automatically, but you'll have to be explicit when designing your tables by hand.
@@ -50,4 +50,3 @@ We can use any field names and table names we want, but there are some conventio
 Each row in a database table should have a **primary key**.  This is a field (or collection of fields) which uniquely identify that row from all other rows.  Rails defaults to using a **synthetic primary key**, which is just an arbitrary, auto-incrementing integer usually denoted by the field name `id`.  It's called "synthetic" because it doesn't have any inherent meaning.
 
 The assumption that the primary key is an auto-incrementing integer called `id` is baked deeply into Rails.  Most web apps follow this convention, and we will, too.
-

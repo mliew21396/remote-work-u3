@@ -1,6 +1,6 @@
 # One to One Schema Design
 
-One-to-one relationships are fairly easy to understand, but hard to see when to use one.  
+One-to-one relationships are fairly easy to understand, but hard to see when to use one.
 
 An example of a one-to-one relationship is my connection to my liver.  I have a liver, and my liver belongs only to me.  We'll ignore the world of conjoined twins, for now.
 
@@ -28,4 +28,3 @@ Of course, you could move all the fields in the `facebook_accounts` table direct
 This is true of any one-to-one relationship, which is why it's hard to see when to use one.
 The rule of thumb is this: if you have a logical grouping of fields which can all optionally be `NULL`,
 it's a good idea to split those fields out into a separate table in a one-to-one relationship.
-
