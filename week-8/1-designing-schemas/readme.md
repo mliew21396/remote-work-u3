@@ -7,7 +7,6 @@
 - Identify database relationships including one to many, many to many, and one to one
 - Adhere to established naming conventions for DB tables and columns
 
-
 ## Summary
 You have been building programs that need to store data. Up until this point you have been storing them in data structures, probably either `array`s or `hash`es. In reality, most applications do not store data this way. Imagine Facebook storing its users' information in one data structure. It would be massive, difficult to navigate, and the site would take a really long time to load. Instead, information is often stored in a database. Depending on the data you want to collect and use and its relationship to one another, databases can get pretty complex. In this challenge, you will learn a few basic database relationships.
 
