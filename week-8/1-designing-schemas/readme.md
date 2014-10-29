@@ -1,19 +1,27 @@
 [Week 7 Home](../)
 
-# U3.W7: Designing Schemas
+# U3.W7: Introduction to Databases
 
 ## Learning Competencies
-- Create a graphical representation of a simple database
-- Identify database relationships including one to many, many to many, and one to one
-- Adhere to established naming conventions for DB tables and columns
+-
+-
+-
 
 ## Summary
-You have been building programs that need to store data. Up until this point you have been storing them in data structures, probably either `array`s or `hash`es. In reality, most applications do not store data this way. Imagine Facebook storing its users' information in one data structure. It would be massive, difficult to navigate, and the site would take a really long time to load. Instead, information is often stored in a database. Depending on the data you want to collect and use and its relationship to one another, databases can get pretty complex. In this challenge, you will learn a few basic database relationships.
+You have been building programs that need to store data. Up to this point you have been storing data in data structures, probably in either `array`s or `hash`es. In reality, most applications do not store data this way. Imagine Facebook storing its users' information in one data structure. It would be massive, difficult to navigate, and the site would take a really long time to load. Instead, information is often stored in a database. Depending on the data you want to collect and use and its relationship to one another, databases can get pretty complex. In this challenge, you will learn a bit about databases and a one-to-many relationship.
 
 ## Releases
 
-## Release 0: One to Many Relationships
-Do you remember the giant hashy hash from the VirusPredictor challenge? In reality, most programs do not store information in a gianthash, array, or other data structure. Data is most often stored in a Database. For example, if the data from the `STATE_DATA` hash was stored a Database, it would look something like:
+## Release 0: Introduction to Databases
+If this is your first time working with databases, you will probably want to look through a couple of these resources.
+- [VIDEO: Database Basics](https://www.youtube.com/watch?v=oxuy4AP860g)
+- [VIDEO: Databases and SQL - an introduction](http://www.youtube.com/watch?v=SVV7HjKmFY4)
+- [VIDEO: Database Fundamentals](http://www.youtube.com/watch?v=xNJZYX6tpWU)
+- [VIDEO: Relational Database Concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
+- [READING: Relational Database Design](http://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
+
+## Release 1: One to Many Relationships
+Do you remember the giant hashy hash from the VirusPredictor challenge? In reality, most programs do not store information in a giant hash, array, or other data structure. Data is most often stored in a Database. For example, if the data from the `STATE_DATA` hash was stored a Database, it would look something like:
 
 Table Name: states
 
@@ -71,7 +79,7 @@ id | state_name | population_density | population | region_id
 50 | Wisconsin | 105.2| 5726398 | 4
 51 | Wyoming | 5.851| 576412 | 8
 
-This is one table in a database. If you look at the data, you'll see a section for `region_id`. This was called `region` in the original challenge. So the `states` table is actually storing a relationship. States belong to a region. A region has many states. This is called a one-to-many relationship. You can identify a one-to-many relationship using the phrases "____ belongs to a ____.  ____ has many ____."
+This is one table in a database. If you look at the data, you'll see a section for `region_id`. This was called `region` in the original challenge. So the `states` table is storing a relationship. States belong to a region. A region has many states. This is called a one-to-many relationship. You can identify a one-to-many relationship using the phrases "____ belongs to a ____.  ____ has many ____."
 
 The regions table would look like this:
 
@@ -90,55 +98,68 @@ id| region_name
 10| North Pacific
 11| Tropical Pacific
 
-As you can see from the `states` table, the region is referred to by its `id` rather than its name. That is because it is faster for the computer to search for numbers rather than strings.
+As you can see, the region is referred to by its `id` in the `states` table rather than by its name. That is because it is faster for the computer to search for numbers rather than strings.
 
-To represent a one-to-many relationship in a Schema Designer (like [SQL Designer](https://socrates.devbootcamp.com/sql)), it will look like this:
+Release 2: Schema Design
+When designing a database, it is a good idea to draw out a design where you identify the table and field (column) names.
+
+For the VirusPredictor example, the two tables would be represented like this:
+
+<pre>
++------------+        +-------------+
+| states      |        | region     |
++------------+        +-------------+
+| id         |      \--| id         |
+| state_name |        | region_name |
+| population_density|  +------------+
+| population |
+| region_id  |&lt;---\
++------------+
+</pre>
+
+You can use a design tool like like [SQL Designer](https://socrates.devbootcamp.com/sql) to draw your schema.
+These tools as you to specify data types, which were not captured in the table above. In the image below, the yellow fields represent numeric values and the red fields represent text values.
 
 ![states_region](imgs/states_region.png)
 
-As you can see, there is a line connecting the `id` field from the `regions` table to the `region_id` field from the `states` table. These two numbers should be the same.
-
-For Example, if you look at New York, you can see the `region_id` is 2, which means New York belongs to the Mid-Atlantic region.
+As you can see, there is a line connecting the `id` field from the `regions` table to the `region_id` field from the `states` table. This line shows that the two tables are connected by those fields, thus the two numbers should be the same. For Example, if you look at New York, you can see the `region_id` is 2, which means New York belongs to the Mid-Atlantic region.
 
 **NOTE:** In [SQL Designer](https://socrates.devbootcamp.com/sql), you'll notice that you can pick a "type" for each field.  For example, the birthday field should be a "date" type.  There's a core set of datatypes that all SQL-based databases support, but many have additional types. You can read more about that at [w3schools.com](http://www.w3schools.com/sql/sql_datatypes.asp) or on [Wikipedia](http://en.wikipedia.org/wiki/SQL#Data_types). For now, don't worry about using the perfect datatype (i.e. `varchar` vs. `text`), just use the one that colors it appropriately. SQL Designer is a bit weird to use. You have to use the menu at the right and then play with it a bit. You'll get the hang of it soon!
 
+## Release 3: Basic SELECT statements
+Now that you know a bit about the database, and you already know its contents, it's time to use SQL to query the information.
 
+Before you can do that, you'll want to navigate to this directory in your terminal and type `sqlite3 state_region.sqlite3`. This will put you into a SQLite shell where you can experiment with SQL commands. You can see the schema for the database by calling `.schema`. You can quit by typing `.exit`.
 
-## Release 1: Student Roster Schema
-Read through [1_student_roster](database_schemas/1_student_roster.md) in the [database_schemas](database_schemas) directory in this challenge. When you finish reading. Visit [SQL Designer](https://socrates.devbootcamp.com/sql) and recreate the <tt>students</tt> table in a schema format. Display the screenshot in your [my_solution.md](my_solution.md) file and commit your changes.
+You'll want to look up commands for each of the challenges using the [SQL Tutorial on w3schools.com](http://www.w3schools.com/sql/). Once you find the correct SQL query (the correct code that returns what it should return), you'll need to add the proper commands to your [my_solution.sql](my_solution.sql) file.
 
-This is what the [schema](http://f.cl.ly/items/0z3p0i1Y0G3h1A3V1d2p/Screen%20Shot%202012-05-17%20at%205.04.38%20PM.png) should look like, colors and all.
+If you want to see what the correct output looks like for each, you can look at the [answers.md](answers.md) file. NOTE: some of the state names are cut off in the answers. Don't worry about that.
+
+Create SQL Queries for the following:
+1. Select all data for all states
+2. Select all data for the regions
+3. Select the `state_name` and `population` for all states.
+4. Select the `state_name` and `population` for all states ordered by population. The most populous state should be at the top.
+5. Select the 'state_name's for the states in region 7.
+6. Select the 'state_names' and 'population_density' with a population density over 50 ordered from least to most dense.
+7. Select all state_names for states with a population between 1 million and 1.5 million people.
+8. Select all state_names and region_id ordered by region in ascending order.
+9. Select the 'region_name' for the regions with "Central" in the name.
+10. Select all of the region names and the state names in ascending order by regional id. Refer to the region by name. (This will involve joining the tables).
+
 
 ## Release 2: One to Many Schema
-Read through [2_one_to_many.md](database_schemas/2_one_to_many.md)
 
-Design the schema based on the users and orders displayed in the file and connect the `users` and `orders` tables together by clicking 'connect foreign key', pointing the `user_id` field in the `orders` table to the `id` field in the `users` table.
 
-Display the screenshot in your [my_solution.md](my_solution.md) file and commit your changes.
+## Release 3:
 
-## Release 3: One to One Schema
-Read through [3_one_to_one.md](database_schemas/3_one_to_one.md)
 
-Connect the `users` and `facebook_accounts` on your own schema. Display the screenshot in your [my_solution.md](my_solution.md) file and commit your changes.
+## Release 4:
 
-## Release 4: Many to Many Schema
-Read through [4_many_to_many.md](database_schemas/4_many_to_many.md)
 
-Implement the author/book schema. Connect the tables using the appropriate foreign keys!
-
-Each book also has one publisher, and a publisher can publish many books.  Add a `publishers` table to the schema above so it and `books` are in a one-to-many relationship.
-
-Add additional fields. The `publishers` table should have a `name` field, in addition to the fields we include by convention (primary key, timestamps, etc.).
-
-When you are finished. Display the screenshot in your [my_solution.md](my_solution.md) file and commit your changes.
-
-## Release 5: Design Your Own Schemas!
-Based on the different schemas above, design your own one-to-one and many-to-many. Explain what you are modeling in the appropriate section. This is something your cohort-mates should be reviewing and commenting on.
-
-Display the screenshots in your [my_solution.md](my_solution.md) file and commit your changes.
+## Release 5:
 
 ## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 in the reflection section of your [my_solution.md](my_solution.md) file.
 
-## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
-Look at (at least) 2 other solutions to Release 4: Design Your Own Schema. Based on their description, did they connect the tables appropriately?
+## Release 7:
