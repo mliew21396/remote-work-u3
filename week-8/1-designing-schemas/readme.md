@@ -84,6 +84,7 @@ This is one table in a database. If you look at the data, you'll see a section f
 The regions table would look like this:
 
 Table Name: regions
+
 id| region_name
 --| ------------
 1 | New England
@@ -106,15 +107,15 @@ When designing a database, it is a good idea to draw out a design where you iden
 For the VirusPredictor example, the two tables would be represented like this:
 
 <pre>
-+------------+        +-------------+
-| states      |        | region     |
-+------------+        +-------------+
-| id         |      \--| id         |
-| state_name |        | region_name |
-| population_density|  +------------+
-| population |
-| region_id  |&lt;---\
-+------------+
++--------------------+        +-------------+
+| states             |        | region      |
++--------------------+        +-------------+
+| id                 |      --| id          |
+| state_name         |    /   | region_name |
+| population_density |   /    +-------------+
+| population         |  /
+| region_id          |--
++--------------------+
 </pre>
 
 You can use a design tool like like [SQL Designer](https://socrates.devbootcamp.com/sql) to draw your schema.
