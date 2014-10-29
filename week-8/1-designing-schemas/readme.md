@@ -85,19 +85,19 @@ The regions table would look like this:
 
 Table Name: regions
 
-id| region_name
---| ------------
-1 | New England
-2 | Mid-Atlantic
-3 | South Atlantic
-4 | East North Central
-5 | East South Central
-6 | West North Central
-7 | West South Central
-8 | Mountain
-9 | Pacific
-10| North Pacific
-11| Tropical Pacific
+id | region_name |
+-- | ------------
+1  | New England |
+2  | Mid-Atlantic |
+3  | South Atlantic |
+4  | East North Central |
+5  | East South Central |
+6  | West North Central |
+7  | West South Central |
+8  | Mountain |
+9  | Pacific |
+10 | North Pacific |
+11 | Tropical Pacific |
 
 As you can see, the region is referred to by its `id` in the `states` table rather than by its name. That is because it is faster for the computer to search for numbers rather than strings.
 
