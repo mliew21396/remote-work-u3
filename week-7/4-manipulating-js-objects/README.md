@@ -64,7 +64,7 @@ When all of the tests have passed, your final `terah` object will be logged to t
 
 ## Release 2: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 3: Commit and push your changes!
+## Release 3: Commit and push
 
 ## Release 4: [Review other's solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) **(Mandatory)**
-Were there differences in the way you implemented the code based on the tests? Leave an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
+Were there differences in the way you implemented the code based on the tests? Leave an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two reviews as issues for this challenge).
