@@ -86,7 +86,7 @@ The regions table would look like this:
 Table Name: regions
 
 id | region_name |
--- | ------------
+---|-------------
 1  | New England |
 2  | Mid-Atlantic |
 3  | South Atlantic |
