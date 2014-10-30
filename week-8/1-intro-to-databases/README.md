@@ -91,8 +91,8 @@ You'll want to look up commands for each of the challenges using the [SQL Tutori
 
 Create SQL Queries for the following:
 
-1. Select all data for all states
-2. Select all data for the regions
+1. Select all data for all states.
+2. Select all data for the regions.
 3. Select the `state_name` and `population` for all states.
 4. Select the `state_name` and `population` for all states ordered by population. The most populous state should be at the top.
 5. Select the `state_names` for the states in region 7.
