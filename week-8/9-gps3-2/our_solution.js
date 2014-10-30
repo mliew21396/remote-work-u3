@@ -5,41 +5,29 @@
 //  2.
 
 
-// 0. "YOU SIGNED... WHO?!"
+// 0. Warm Up
 
 
 
 
-// 1. "Here they Come!"
+// 1. Bulk Up
 
 
 
 
-
-// 2. "TIME IS MONEY!"
-
-//YOUR CODE HERE!
-
-var shooterMcGavin = new Client("Shooter McGavin", 48, "Just stay out of my way... or you'll pay. Listen to what I say.");
-shooterMcGavin.constructor === Client;
-shooterMcGavin.age === 48;
-shooterMcGavin.quote === "Just stay out of my way... or you'll pay. Listen to what I say.";
+// 2. Jumble your words
 
 
 
 
-
-// 3. "SHOW 'EM OFF!"
-
+// 3. 2,4,6,8
 
 
 
 
-// 4. "But wait, there's more!"
+// 4. "We built this city"
 
 
 
-// 5.  ** BONUS **
 
-
-//  6.  Your Reflection:
+//  6. Reflection
