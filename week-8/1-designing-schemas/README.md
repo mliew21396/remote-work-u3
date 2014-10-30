@@ -87,9 +87,7 @@ Now that you know a bit about the database, and you already know its contents, i
 
 Before you can do that, you'll want to navigate to this directory in your terminal and type `sqlite3 state_region.sqlite3`. This will put you into a SQLite shell where you can experiment with SQL commands. You can see the schema for the database by calling `.schema`. You can quit by typing `.exit`.
 
-You'll want to look up commands for each of the challenges using the [SQL Tutorial on w3schools.com](http://www.w3schools.com/sql/). Once you find the correct SQL query (the correct code that returns what it should return), you'll need to add the proper commands to your [my_solution.md](my_solution.md) file.
-
-The correct output is shown in the [my_solution.md](my_solution.md) file. Don't worry if the names of states and regions are cut off.
+You'll want to look up commands for each of the challenges using the [SQL Tutorial on w3schools.com](http://www.w3schools.com/sql/). Once you find the correct SQL query (the correct code that returns what it should return), you'll need to add the proper commands to your [my_solution.md](my_solution.md) file. The correct output is shown in the [my_solution.md](my_solution.md) file. Don't worry if the names of states and regions are cut off.
 
 Create SQL Queries for the following:
 
@@ -106,11 +104,11 @@ Create SQL Queries for the following:
 
 ## Release 4: One-to-Many Schema
 
-In the 1995 Teen Comedy "Clueless," Cher (the main character) had a lot of outfits, and an entire software program to help her create them. Make a simple schema design in [SQL Designer](https://socrates.devbootcamp.com/sql) to include `persons` and `outfits` tables. Create at least 4 fields (with general types*) for each table. One of the fields in the `persons` table should refer to the `id` in the `outfits` table. You may want to reference the [conventions.md](conventions.md) file to read about database naming conventions.
+In the 1995 Teen Comedy "Clueless," Cher (the main character) had a lot of outfits, and an entire software program to help her create them. Make a simple schema design in [SQL Designer](https://socrates.devbootcamp.com/sql) to include `persons` and `outfits` tables. Create at least 4 fields (with general types**) for each table. One of the fields in the `persons` table should refer to the `id` in the `outfits` table. You may want to reference the [conventions.md](conventions.md) file to read about database naming conventions.
 
 When you finish, take a screen shot of your schema design, upload it into the imgs directory and include it inline in your [my_solution.md](my_solution.md) file.
 
-* For types, just select the type that creates the right color. It doesn't matter right now whether you select between TEXT or VARCHAR for example, as long as it's yellow you're ok.
+** For types, just select the type that creates the right color. It doesn't matter right now whether you select between TEXT or VARCHAR for example, as long as it's yellow you're ok.
 
 ## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 in the reflection section of your [my_solution.md](my_solution.md) file.
