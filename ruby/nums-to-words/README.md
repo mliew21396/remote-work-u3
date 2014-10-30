@@ -1,6 +1,4 @@
-[Week 8 Home](../../)
-
-#U3.W8: Numbers to English Words
+#U3.W8-9: Numbers to English Words
 
 ## Learning Competencies
 - Break down problems into implementable pseudocode

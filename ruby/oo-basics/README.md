@@ -1,6 +1,4 @@
-[Week 8 Home](../../)
-
-#U3.W8: OO Basics - Student
+#U3.W8-9: OO Basics - Student
 
 ## Learning Competencies
 - Use if/else statements, string methods, while/until loops, Enumerable#each methods

@@ -1,6 +1,4 @@
-[Week 8 Home](../../)
-
-#U3.W8: Implement FizzBuzz (Super Edition)
+#U3.W8-9: Implement FizzBuzz (Super Edition)
 
 ## Learning Competencies
 - Use strings, integers, arrays, and hashes

@@ -1,10 +1,10 @@
-[Week 9](./)
+[Week 8](./)
 
 #U3.W8: Ruby
 
-Select TWO of the challenges in the [ruby](../ruby) directory to complete that you didn't cover in [Week 8](../week-8).
+Select ONE of the challenges in the [ruby](../ruby) directory to complete.
 
-If you have time and want the practice, collect them all!
+In week 9 you will be asked to do at least 2 additional challenges. If you have more time in week 8, feel free to do more now - maybe even try to collect them all!
 
 1. [Fibonacci Sequence](../ruby/fibonacci-sequence)
 2. [Fizz Buzz Super Edition](../ruby/fizz-buzz)

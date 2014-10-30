@@ -1,6 +1,4 @@
-[Week 8 Home](../../)
-
-#U3.W8: Triangle Debugger
+#U3.W8-9: Triangle Debugger
 
 ## Learning Competencies
 - Explain what code is doing

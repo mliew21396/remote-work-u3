@@ -1,6 +1,4 @@
-[Week 8 Home](../../)
-
-#U3.W8: Fibonacci Number?
+#U3.W8-9: Fibonacci Number?
 
 ## Learning Competencies
 - Automate repetitive tasks using loops
