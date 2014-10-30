@@ -3,9 +3,8 @@
 # U3.W8: More Schemas
 
 ## Learning Competencies
--
--
--
+- Identify one-to-one and many-to-many relationships
+- Design schemas for one-to-one and many-to-many relationships
 
 ## Summary
 
