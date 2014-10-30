@@ -38,7 +38,7 @@ This is one table in a database. If you look at the data, you'll see a section f
 
 The regions table would look like this:
 
-Table Name: regions
+**Table Name: regions**
 
 id | region_name |
 ---|-------------
