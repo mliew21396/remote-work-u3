@@ -27,28 +27,8 @@ var scores = [ [80, 70, 70, 100],
 // Write your code below.
 
 
-var average = function(array) {
-  var sum = 0
-  for(num in array) {
-    sum += array[num]
-  }
-  return(sum / array.length)
-}
 
-var gradebook = {}
 
-for (student in students) {
-  gradebook[students[student]] = { testScores: scores[student] }
-}
-
-gradebook.addScore = function(name, score) {
-  gradebook[name].testScores.push(score)
-}
-
-gradebook.getAverage = function(name) {
-  return average(gradebook[name].testScores)
-}
-console.log(gradebook)
 
 
 
