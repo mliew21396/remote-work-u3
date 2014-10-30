@@ -1,4 +1,4 @@
-# U3.W7: Introduction to Databases
+# U3.W8: Introduction to Databases
 
 #### I worked on this challenge [by myself, with: ]
 

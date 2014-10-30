@@ -34,7 +34,7 @@ id | state_name | population_density | population | region_id
 50 | Wisconsin | 105.2| 5726398 | 4
 51 | Wyoming | 5.851| 576412 | 8
 
-This is one table in a database. If you look at the data, you'll see a section for `region_id`. This was called `region` in the original challenge. So the `states` table is storing a relationship. States belong to a region. A region has many states. This is called a one-to-many relationship. You can identify a one-to-many relationship using the phrases "____ belongs to a ____.  ____ has many ____."
+This is one table in a database. If you look at the data, you'll see a section for `region_id`. This was called `region` in the original challenge. So the `states` table is storing a relationship. States belong to a region. A region has many states. This is called a one-to-many relationship. You can identify a one-to-many relationship using the phrases "____ belongs to a ____.  ____ has many ____." For example, Wisconsin only belongs to the East North Central Region. The East North Central Region has many states.
 
 The regions table would look like this:
 
