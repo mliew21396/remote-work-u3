@@ -8,7 +8,7 @@ This week you'll learn a bit about SQL and databases and then dive into review. 
 3. [JavaScript Gradebook](3-js-gradebook)
 4. [JavaScript Tally Votes](4-js-tally-votes)
 5. [Ruby challenge](5-ruby) *select 1 challenge to do*
-6. [HTML/CSS Cheatsheet](6-cheatsheet.md)
+6. [HTML/CSS Cheatsheet](6-cheatsheet.md) **Pairing Challenge**
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md) *one per week*
 9. [GPS 3.2](9-gps3-2) [on JavaScript] **DO NOT READ UNTIL GPS SESSION**
