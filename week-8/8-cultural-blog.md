@@ -3,21 +3,20 @@
 # U3.W8: Dealing with Conflict
 
 ## Learning Competencies
-- Describe how you dealt with conflict
+- Describe how you dealt with a conflict
 - Evaluate whether your actions produced positive or negative reactions
 
 ## Release 0: New file
-
-First, create a new HTML file named `week8_cultural_blog.html` in your [USERNAME].github.io website in the blog-posts directory. Copy the Code from your `blog_template`.
+In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c8-conflict.html`.
 
 ## Release 1: Research Compass of Shame
-Remember the [compass of shame](http://southdown.on.ca/publications/articles/Compass-of-Shame.pdf)? Oftentimes when we have a conflict with someone we use one of our strategies for dealing with shame.
+Have you ever seen the [compass of shame](http://southdown.on.ca/publications/articles/Compass-of-Shame.pdf)? When people face a conflict, they will often use one of these strategies for dealing with shame.
 
-Conduct some research on strategies for identifying the sources for conflict then discuss a time you had a conflict in your life. Identify the reason you had the conflict and whether your actions made it better or worse. You don't have to pick the most intense emotional conflict, choose one you are ok sharing with others.
+Conduct some research on strategies for identifying the sources for conflict then discuss a time you had a conflict in your life. Identify the reason you had the conflict and whether your actions made it better or worse. You don't have to pick the most intense emotional conflict, choose one you feel OK sharing with others.
 
 ## Release 2: Blog
 
-Once you've opened your file, write a response to each exercise using the HTML you've learned to set up the file:
+Once you've created your file, write a blog post that responds to each question.
 
 1. Discuss a time you had an emotional conflict with someone. What was it about? What happened?
 2. What was the source of the conflict?
@@ -27,17 +26,17 @@ Once you've opened your file, write a response to each exercise using the HTML y
 6. What did you learn from this experience?
 
 ## Release 3: Publish
-Link to your blog on the index of your site and push your changes.
-
-Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
+Link to your post on the blog/index.html page and push your changes.
 
 ## Release 4: Promote
 
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
+Now it's time to show off your work and share your knowledge with your cohort mates using Twitter!
 
-Tweet your blog post using #DBCConflict
+Tweet your blog post using **#DBCConflict**.
 
 ## Release 5: Read
 
 Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
 
+## Release 6: Update your site (Optional)
+Select one thing you want to change about your [USERNAME].github.io website and change it!
