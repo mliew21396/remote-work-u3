@@ -54,5 +54,6 @@ A getAverage property to `gradebook` and assign it the value of a function ...
 So that it accepts a name as a String (e.g., "Joseph") and returns the named students average.
 
 ## Release 8: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+Review your code. Is it DRY? Is there anything you can do better?
 
 ## Release 9: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)

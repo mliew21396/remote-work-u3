@@ -1,6 +1,6 @@
-[Week 8 and 9 Home](../../)
+[Week 8 Home](../../)
 
-#U3.W8-9: Implement FizzBuzz (Super Edition)
+#U3.W8: Implement FizzBuzz (Super Edition)
 
 ## Learning Competencies
 - Use strings, integers, arrays, and hashes
@@ -32,20 +32,18 @@ super_fizzbuzz([1,2,15]) # => [1, 2, "FizzBuzz"]
 super_fizzbuzz([30, 9, 20, 1]) # => ["FizzBuzz", "Fizz", "Buzz", 1]
 ```
 
-## Release 0: Run the [Tests](fizz_buzz_spec.rb)
+## Release 0: Write [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-## Release 1: Translate Rspec
-Translate Rspec into Assert Statements or [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
+## Release 1: Write your [initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-## Release 2: Write [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+Run the [Tests](fizz_buzz_spec.rb). If your initial solution passes all tests, move on to the next release.
 
-## Release 3: Write your [initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 2: Translate RSpec
+Translate as much of the RSpec as you can into [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md). Make sure your initial solution is passing all of your tests.
 
-## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 6: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
-
-
-
+## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+**Optional but HIGHLY encouraged!**
