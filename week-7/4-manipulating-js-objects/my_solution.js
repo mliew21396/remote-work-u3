@@ -72,14 +72,14 @@ assert(
 )
 
 assert(
-  terah.eyeColor === undefined,
-  "The terah eyeColor property should be changed to undefined.",
+  terah.eyeColor === undefined || null,
+  "The terah eyeColor property should be deleted.",
   "5. "
 )
 
 assert(
   terah.spouse.spouse === terah,
-  "Terahs spouses spouse should refer back to the terah object.",
+  "Terahs spouses spouse property should refer back to the terah.",
   "6. "
 )
 
