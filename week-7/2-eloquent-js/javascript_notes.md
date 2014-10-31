@@ -26,7 +26,7 @@ You should complete any coding sections in the [my_solution.js](my_solution.js) 
 
 - What does console.log do and when would you use it? What Ruby method is this similar to?
 
-- Write a program that asks for a user to input their favorite food. If they input a string, say: "Hey! That's my favorite too!" If they put something other than a string, return "I wouldn't eat that."
+- Write a program that asks for a user to input their favorite food. After they hit return have the program say: "Hey! That's my favorite too!"
 
 Use the browser console to do this one. Node does not support the `prompt` function. Paste your solution in the box below.
 
