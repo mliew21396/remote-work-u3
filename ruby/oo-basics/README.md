@@ -12,20 +12,20 @@ Your program will create arrays of student data, and compute the average scores 
 
 ## Release 0: Create an Array of Students
 
-Create an array `students` with 5 Student objects (HINT: You'll need to create the student objects first). Each student should be assigned a `first_name`, and 5 test scores (scores are between 0 and 100) when it is created. The first Student should be named `"Alex"` with scores `[100,100,100,0,100]`. Once you've done this properly, release 0 tests should pass.
+Create an array `students` with 5 Student objects (HINT: You'll need to create the student objects first). Each student should be assigned a `first_name`, and 5 test scores (scores are between 0 and 100) when it is created. The first Student should be named `"Alex"` with scores `[100,100,100,0,100]`. Once you've done this properly, the Release 0 tests should pass.
 
 ## Release 1: Average Scores
-Compute and assign a score average and a letter grade to each student.Letter grades are based on the average (A for >=90%, B for >=80%, C for >= 70%, D for >= 60% and F for < 60%).
+Compute and assign a score average and a letter grade to each student. Letter grades are based on the average (A for >=90%, B for >=80%, C for >= 70%, D for >= 60% and F for < 60%).
 
 ## Release 2: Linear Search
 
 Write a [linear_search](http://en.wikipedia.org/wiki/Linear_search) method that searches the student array for a student's `first_name` and returns the position of that student if they are in the array. If the student is not in the array then the method should return -1.
 
 ## Release 3: Write your Tests
-Write your own [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
+Write your own [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
 
 ## Release 4: Binary Search (Optional)
-Write a [binary_search](http://en.wikipedia.org/wiki/Binary_search_algorithm) method that searches the student array for a student and returns the position of that student if they are in the array. If the student is not in the array then the method should return -1.  You can write a iterative (or recursive, if you are comfortable with that) version of binary_search.
+Write a [binary_search](http://en.wikipedia.org/wiki/Binary_search_algorithm) method that searches the student array for a student's first_name and returns the position of that student if they are in the array. If the student is not in the array then the method should return -1.  You can write a iterative (or recursive, if you are comfortable with that) version of `binary_search`.
 
 ## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
