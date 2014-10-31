@@ -7,7 +7,7 @@
 - Design schemas for one-to-one and many-to-many relationships
 
 ## Summary
-
+As you might guess, there are other types of relationships in relational databases (like SQL) other than one-to-many. There are also one-to-one and many-to-many relationships as well. These can be a bit more confusing to understand and may require some googling to get a feel for them.
 
 ## Releases
 
