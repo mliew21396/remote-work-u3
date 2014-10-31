@@ -23,7 +23,7 @@ Add the class "done" to the div.release_1.
 
 ## Release 1:
 
-Set the display property of div.release_2 to hidden.
+Set the display property of div.release_2 to none.
 
 ## Release 2:
 
