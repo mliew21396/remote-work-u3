@@ -23,7 +23,7 @@ There are questions to answer for each bug in the [my_solution.rb](my_solution.r
 - Before you fix the bug, what do you think is causing the error?
 
 ## Release 3: Make the code pass
-Modify the code to make it pass the tests. After you've fixed the first three bugs, you'll need to dive a little deeper to fix the last bug to make it pass the the [RSpec tests](triangle_spec.rb).
+Modify the code to make it run and pass the [RSpec tests](triangle_spec.rb).
 
 ## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
