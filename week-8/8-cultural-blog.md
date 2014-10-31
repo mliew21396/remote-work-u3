@@ -1,6 +1,6 @@
 [Week 8 Home](./)
 
-# U3.W8: Dealing with Conflict
+# U3.W8: Conflict
 
 ## Learning Competencies
 - Describe how you dealt with a conflict
