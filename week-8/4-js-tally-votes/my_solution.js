@@ -1,4 +1,4 @@
-// U3.W8-9: Gradebook from Names and Scores
+// U3.W8: Gradebook from Names and Scores
 
 // I worked on this challenge [by myself, with:]
 
@@ -40,8 +40,8 @@ var voteCount = {
   treasurer: {}
 }
 
-/* The name of each student receiving a vote for an office should become a property 
-of the respective office in voteCount.  After Alex's votes have been tallied, 
+/* The name of each student receiving a vote for an office should become a property
+of the respective office in voteCount.  After Alex's votes have been tallied,
 voteCount would be ...
 
   var voteCount = {
@@ -54,7 +54,7 @@ voteCount would be ...
 */
 
 
-/* Once the votes have been tallied, assign each officer position the name of the 
+/* Once the votes have been tallied, assign each officer position the name of the
 student who received the most votes. */
 var officers = {
   president: undefined,

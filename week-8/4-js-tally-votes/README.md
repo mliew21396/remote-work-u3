@@ -1,10 +1,10 @@
-[Week 8 and 9 Home](../../)
+[Week 8 Home](../../)
 
-#U3.W8-9: Tally Votes in JavaScript
+#U3.W8: Tally Votes in JavaScript
 
 ## Learning Competencies
 - Define local variables in JavaScript
-- Define functions in JavaScript 
+- Define functions in JavaScript
 - Create, add properties to, delete properties from, and access values in object literals
 
 ## Summary:
@@ -39,7 +39,7 @@ var officers = {
 
 Your task is to go through `votes` and record each student's votes in `voteCount`.  Once the votes have been tallied, assign the winners in `officers`.
 
-For this challenge, you will want to be familiar with `for ... in ...` [looping over an object's properties](http://stackoverflow.com/questions/921789/how-to-loop-through-javascript-object-literal-with-objects-as-members) as well as [bracket notation and accessing nested properties](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/).
+For this challenge, you will want to be familiar with `for ... in ...` [looping over](http://stackoverflow.com/questions/921789/how-to-loop-through-javascript-object-literal-with-objects-as-members) an object's properties as well as bracket notation and accessing nested properties. See this article on [JavaScript basics](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/) for help.
 
 ## Release 0: Run the Tests
 
@@ -51,3 +51,5 @@ For this challenge, you will want to be familiar with `for ... in ...` [looping 
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
+## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
+**Optional but HIGHLY encouraged!**
