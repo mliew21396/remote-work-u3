@@ -10,13 +10,13 @@ There are some interesting mathematical sequences that appear in nature. The [Fi
 
 There are many ways to do this, but you'll first have to understand how the sequence is built. Do a bit of research on that to begin.
 
-For this challenge, make sure you understand every bit of code
+For this challenge, make sure you understand every line of code you write.
 
 ## Release 0: Write [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
 ## Release 1: Write your [initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-Run the [Tests](fibonacci_spec.rb). If your initial solution passes all tests, move on to the next release.
+Once you write the solution, run the [tests](fibonacci_spec.rb). If your initial solution passes all tests, move on to the next release.
 
 ## Release 2: Translate RSpec
 Translate as much of the RSpec as you can into [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md). Make sure your initial solution is passing all of the tests.

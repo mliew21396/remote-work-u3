@@ -18,7 +18,7 @@ In this challenge, you will want to create four instance methodes for a rectangl
 
 ## Release 1: Write your [initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-Run the [Tests](rectangle_spec.rb). If your initial solution passes all tests, move on to the next release.
+Once you write the solution, run the [tests](rectangle_spec.rb). If your initial solution passes all tests, move on to the next release.
 
 ## Release 2: Translate RSpec
 Translate as much of the RSpec as you can into [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md). Make sure your initial solution is passing all of your tests.

@@ -34,7 +34,7 @@ super_fizzbuzz([30, 9, 20, 1]) # => ["FizzBuzz", "Fizz", "Buzz", 1]
 
 ## Release 1: Write your [initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-Run the [Tests](fizz_buzz_spec.rb). If your initial solution passes all tests, move on to the next release.
+Once you write the solution, run the [tests](fizz_buzz_spec.rb). If your initial solution passes all tests, move on to the next release.
 
 ## Release 2: Translate RSpec
 Translate as much of the RSpec as you can into [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md). Make sure your initial solution is passing all of your tests.
