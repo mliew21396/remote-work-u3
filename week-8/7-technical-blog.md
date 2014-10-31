@@ -1,6 +1,6 @@
-[Week 8 and 9 Home](../)
+[Week 8 Home](../)
 
-# U3.W9: Technical Blog
+# U3.W8: Technical Blog
 
 ## Learning Competencies
 - Research a topic of interest
@@ -11,7 +11,7 @@ In your [USERNAME].github.io/blog directory, copy your blog template into a new 
 
 ## Release 1: Research
 
-There are a lot of interesting topics we haven't covered in Phase 0, but will be important for your success at DBC and Beyond. Find a topic that interests you (or create one) and research it. We don't expect you to be experts in any of these, but try to teach others a high level understanding of what it is.
+There are a lot of interesting topics we haven't covered in Phase 0, but will be important for your success at DBC and beyond. Select a topic that interests you (or create one) and research it. We don't expect you to be experts in any of these, but try to teach others a high-level understanding of your topic.
 
 - Active Record
 - Big O Complexity and Notation
@@ -30,20 +30,20 @@ There are a lot of interesting topics we haven't covered in Phase 0, but will be
 - SQL query optimization
 - Functional Programming
 
-## Release 2: Blog!
+## Release 2: Blog
 Write a blog post about what you learned. Teach your audience about it.
 
 ## Release 3: Publish
 Link to your post on the blog/index.html page and push your changes.
 
 ## Release 4: Promote
-Show off your work and share your knowledge with your cohortmates using Twitter!
+Show off your work and share your knowledge with your cohort-mates using Twitter!
 
 Tweet your blog post using **#DBCTech**.
 
 ## Release 5: Read
 
-Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
+Read at least one post another by student. Give the author A.S.K (actionable, specific, and kind) feedback as an issue on their repo or a tweet!
 
 ## Release 6: Update your site (Optional)
 Select one thing you want to change about your [USERNAME].github.io website and change it!

@@ -36,7 +36,7 @@ Tweet your blog post using **#DBCConflict**.
 
 ## Release 5: Read
 
-Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!
+Read at least one post another by student. Give the author A.S.K (actionable, specific, and kind) feedback as an issue on their repo or a tweet!
 
 ## Release 6: Update your site (Optional)
 Select one thing you want to change about your [USERNAME].github.io website and change it!

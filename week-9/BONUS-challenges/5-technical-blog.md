@@ -28,7 +28,7 @@ Link to your blog on the index of your github.io site and push your changes.
 
 ## Release 4: Promote
 
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
+Now it's time to show off your work and share your knowledge with your cohort-mates using Twitter!
 
 Tweet your blog post using the hashtag #DBCSQL
 

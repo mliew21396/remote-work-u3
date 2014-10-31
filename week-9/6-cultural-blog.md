@@ -33,7 +33,7 @@ Make sure the index of your site is maintained, nice, and professional. This is 
 
 ## Release 4: Promote
 
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
+Now it's time to show off your work and share your knowledge with your cohort-mates using Twitter!
 
 Tweet your blog post using #DBCPerfectQs
 

@@ -35,7 +35,7 @@ Design your page with the idea that you and your cohort-mates are the clients. H
 
 Consider the various ways you can present the information in HTML. HTML5 has officially become the new web standard, so use it. Make sure to follow best practices and reserve formatting for your CSS file!
 
-## Release 3: Add Content
+## Release 3: Add content
 Once your template is created, you'll need to add the information you want to present. You can copy and paste from any website or create your own.
 
 ## Release 4: Implement your design
