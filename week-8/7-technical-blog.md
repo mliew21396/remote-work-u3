@@ -1,4 +1,4 @@
-[Week 8 Home](../)
+[Week 8 Home](./)
 
 # U3.W8: Technical Blog
 
