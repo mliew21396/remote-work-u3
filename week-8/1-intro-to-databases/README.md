@@ -21,18 +21,18 @@ If this is your first time working with databases, you will probably want to loo
 - [READING: Relational Database Design](http://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
 
 ## Release 1: One to Many Relationships
-Do you remember the giant hashy hash from the VirusPredictor challenge? This is a perfect example of data better stored in a database. If the data from the `STATE_DATA` was stored in a table, it would look something like:
+Do you remember the giant "hashy hash" from the VirusPredictor challenge? This is a perfect example of data better stored in a database. If the data from the `STATE_DATA` was stored in a table, it would look something like:
 
 id | state_name | population_density | population | region_name | region_id
 ---|------|--------------------|------------|--------|-------
 1 | Alabama| 96.45 | 4822023 | East South Central | 5
 2 | Alaska | 1.1111 | 731449 | North Pacific | 10
 3 | Arizona| 57.05| 6553255 | Mountain |8
-..|........|......|........|..
+..|........|......|........|.......|..
 50 | Wisconsin | 105.2| 5726398 | East North Central | 4
 51 | Wyoming | 5.851| 576412 | Mountain | 8
 
-This is descriptive, but there is some repetition there. It would be really annoying, for instance to have to type in the same region name every time you enter a new state, not to mention open to the possibility of making more mistakes. When designing databases, it's important to minimize the amount of space used and avoid repetition.
+This certainly appears more intuitive and descriptive, but if you look closely there is some repetition. It would be really annoying, for instance, to have to type in the same region name every time you enter a new state, not to mention open to the possibility of making simple typing errors. When designing databases, it's important to minimize the amount of space used and avoid repetition.
 
 Since this isn't very DRY, how can it be fixed? Well, regions and states are fundamentally different things with a relationship. States belong to a region, and regions have many states. This is called a **one-to-many relationship**. You can identify a one-to-many relationship using the phrases "____ belongs to a ____.  ____ has many ____." For example, Wisconsin only belongs to the East North Central Region. The East North Central Region has many states. Because these two things have a one-to-many relationship, it makes far more sense to separate them into two tables.
 
@@ -86,7 +86,7 @@ For the VirusPredictor example, the two tables would be represented like this:
 </pre>
 
 You can use a design tool like [SQL Designer](https://socrates.devbootcamp.com/sql) to draw your schema.
-These tools ask you to specify data types, which were not captured in the table above. In the image below, the yellow fields represent numeric values and the red fields represent text values.
+Theis tool requires you to specify a data type for each field and color codes it accordingly. In the image below, the yellow fields represent numeric values and the red fields represent text values.
 
 ![states_region](imgs/states_region.png)
 
@@ -95,7 +95,7 @@ As you can see, there is a line connecting the `id` field from the `regions` tab
 **NOTE:** In [SQL Designer](https://socrates.devbootcamp.com/sql), you'll notice that you can pick a "type" for each field.  For example, the birthday field should be a "date" type.  There's a core set of datatypes that all SQL-based databases support, but many have additional types. You can read more about that at [w3schools.com](http://www.w3schools.com/sql/sql_datatypes.asp) or on [Wikipedia](http://en.wikipedia.org/wiki/SQL#Data_types). For now, don't worry about using the perfect datatype (i.e. `varchar` vs. `text`), just use the one that colors it appropriately. SQL Designer is a bit weird to use. You have to use the menu at the right and then play with it a bit. You'll get the hang of it soon!
 
 ## Release 3: SELECT statements
-Now that you know a bit about the database, and you already know its contents, it's time to use SQL to query the information.
+Now that you know a bit about the database and its contents, it's time to use SQL to query the information.
 
 Before you can do that, you'll want to navigate to this directory in your terminal and type `sqlite3 state_region.sqlite3`. This will put you into a SQLite shell where you can experiment with SQL commands. You can see the schema for the database by calling `.schema`. You can quit by typing `.exit`.
 
@@ -104,7 +104,7 @@ You'll want to look up commands for each of the challenges using the [SQL Tutori
 Create SQL Queries for the following:
 
 1. Select all data for all states.
-2. Select all data for the regions.
+2. Select all data for all regions.
 3. Select the `state_name` and `population` for all states.
 4. Select the `state_name` and `population` for all states ordered by population. The most populous state should be at the top.
 5. Select the `state_names` for the states in region 7.
@@ -116,7 +116,7 @@ Create SQL Queries for the following:
 
 ## Release 4: One-to-Many Schema
 
-In the 1995 Teen Comedy *Clueless*, Cher (the main character) had a lot of outfits, and an entire software program to help her create them. Make a simple schema design in [SQL Designer](https://socrates.devbootcamp.com/sql) to include `persons` and `outfits` tables. Create at least 4 fields (with general types**) for each table. One of the fields in the `persons` table should refer to the `id` in the `outfits` table. You may want to reference the [conventions.md](conventions.md) file to read about database naming conventions.
+In the 1995 Teen Comedy *Clueless*, Cher (the main character) had a lot of outfits, and an entire software program to help her decide what to wear. Make a simple schema design in [SQL Designer](https://socrates.devbootcamp.com/sql) to include `persons` and `outfits` tables. Create at least 4 fields (with general types**) for each table. One of the fields in the `persons` table should refer to the `id` in the `outfits` table. You should reference the [conventions.md](conventions.md) file to read about database naming conventions.
 
 When you finish, take a screen shot of your schema design, upload it into the imgs directory and include it inline in your [my_solution.md](my_solution.md) file.
 
