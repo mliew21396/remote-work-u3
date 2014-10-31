@@ -1,5 +1,5 @@
-[Week 8 and 9 Home](../)
-# U3.W8: GPS 1.2 - JavaScript
+[Week 8 Home](../)
+# U3.W8: GPS 3.2 - JavaScript
 
 **DO NOT READ THROUGH OR ATTEMPT THIS CHALLENGE BEFORE YOUR GUIDED PAIRING SESSION.**
 
