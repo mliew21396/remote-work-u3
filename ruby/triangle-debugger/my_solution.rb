@@ -4,7 +4,7 @@
 # I worked on this challenge [by myself, with: ].
 
 
-# 1. Original Solution
+# Original Solution
 
 def valid_triangle?(a, b, c, sum)
   if a != 0 || b != 0 || c != 0
@@ -28,7 +28,7 @@ def valid_triangle?(a, b, c, sum)
 end
 
 
-# 2. Answer the question for each bug
+# Answer the question for each bug
 
 # --- Bug 1 ---
 # * what is the exact description of the error?
@@ -46,16 +46,16 @@ end
 # * before you fix the bug, what do you think is causing the error?
 
 
-# 3. Refactored Solution (Comment the other code to run this)
+# Refactored Solution (Comment the other code to run this)
 
 
 
 
-# 1. DRIVER TESTS GO BELOW THIS LINE
+# DRIVER TESTS GO BELOW THIS LINE
 
 
 
 
 
 
-# 5. Reflection
+# Reflection

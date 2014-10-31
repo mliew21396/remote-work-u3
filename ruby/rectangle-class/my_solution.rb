@@ -3,10 +3,10 @@
 
 # I worked on this challenge [by myself, with: ].
 
-# 2. Pseudocode
+# Pseudocode
 
 
-# 3. Initial Solution
+# Initial Solution
 class Rectangle
   attr_accessor :width, :height
 
@@ -21,18 +21,18 @@ end
 
 
 
-# 4. Refactored Solution
+# Refactored Solution
 
 
 
 
 
 
-# 1. DRIVER TESTS GO BELOW THIS LINE
+# DRIVER TESTS GO BELOW THIS LINE
 
 
 
 
 
 
-# 5. Reflection
+# Reflection

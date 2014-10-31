@@ -3,11 +3,11 @@
 
 # I worked on this challenge [by myself, with: ].
 
-# 2. Pseudocode
+# Pseudocode
 
 
 
-# 3. Initial Solution
+# Initial Solution
 
 class Student
   attr_accessor :scores, :first_name
@@ -18,14 +18,14 @@ class Student
 end
 
 
-# 4. Refactored Solution
+# Refactored Solution
 
 
 
 
 
 
-# 1. DRIVER TESTS GO BELOW THIS LINE
+# DRIVER TESTS GO BELOW THIS LINE
 # Tests for release 0:
 
 p students[0].first_name == "Alex"
@@ -48,4 +48,4 @@ p linear_search(students, "NOT A STUDENT") == -1
 
 
 
-# 5. Reflection 
+# Reflection
