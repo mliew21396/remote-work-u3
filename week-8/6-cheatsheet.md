@@ -26,7 +26,7 @@ At some point during Phase 0, you've probably wanted a handy cheat sheet that wo
  - Your own awesome topic!
 
 ## Release 1: Wireframe
-Create a wireframe for your cheat sheet. You can do it on paper or using a wireframing tool. Take an picture/ sreen shot of your wireframe and upload it into this directory.
+Create a wireframe for your cheat sheet. You can do it on paper or using a wireframing tool. Take an picture/screen shot of your wireframe and upload it into this directory.
 
 ## Release 2: Create a template
 Create a new file in your github.io repository called `cheatsheet.html`
