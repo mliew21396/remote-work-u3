@@ -1,5 +1,5 @@
 /*
-U3.W8-9: Gradebook from Names and Scores
+U3.W8: Gradebook from Names and Scores
 
 You will work with the following two variables.  The first, students, holds the names of four students.
 The second, scores, holds groups of test scores.  The relative positions of elements within the two

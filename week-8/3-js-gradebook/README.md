@@ -24,7 +24,7 @@ You will take this data and transform it into a grade book.  The grade book will
 Follow the steps below to make the tests pass and complete the challenge in your [my_solution.js](my_solution.js) file.  The order of the steps
 corresponds to the order of the tests. After completing each step, run the code to check it has passed the test.
 
-In the past, you had the option of using dot notation or bracket notation. In this challenge you are forced to use bracket notation to reference some properties. Find out why here [medium article](https://medium.com/@prufrock123/js-dot-notation-vs-bracket-notation-797c4e34f01d) on dot vs. bracket notation.
+In the past, you had the option of using dot notation or bracket notation. In this challenge you are forced to use bracket notation to reference some properties. Find out why in this [medium article](https://medium.com/@prufrock123/js-dot-notation-vs-bracket-notation-797c4e34f01d) on dot vs. bracket notation.
 
 ## Release 0: Create `gradebook`
 
@@ -57,7 +57,7 @@ Have `average` accept an array of integers and return the average of those integ
 
 ## Release 6: Modify `getAverage`
 
-Modify `getAverage` so that it accepts a `name` as a String (e.g., "Joseph") and returns the named student's average score. Use the average function you created in Release 4.
+Modify `getAverage` so that it accepts a `name` as a String (e.g., "Joseph") and returns that student's average score. Use the average function you created in Release 4.
 
 ## Release 7: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
