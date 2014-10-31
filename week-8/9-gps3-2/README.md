@@ -29,7 +29,7 @@ Would it make more sense to have `win` be defined as a function expression or a 
 
 Create a function that accepts a string as an argument and reverses it.
 
-Use the built-in JavaScript methods for strings and arrays to accomplish this. See: [MDN string docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) and [MDN array docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter).
+Use the built-in JavaScript methods for strings and arrays to accomplish this. See the MDN [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) and [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) docs.
 
 **HINT:** Think about how you would write this in Ruby and translate!
 
