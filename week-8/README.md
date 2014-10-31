@@ -25,7 +25,7 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W
 
 ## Remember your expectations for the unit!
 - Pair at least twice each week. *You need to pair* ***6*** *times this unit*
-- Give feedback for each person you paired with. *You need to submit at least 8 pieces of feedback in this unit* (6 for peer-pairing, and 2 GPS)
+- Give feedback for each person you paired with. *You need to submit at least 8 pieces of feedback in this unit.* (6 for peer-pairing, and 2 GPS)
 - Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) per week on Socrates. *You need to rate 20 pieces of feedback per unit.*
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
