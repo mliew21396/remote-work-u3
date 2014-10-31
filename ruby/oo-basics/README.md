@@ -22,7 +22,7 @@ Compute and assign a score average and a letter grade to each student. Letter gr
 Write a [linear_search](http://en.wikipedia.org/wiki/Linear_search) method that searches the student array for a student's `first_name` and returns the position of that student if they are in the array. If the student is not in the array then the method should return -1.
 
 ## Release 3: Write your Tests
-Write your own [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
+Write your own [driver test code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
 
 ## Release 4: Binary Search (Optional)
 Write a [binary_search](http://en.wikipedia.org/wiki/Binary_search_algorithm) method that searches the student array for a student's first_name and returns the position of that student if they are in the array. If the student is not in the array then the method should return -1.  You can write a iterative (or recursive, if you are comfortable with that) version of `binary_search`.
