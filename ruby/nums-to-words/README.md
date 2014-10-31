@@ -19,7 +19,7 @@ in_words(27)       # => "twenty seven"
 in_words(92)       # => "ninety two"
 ```
 
-Source: Chris Pine, [Learn to Program](https://pine.fm/LearnToProgram/)
+Source: Chris Pine, *[Learn to Program](https://pine.fm/LearnToProgram/)*
 
 
 ## Release 0: Write [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
