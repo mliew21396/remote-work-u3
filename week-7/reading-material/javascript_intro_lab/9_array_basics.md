@@ -42,9 +42,9 @@ var dummy = "foobar";
 Let's take a look at that array of months from above.  Paste the following into the browser console.
 
 ```javascript
-var months = ["January", "February", "March", 
-              "April", "May", "June", 
-              "July", "August", "September", 
+var months = ["January", "February", "March",
+              "April", "May", "June",
+              "July", "August", "September",
               "October", "November", "December"];
 ```
 
@@ -104,4 +104,4 @@ Click [next](10_array_operations.md) to go to the next section.
 ### References
 
 [MDN: JS Reference: Array](https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/)<br>
-[hunlock.com: Mastering JavaScript Arrays](http://www.hunlock.com/blogs/Mastering_Javascript_Arrays)
+[hunlock.com: Mastering JavaScript Arrays](http://www.hunlock.com/blogs/Mastering_JavaScript_Arrays)

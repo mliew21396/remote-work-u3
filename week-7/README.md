@@ -11,7 +11,7 @@ This week focuses on the basics of the JavaScript language. You will have more a
 ## Challenges
 1. [Code Combat](1-code-combat)
 2. [Eloquent JavaScript](2-eloquent-js)
-3. [Javascript Variables and Objects](3-js-variables-objects)
+3. [JavaScript Variables and Objects](3-js-variables-objects)
 4. [Manipulating JavaScript Objects](4-manipulating-js-objects)
 5. [Design Your Own Code Combat Mission- SOLO CHALLENGE](5-design-cc-mission-solo-challenge)
 6. [Group Project](6-group-project) **Check this out early!**
