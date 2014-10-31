@@ -24,7 +24,7 @@ If this is your first time working with databases, you will probably want to loo
 Do you remember the giant hashy hash from the VirusPredictor challenge? This is a perfect example of data better stored in a database. If the data from the `STATE_DATA` was stored in a table, it would look something like:
 
 id | state_name | population_density | population | region_name | region_id
----|------|--------------------|------------|--------
+---|------|--------------------|------------|--------|-------
 1 | Alabama| 96.45 | 4822023 | East South Central | 5
 2 | Alaska | 1.1111 | 731449 | North Pacific | 10
 3 | Arizona| 57.05| 6553255 | Mountain |8

@@ -1,13 +1,15 @@
 # SQL and Review
 
-This week you'll learn a bit about SQL and databases and then dive into review. The review will encourage you to dive deeper into topics and clean out any cobwebs so you are ready to start Phase 1. This week will be the more demanding than next week due to covering some new material.
+This week you'll learn a bit about SQL and databases and then move into review.
+
+The review will encourage you to dive deeper into topics and clean out any cobwebs so you are ready to start Phase 1. Because you are covering some new material this week, week 8 will be a bit more demanding than week 9.
 
 ## Challenges
 1. [Introduction to Databases](1-intro-to-databases)
 2. [More Schemas](2-more-schemas)
 3. [JavaScript Gradebook](3-js-gradebook)
 4. [JavaScript Tally Votes](4-js-tally-votes)
-5. [Ruby Challenge](5-ruby)
+5. [Ruby Challenge](5-ruby.md)
 6. [Cheat Sheet](6-cheatsheet.md) **Pairing Challenge**
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md) *one per week*
