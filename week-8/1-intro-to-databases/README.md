@@ -123,7 +123,7 @@ When you finish, take a screen shot of your schema design, upload it into the im
 ** For types, just select the type that creates the right color. It doesn't matter right now whether you select between TEXT or VARCHAR for example. As long as it's yellow you're ok.
 
 ## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-in the reflection section of your [my_solution.md](my_solution.md) file.
+Reflect on your process and learning in the [my_solution.md](my_solution.md) file.
 
 ## Release 7: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) (Optional)
 **Optional but HIGHLY encouraged!**
