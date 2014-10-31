@@ -29,8 +29,7 @@ You will find test code in the [my_solution.js](./my_solution.js) file associate
 ## Release 1: Pass the Tests
 You'll want to follow the outline below. Note that each step should build on but not modify any of the code before it.
 
-1. Define a variable `adam` and use object literal notation to assign this variable
- the value of a JavaScript Object with no properties.
+1. Define a variable adam and use object literal notation to assign this variable the value of an object with no properties
 
 2. Give `adam` a name property with the value "Adam".
 
@@ -43,18 +42,15 @@ You'll want to follow the outline below. Note that each step should build on but
 6. Add a spouse property to `adam` and assign it the value of `terah`.
 
 7. Add a children property to `terah` and and use object literal notation to assign
- this variable the value of a JavaScript Object object with no properties.
+ this variable to an empty object.
 
-8. Add a `carson` property to the value of the `terah` children property and assign it
- the value of an object with the property name with a value of "Carson".
+8. Add a `carson` property to the value of the `terah` children property. `carson` should be an object with a property `name` with the value "Carson".
 
-9. Add a carter property to the value of the `terah` children property and assign it
- the value of an object with the property name with a value of "Carter".
+9. Add a `carter` property to the value of the `terah` children property. `carter` should be an object with a property `name` with the value "Carter".
 
-10. Add a `colton` property to the value of the `terah` children property and assign it
- the value of an object with the property name with a value of "Colton".
+10. Add a `colton` property to the value of the `terah` children property. `colton` should be an object with a property `name` with the value "Colton".
 
-11. Add a children property to `adam` and assign it the value of `terah` children.
+11. Add a children property to `adam` and assign it the value of `terah.children`.
 
 Follow the steps below to make the tests pass and complete the challenge.
 The order of the steps corresponds to the order of the tests. After completing
