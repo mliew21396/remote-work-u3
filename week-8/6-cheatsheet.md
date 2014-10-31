@@ -3,7 +3,7 @@
 #U3.W8: Create a Cheat Sheet Pairing Challenge
 
 ## Learning Competencies
-- Use HTML tags to place content on a website
+- Use HTML5 tags to place content on a website
 - Apply CSS to position elements on an HTML page
 - Illustrate fundamentals of web design and user experience in your website
 
