@@ -1,4 +1,4 @@
-// U3.W8-9: 
+// U3.W8-9:
 
 
 // I worked on this challenge [by myself, with: ].
@@ -19,11 +19,11 @@
 
 
 
-// 1. DRIVER TESTS/ASSERT STATEMENTS GO BELOW THIS LINE
+// 1. DRIVER TESTS GO BELOW THIS LINE
 
 
 
 
 
 
-// 5. Reflection 
+// 5. Reflection
