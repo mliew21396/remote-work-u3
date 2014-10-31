@@ -1,4 +1,4 @@
-[Week 8 Home](../../)
+[Week 8 Home](../)
 
 #U3.W8: Tally Votes in JavaScript
 
@@ -6,6 +6,7 @@
 - Define local variables in JavaScript
 - Define functions in JavaScript
 - Create, add properties to, delete properties from, and access values in object literals
+- Loop over an object's properties in JavaScript
 
 ## Summary:
 
