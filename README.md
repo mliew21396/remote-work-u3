@@ -2,10 +2,11 @@
 
 This unit has a lot of review built in and introduces you to a few new concepts, including JavaScript, SQL basics, and Schema Design.
 
-## [Week 7: JavaScript](week-7)
-Week 8 and 9 material will be released the Friday before the week begins.
-<!-- ## [Week 8: SQL and Review](week-8)
-## [Week 9: Review](week-9) -->
+## [Week 7: JavaScript](week-7/README.md)
+## [Week 8: SQL and Review](week-8/README.md)
+
+Week 9 material will be released next Friday.
+<!-- ## [Week 9: Review](week-9) -->
 
 ## Unit Goals
 - [Peer-Pair program](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) at least 6 times. Read about [pairing](https://github.com/Devbootcamp/phase-0-handbook/blob/master/pairing-in-phase-0.md) before hand.
