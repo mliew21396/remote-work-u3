@@ -27,8 +27,9 @@ Source: Chris Pine, [Learn to Program](https://pine.fm/LearnToProgram/)
 ## Release 1: Write your [initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
 ## Release 2: Write your Tests
-Write your own [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md)
-You definitely don't want to have to check all the possible cases by hand each time. Make sure you are testing a bunch of irregular numbers.
+Write your own [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md).
+
+You definitely don't want to have to check all the possible cases by hand each time, so make sure you are testing a bunch of irregular numbers.
 
 ## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
