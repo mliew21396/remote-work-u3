@@ -53,6 +53,6 @@ console.log(michaelPhelps.name + " " + michaelPhelps.sport + " " + michaelPhelps
 ```
 
 
-## Release 6: Reflect
+## Release 5: Reflect
 
 Whew! Nice work, you must be exhausted, take some time to cool down and reflect individually after the session is over. Include your reflection in your [my_solution.js](my_solution.js) file. This should take about 10-15 minutes.
