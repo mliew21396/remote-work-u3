@@ -18,7 +18,7 @@ In order to fully complete the challenge, you will need to:
 
 You should use time-management strategies to keep yourself on task and motivated. Check in with yourself often. This can be a simple challenge if you design it that way, or you could build an elaborate world. Keep it simple at first. You can always add on later.
 
-Click [here](http://kiopelani.github.io/Projects/orpheus_game.html) to see one student's bonus solution to the challenge. You don't have to go this in depth, but it's a great example of student creativity.
+Click [here](http://kiopelani.github.io/Projects/orpheus_game.html) to see one student's solution (they completed the optional release to make it a web game). You don't have to go this in depth, but it's a great example of student creativity.
 
 ## Release 0: Design your Mission
 
