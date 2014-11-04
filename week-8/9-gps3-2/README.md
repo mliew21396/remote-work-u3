@@ -21,7 +21,7 @@ Create athlete profiles for you and your pair. Include your name, height, sport,
 
 ## RELEASE 1: Bulk up: Add properties to objects
 
-Create a function that can take an array of athletes and and adds a property called `win`. `win` should print "{name} won the {event}!"
+Create a function that can take an array of athletes and and adds a property called `win`. `win` should print "{name} won the {sport}!"
 
 Would it make more sense to have `win` be defined as a function expression or a function declaration?
 
