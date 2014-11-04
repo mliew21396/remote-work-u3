@@ -1,6 +1,6 @@
-[Week 8 and 9 Home](./)
+[Week 9 Home](./)
 
-#U3.W8-9: Grocery List in JavaScript  
+#U3.W9: Grocery List in JavaScript
 
 ## Learning Competencies
 - Define functions in JavaScript

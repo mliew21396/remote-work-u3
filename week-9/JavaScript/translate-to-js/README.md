@@ -1,6 +1,6 @@
-[Week 8 and 9 Home](../../)
+[Week 9 Home](../../)
 
-#U3.W8-9: Translate a Ruby Challenge into JS
+#U3.W9: Translate a Ruby Challenge into JS
 
 ## Learning Competencies
 - Define functions in JavaScript

@@ -1,6 +1,6 @@
-[Week 8 and 9 Home](./)
+[Week 9 Home](./)
 
-#U3.W8-9: Introduction to JQuery
+#U3.W9: Introduction to JQuery
 
 ## Learning Competencies
 - link an external JavaScript file to an HTML file

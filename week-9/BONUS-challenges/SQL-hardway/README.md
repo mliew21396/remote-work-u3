@@ -1,6 +1,6 @@
-[Week 7 Home](../)
+[Week 9 Home](../../)
 
-# U3.W7: Learn SQL the Hard Way
+# U3.W9: Learn SQL the Hard Way
 
 ## Learning Competencies
 - Create a database with multiple tables

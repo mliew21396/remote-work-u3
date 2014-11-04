@@ -1,4 +1,4 @@
-[Week 8 and 9 Home](./)
+[Week 9 Home](./)
 
 #U3.W9: Hang Out with your Cohort
 
