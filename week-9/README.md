@@ -2,11 +2,12 @@
 
 Week 9 Curriculum will be released next Friday.
 
-<!-- You've learned a lot of diverse material in Phase 0, and now you are only one week away from Phase 1. We hope you're excited! This week's work-load is a little lighter, which will hopefully give you some breathing room for moving and resting up before Phase 1 starts.
+<!-- You are only one week away from Phase 1. We hope you're excited! This week's workload is a little lighter, which will hopefully give you some breathing room for moving and resting up before Phase 1 starts. See your friends, spend time with your family, but also make sure you beef up on your fundamentals. Try teaching anyone who will listen about the many concepts you've learned. Teaching is the best way to determine what you need to learn more about.
 
 ## Challenges
 
 The challenges this week can be done in any order.
+
 1. [Professional Blog](professional_blog.md)
 2. [JavaScript Challenges](2-JavaScript) *select 2*
 3. [Ruby Challenges](1-HTML-CSS) *select 2*
