@@ -1,4 +1,4 @@
-[Week 9 Home](./)
+[JavaScript Home](../)
 
 #U3.W9: Grocery List in JavaScript
 

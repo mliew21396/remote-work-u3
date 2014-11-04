@@ -1,4 +1,4 @@
-[Week 9 Home](../../)
+[JavaScript Home](../)
 
 #U3.W9: Translate a Ruby Challenge into JS
 
@@ -11,16 +11,12 @@
 ## Summary:
 Find a Ruby challenge you particularly enjoyed. Then solve it again using JavaScript.
 
-## Release 0: Write your Tests
-Write [Driver Test Code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/driver-code.md) in JS!
+## Release 0: Write [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
+## Release 1: Write your [initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-## Release 1: Write [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
+## Release 2: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
-## Release 2: Write your [initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
+## Release 3: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
-
-## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
-
-## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
+## Release 4: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) *Optional, but highly recommended*

@@ -1,4 +1,4 @@
-[Week 9 Home](./)
+[JavaScript Home](../)
 
 #U3.W9: Introduction to JQuery
 
@@ -13,13 +13,13 @@
 ## Summary
 jQuery is a feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. In this challenge you will write some basic jQuery to modify a simple web page.
 
-You may want to take a look at Codecademy's [JQuery Course](http://www.codecademy.com/en/tracks/jquery) before tackling this challenge.
+You may want to take a look at Codecademy's [JQuery Course](http://www.codecademy.com/en/tracks/jQuery) before tackling this challenge.
 
 
 ## Releases
 
 ## Release 0: Link the image
-The image isn't loading! You'll want to fix this so you can actually see the dbc_logo.jpg first. There is an image in the `imgs` directory in the `week-8-and-9` directory.
+The image isn't loading! You'll want to fix this so you can actually see the dbc_logo.jpg first.
 
 ## Release 1: Link your code
 This challenge directory contains two files, `jquery_example.html` and `jquery_example.js`.  Open both of these in Sublime for editing, and then open the  `jquery_example.html`  file in a Chrome Browser for viewing.  You should see a very simple web page.  If you open the Chrome DevTools Console tab (right click on the page and choose Inspect Element) you should see an error that looks like:
@@ -28,21 +28,21 @@ This challenge directory contains two files, `jquery_example.html` and `jquery_e
 Uncaught ReferenceError: $ is not defined
 ```
 
-This is because the `jquery_example.html` file contains a link to the `jquery_example.js` file and this file contains code (see line 1) that relies on the jQuery library.  To fix this error add a link to the [jQuery CDN](https://developers.google.com/speed/libraries/devguide#jquery) in the to the `<head>` section of the  `jquery_example.html` file :
+This is because the `jquery_example.html` file contains a link to the `jquery_example.js` file and this file contains code (see line 1) that relies on the jQuery library.  To fix this error add a link to the [jQuery CDN](https://developers.google.com/speed/libraries/devguide#jQuery) in the to the `<head>` section of the  `jquery_example.html` file :
 
 ```
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jQuery/1.10.2/jQuery.min.js"></script>
 
 ```
 Now if you refresh the browser you should see the simple web page with a colored background.
 
 ## Release 2: Selecting Elements with jQuery
-jQuery allows you to select elements by their id, class, tag name or other css style selectors.  Use several different [jQuery Selectors](http://api.jquery.com/category/selectors/) to select the elements on this page.  Verify your selectors work by assigning them to a variable and then viewing this variable in the console.
+jQuery allows you to select elements by their id, class, tag name or other css style selectors.  Use several different [jQuery Selectors](http://api.jQuery.com/category/selectors/) to select the elements on this page.  Verify your selectors work by assigning them to a variable and then viewing this variable in the console.
 
 For example, the add the code `bodyElement = $('body')` to the `jquery_example.js` file and then in the Chrome DevTools Console type `bodyElement`.  This should show a jQuery object in the console.
 
 ## Release 3: Modify Elements with jQuery
-The jQuery [css method ]( http://api.jquery.com/css/) allows you to modify a selected elements css.  Use this to change the following css attributes on the `<h1>` element in the body (not the `<h1>` element in the mascot div):
+The jQuery [css method ]( http://api.jQuery.com/css/) allows you to modify a selected elements css.  Use this to change the following css attributes on the `<h1>` element in the body (not the `<h1>` element in the mascot div):
 
 1. color
 2. border
@@ -63,10 +63,10 @@ jQuery has an `.on( )` method to register event handlers.  Let's use this to cha
   })
 ```
 
-You may notice that this effect doesn't reload the original image when your mouse leaves the element.  Apply a [jQuery Event](http://api.jquery.com/category/events/) to show the original `dbc_logo.jpg`
+You may notice that this effect doesn't reload the original image when your mouse leaves the element.  Apply a [jQuery Event](http://api.jQuery.com/category/events/) to show the original `dbc_logo.jpg`
 
 ## Release 5: Have Some Fun
-There are a lot of effects you can implement with jQuery.  Use the [jQuery Animate](http://api.jquery.com/animate/) method to animate the size and border of the mascot image.
+There are a lot of effects you can implement with jQuery.  Use the [jQuery Animate](http://api.jQuery.com/animate/) method to animate the size and border of the mascot image.
 
 ## Helpful Resources
-* [jQuery](http://jquery.com/ )
+* [jQuery](http://jQuery.com/ )

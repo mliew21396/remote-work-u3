@@ -1,5 +1,10 @@
-// Unit 3 Week 8 DOM Manipulation Challenge
-// Add you JavaScript calls to this page:
+// U3.W9: DOM Manipulation Challenge
+
+
+// I worked on this challenge [by myself, with: ].
+
+
+// Add your JavaScript calls to this page:
 
 // Release 0:
 

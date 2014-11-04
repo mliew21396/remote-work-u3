@@ -1,29 +1,21 @@
-// U3.W8-9: Challenge you're converting
+// U3.W9: Challenge you're converting
 
 
 // I worked on this challenge [by myself, with: ].
 
-// 2. Pseudocode
+// Pseudocode
 
 
 
-// 3. Initial Solution
-
-
-
-
-// 4. Refactored Solution
+// Initial Solution
 
 
 
 
-
-
-// 1. DRIVER TESTS GO BELOW THIS LINE
+// Refactored Solution
 
 
 
 
 
-
-// 5. Reflection
+// Reflection
