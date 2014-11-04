@@ -8,12 +8,12 @@ Week 9 Curriculum will be released next Friday.
 
 The challenges this week can be done in any order.
 
-1. [Professional Blog](professional_blog.md)
+1. [Professional Blog](1-professional-blog.md)
 2. [JavaScript Challenges](2-JavaScript) *select 2*
-3. [Ruby Challenges](1-HTML-CSS) *select 2*
-4. [Cultural Blog](6-cultural-blog.md)
-5. [Cohort Bonding](7-cohort-bonding.md)
-6. [BONUS Challenges](BONUS-challenges) *Optional*
+3. [Ruby Challenges](3-ruby.md) *select 2*
+4. [Cultural Blog](4-cultural-blog.md)
+5. [Cohort Bonding](5-cohort-bonding.md)
+6. [BONUS Challenges](6-BONUS-challenges) *Optional*
 
 If this week is too light for you, complete all of the challenges and review any BONUS challenges you missed from previous weeks. Read the *Well-Grounded Rubyist* or re-read POODR.
 

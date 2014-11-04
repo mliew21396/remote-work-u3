@@ -7,4 +7,4 @@ By the weekend before Phase 1, most of your cohort should be in town. Get togeth
 
 Have fun getting to know everyone!
 
-This is not an official challenge or requirement, but it's a good idea. =)
+This is not an official challenge or requirement, simply a good idea. =)
