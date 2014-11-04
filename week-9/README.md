@@ -15,7 +15,7 @@ The challenges this week can be done in any order.
 5. [Cohort Bonding](7-cohort-bonding.md)
 6. [BONUS Challenges](BONUS-challenges) *Optional*
 
-If this week is too light for you, complete all of the challenges and review any BONUS challenges you missed from previous weeks. Read the Well-Grounded Rubyist or re-read POODR.
+If this week is too light for you, complete all of the challenges and review any BONUS challenges you missed from previous weeks. Read the *Well-Grounded Rubyist* or re-read POODR.
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W9.**
 
