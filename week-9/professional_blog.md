@@ -1,6 +1,6 @@
 [Week 9 Home](./)
 
-#U3.W9: Make your Blog Professional Grade!
+#U3.W9: Make your Blog Professional Grade
 
 ## Learning Competencies
 - Evaluate a website in terms of design and user experience
@@ -15,13 +15,11 @@ Don't forget to continue contributing to your blog when you are on site as well.
 ## Release 0: Revisit your github.io site
 What is your impression of the site? What do you think of the experience when compared to other websites you like? Jot some notes on what you would like to change. You can also decide to completely rework your CSS and HTML.
 
-## Release 1: Wireframe/Modify your site
-You can either choose to implement [Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) on your github.io page or you can write all of your HTML and CSS again. Make it look awesome!
-
-You can also take this time to rewrite or edit any of your earlier posts!
+## Release 1: Modify your site
+You can choose to implement [Jekyll](https://help.github.com/articles/using-jekyll-with-pages/), Bootstrap, etc. on your github.io site or you can modify your HTML and CSS without using a framework. Make the site look great and refresh your HTML/CSS skills. Frameworks can be a bit of a pain to set up and get running, so be prepared for that if you choose to go that route. You can also take this time to rewrite or edit any of your earlier posts.
 
 ## Release 2: Get Reviews
-Send your site to some people you trust. What are their impressions? Would they want to continue reading your blog?
+Send your site to at least two people you trust to get feedback. Would they want to continue reading your blog?
 
 ## Release 3: Integrate the feedback
 Take the feedback you like and implement it. Did it improve your site?
