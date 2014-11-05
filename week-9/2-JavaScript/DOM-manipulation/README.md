@@ -3,19 +3,21 @@
 #U3.W9: DOM Manipulation Challenge
 
 ## Learning Competencies
-- Execute JavaScript functions that change the appearance of the DOM
-- Explain the DOM API and why it is important to web developers
-- Use HTML5 tags to simplify code
+- Modify the appearance of the DOM using JavaScript
+- Explain the DOM API and its importance to web developers
+- Use HTML5 tags to make code more readable
 
 ## Summary
 
-This challenge is all about the Document Object Model (DOM). Mozilla developer network has a great resource on understanding the definitions of the DOM and why it is important [MDN DOM guide](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM). You can manipulate the HTML elements on the page, the browser history, create animations, and utilize the full screen of the computer all using JavaScript. You can imagine that this is a very useful tool for any web developer to have!
+This challenge is all about the Document Object Model (DOM) and JavaScript. You can manipulate the HTML elements on the DOM, the browser history, create animations, and utilize the full screen of the computer all using JavaScript. You can imagine that this is a very useful tool for any web developer to have!
 
 Fun trick, open up your dev tools console in one of your tabs and enter this command to go back in your history without using any buttons or keyboard shortcuts!
 
 `window.history.go(-1)` To go further back use a smaller negative number (-2, -3 , etc.).
 
 In this exercise, you will get your feet wet with DOM manipulation using ECMAscript 5. No imported libraries such as jQuery will be used in this exercise.
+
+Please read the [MDN DOM guide](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM) for getting a good definition of the DOM and why it is important.
 
 You will find all of the methods you need in this resource [MDN document docs](https://developer.mozilla.org/en-US/docs/Web/API/document). Particularly the getElementByClassName, getElementById. Also, here is a great cheat sheet by Over-API [Over-API DOM Reference](http://overapi.com/html-dom/).
 
