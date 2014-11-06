@@ -17,7 +17,7 @@ Write your code in Stypi and run your code in Node.
 
 ## RELEASE 0: Warm up: Objects
 
-Create athlete profiles for you and your pair. Include your name, height, sport, and quote. You can use object literal notation for this exercise. Test in Node to make sure your properties are defined properly. Create a variable athleteArray that holds your athlete profiles to use in the next release. 
+Create athlete profiles for you and your pair. Include your name, height, sport, and quote. You should use object literal notation for this exercise. Test in Node to make sure your properties are defined properly. Create a variable athleteArray that holds your athlete profiles to use in the next release. 
 
 ## RELEASE 1: Bulk up: Add properties to objects
 
