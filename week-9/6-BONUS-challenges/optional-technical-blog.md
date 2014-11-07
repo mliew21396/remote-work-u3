@@ -1,4 +1,4 @@
-[Week 9 BONUS](../)
+[Week 9 BONUS](./)
 
 # U3.W9: Optional Technical Blog
 
