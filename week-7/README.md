@@ -31,10 +31,13 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W
 - Complete the week 7 extension request. (You only get to apply for an extension for week 7 in Unit 3).
 - When the work is complete, turn it in using the [week's submission form](http://apply.devbootcamp.com).
 
-## Remember your Unit Expectations!
-- Pair at least twice this week.  *You need to pair 6 times on your own this unit*
-- Give feedback for each person you paired with. *You need to submit at least 8 pieces of feedback in this unit* `{GPS: 2, peer-pairing: 6}`
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) on Socrates. *You need to rate 20 pieces of feedback per unit*
+## Remember the Unit Expectations!
+
+Expectation | Times per Unit | Times per Week
+------------|----------|---------
+[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 6 | >= 2
+[Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 8 | >=2
+Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## Resources
 - [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
