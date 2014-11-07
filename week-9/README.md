@@ -24,12 +24,12 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W
 
 **There are no extensions available for week 9. It is vital to your ability to attend DBC on site that you get your work in by the deadline.**
 
-## Remember your expectations for the unit!
+## Remember the Unit Expectations!
 
-Expectation | per Unit | per Week
+Expectation | Times per Unit | Times per Week
 ------------|----------|---------
-[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 6 times | >= 2
-[Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 8 times | >=2
-Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 times | 7
+[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 6 | >= 2
+[Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 8 | >=2
+Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)

@@ -31,7 +31,7 @@ Set the display property of div.release-2 to none.
 
 ## Release 2: Change Text
 
-Change the inner text of the <h1> tag to "I completed release 3."
+Change the inner text of the `<h1>` tag to "I completed release 3."
 
 ## Release 3: Add a Background Color
 

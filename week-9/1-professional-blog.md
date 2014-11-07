@@ -7,13 +7,15 @@
 - Use HTML tags to place content on a website
 - Manipulate HTML elements using CSS
 
-## Summary:
-You've been blogging over 8 weeks now, and you have a lot of great material! Now's your chance to edit your work and make your site professional before you get on site. You want this to be (more) ready for employers when you graduate!
+## Summary
+You've been blogging over 8 weeks now, and you have a lot of great material! Now's your chance to edit your work and make your site more professional before you get on site.
 
 Don't forget to continue contributing to your blog when you are on site as well. Blogging won't be mandatory, but it will certainly be useful for solidifying concepts.
 
+## Releases
+
 ## Release 0: Revisit your github.io site
-What is your impression of the site? What do you think of the experience when compared to other websites you like? Consider what you would like to change now and compare that with your plan for maintenance you created in week 2. You can also decide to completely rework your CSS and HTML based on your existing plan or your new ideas.
+What is your impression of the site? What do you think of the experience when compared to other websites you like? Consider what you would like to change now and compare that with your plan for maintenance you created in week 2. You can also decide to completely rework your CSS and HTML based on the maintenance/improvement plan or your new ideas.
 
 ## Release 1: Modify your site
 You can choose to implement [Jekyll](https://help.github.com/articles/using-jekyll-with-pages/), Bootstrap, etc. on your github.io site or you can modify your HTML and CSS without using a framework. Make the site look great and refresh your HTML/CSS skills. Frameworks can be a bit of a pain to set up and get running, so be prepared for that if you choose to go that route. You can also take this time to rewrite or edit any of your earlier posts.

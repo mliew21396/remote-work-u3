@@ -13,12 +13,12 @@
 ## Summary
 jQuery is a feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. In this challenge you will write some basic jQuery to modify a simple web page.
 
-You may want to take a look at Codecademy's [JQuery Course](http://www.codecademy.com/en/tracks/jQuery) before tackling this challenge.
+You may want to take a look at Codecademy's [JQuery Course](http://www.codecademy.com/tracks/jQuery) before tackling this challenge.
 
 ## Releases
 
-## Release 0: Link the image
-The image isn't loading! You'll want to fix the image link so you can actually see the dbc_logo.png.
+## Release 0: Fix the image
+The image isn't loading! You'll want to fix the image link so you can actually view the `dbc_logo.png` image.
 
 ## Release 1: Link your code
 This challenge directory contains two files, `jquery_example.html` and `jquery_example.js`. Open both of these in Sublime for editing, and then open the `jquery_example.html` file in a Chrome Browser for viewing. You should see a very simple web page. If you open the Chrome DevTools Console tab (right click on the page and choose Inspect Element) you should see an error that looks like:
@@ -41,7 +41,7 @@ jQuery allows you to select elements by their id, class, tag name or other css s
 For example, the add the code `bodyElement = $('body')` to the `jquery_example.js` file and then in the Chrome DevTools Console type `bodyElement`. This should show a jQuery object in the console.
 
 ## Release 3: Modify Elements with jQuery
-The jQuery [css method ]( http://api.jQuery.com/css/) allows you to modify a selected elements css. Use this to change the following css attributes on the `<h1>` element in the body (not the `<h1>` element in the mascot div):
+The jQuery [css method]( http://api.jQuery.com/css/) allows you to modify a selected elements css. Use this to change the following css attributes on the `<h1>` element in the body (not the `<h1>` element in the mascot div):
 
 1. color
 2. border

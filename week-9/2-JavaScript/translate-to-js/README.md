@@ -21,4 +21,5 @@ Find a Ruby challenge you particularly enjoyed. Then solve it again using JavaSc
 
 ## Release 3: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 4: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) *Optional, but highly recommended*
+## Release 4: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
+*Optional, but highly recommended*

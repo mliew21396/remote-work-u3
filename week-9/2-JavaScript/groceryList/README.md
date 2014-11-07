@@ -19,7 +19,7 @@ You can keep it as a terminal program, OR you can look into creating an HTML ver
 Revisit your user stories from the GPS challenge. Do you want to modify any of the stories for this challenge?
 
 ## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
-What needs to change in your pseudocode to use JavaScript. Try to re-write your pseudocode completely thinking from JavaScript rather than Ruby.
+What needs to change in your pseudocode to use JavaScript? Try to re-write your pseudocode completely thinking from a JavaScript perspective (as opposed to Ruby).
 
 ## Release 2: Write your [Initial Solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
@@ -27,4 +27,5 @@ What needs to change in your pseudocode to use JavaScript. Try to re-write your 
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 
-## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) *Optional but highly recommended*
+## Release 5: [Review](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md)
+*Optional but highly recommended*
