@@ -3,7 +3,6 @@
 ## Learning Competencies
 - Use strings, integers, arrays, and hashes
 - Use if/else statements, string methods, while/until loops, Enumerable#each methods
-- Translate driver test code into assert statements
 
 ## Summary:
 
