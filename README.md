@@ -8,11 +8,11 @@ This unit has a lot of review built in and introduces you to a few new concepts,
 
 ## Unit Goals
 
-Expectation | per Unit |
+Expectation | Times per Unit |
 ------------|----------|
-[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | at least 6 times
-[Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | at least 8 times
-Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 times
+[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | at least 6
+[Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | at least 8
+Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20
 
 #### How to navigate this repository
 If you would like to open tabs in a new window, please either right click or hold command while you click.
