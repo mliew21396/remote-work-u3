@@ -29,7 +29,7 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W
 Expectation | per Unit | per Week
 ------------|----------|---------
 [Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 6 times | >= 2
-[Give feedback](https://socrates.devbootcamp.com/feedback/new) to pairs | 8 times | >=2
+[Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 8 times | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 times | 7
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
