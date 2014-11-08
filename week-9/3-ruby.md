@@ -1,6 +1,6 @@
 [Week 9](./)
 
-#U3.W8: Ruby
+#U3.W9: Ruby
 
 Select TWO of the challenges in the [ruby](../ruby) directory to complete that you didn't cover in [Week 8](../week-8).
 

@@ -1,6 +1,6 @@
-[Week 7 Home](./)
+[Week 9 BONUS](./)
 
-# U3.W7: Technical Blog
+# U3.W9: Optional Technical Blog
 
 ## Learning Competencies
 - Explain SQL injection and identify ways to prevent it
@@ -9,7 +9,7 @@
 
 
 ## Release 0: Copy Your Blog Template
-In the blog-posts directory in your [USERNAME]github.io repository, copy your blog tempate into a new HTML file named `week7_technical.html`.
+In the blog-posts directory in your [USERNAME]github.io repository, copy your blog tempate into a new HTML file named `t9_sql.html`.
 
 ## Release 1: Research
 Select a topic below to research.
@@ -30,7 +30,7 @@ Link to your blog on the index of your github.io site and push your changes.
 
 Now it's time to show off your work and share your knowledge with your cohort-mates using Twitter!
 
-Tweet your blog post using the hashtag #DBCSQL
+Tweet your blog post using the hashtag **#DBCSQL**.
 
 ## Release 5: Read
 

@@ -1,6 +1,6 @@
-[Week 7 Home](../)
+[Week 8 Home](../)
 
-# U3.W7: SQLite Revisited
+# U3.W8: SQLite Revisited
 
 ## Learning Competencies
 - Write simple SELECT statements to extract data from one or more fields on a single table using the SELECT, FROM, WHERE, LIMIT, and ORDER BY keywords
@@ -103,7 +103,7 @@ Now try adding Kimmy to the database again, with the same data as above.  Did yo
 
 ## Release 3: Add a column
 
-Now add a column to the users table for "nicknames".  You'll need to use the `ALTER` statement. Make sure you add the correct type for the nickname `VARCHAR(64)` and that it is a mandatory field - ie `NOT NULL`. *Note: Because you already have a few entries in your database, you will get an error if you immediately make the field mandatory because they can't be `NULL.` You'll need to think around this a bit.* 
+Now add a column to the users table for "nicknames".  You'll need to use the `ALTER` statement. Make sure you add the correct type for the nickname `VARCHAR(64)` and that it is a mandatory field - ie `NOT NULL`. *Note: Because you already have a few entries in your database, you will get an error if you immediately make the field mandatory because they can't be `NULL.` You'll need to think around this a bit.*
 
 If you make a mistake, don't worry!  Just `.quit` out of SQLite, delete the `dummy.db` file and start over again.
 
