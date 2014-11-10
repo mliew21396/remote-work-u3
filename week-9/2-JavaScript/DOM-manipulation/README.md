@@ -23,7 +23,7 @@ You will find all of the methods you need in this resource [MDN document docs](h
 
 ## Release 0: Add a Class
 
-Add the class "done" to div.release-0.
+Add the class "done" to the #release-0 div.
 
 ## Release 1: Set the Display Property
 
