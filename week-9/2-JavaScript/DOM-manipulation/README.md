@@ -35,11 +35,11 @@ Change the inner text of the `<h1>` tag to "I completed release 2."
 
 ## Release 3: Add a Background Color
 
-Add the background color #b163a3 to the div.release-3. #b163a3 was [Pantone's](http://www.pantone.com/) color of the year for 2014!
+Add the background color #b163a3 to the #release-3 div. #b163a3 was [Pantone's](http://www.pantone.com/) color of the year for 2014!
 
 ## Release 4: Modify the Text Size
 
-Select all occurrences of class.release-3 and change the text-size to 2em.
+Select all occurrences of class .release-4 and change the text-size to 2em.
 
 ## Release 5: Append HTML
 
