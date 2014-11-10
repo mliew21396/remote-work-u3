@@ -23,23 +23,23 @@ You will find all of the methods you need in this resource [MDN document docs](h
 
 ## Release 0: Add a Class
 
-Add the class "done" to div.release-1.
+Add the class "done" to div.release-0.
 
 ## Release 1: Set the Display Property
 
-Set the display property of div.release-2 to none.
+Set the display property of div.release-1 to none.
 
 ## Release 2: Change Text
 
-Change the inner text of the `<h1>` tag to "I completed release 3."
+Change the inner text of the `<h1>` tag to "I completed release 2."
 
 ## Release 3: Add a Background Color
 
-Add the background color #b163a3 to the div.release-4. #b163a3 was [Pantone's](http://www.pantone.com/) color of the year for 2014!
+Add the background color #b163a3 to the div.release-3. #b163a3 was [Pantone's](http://www.pantone.com/) color of the year for 2014!
 
 ## Release 4: Modify the Text Size
 
-Select all occurrences of class.release-4 and change the text-size to 2em.
+Select all occurrences of class.release-3 and change the text-size to 2em.
 
 ## Release 5: Append HTML
 
