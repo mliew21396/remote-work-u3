@@ -27,7 +27,7 @@ Add the class "done" to div.release-0.
 
 ## Release 1: Set the Display Property
 
-Set the display property of div.release-1 to none.
+Set the display property of the #release-1 div to none.
 
 ## Release 2: Change Text
 
