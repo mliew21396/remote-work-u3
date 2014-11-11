@@ -34,9 +34,3 @@
 // Release 5:
 
 
-
-
-// Reflection:
-
-// Add a reflection here to talk about what you learned about DOM Manipulation.
-// Try to limit yourself to 10-15 minutes of reflection time.
