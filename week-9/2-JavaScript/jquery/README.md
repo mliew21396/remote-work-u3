@@ -18,7 +18,7 @@ You may want to take a look at Codecademy's [JQuery Course](http://www.codecadem
 ## Releases
 
 ## Release 0: Fix the image
-The image isn't loading! You'll want to fix the image link so you can actually view the `dbc_logo.png` image.
+The image isn't loading! You'll want to fix the image link so you can actually view the `dbc_logo.png` image. You don't need jQuery to do this release, simply look at the HTML to figure out why it isn't loading.
 
 ## Release 1: Link your code
 This challenge directory contains two files, `jquery_example.html` and `jquery_example.js`. Open both of these in Sublime for editing, and then open the `jquery_example.html` file in a Chrome Browser for viewing. You should see a very simple web page. If you open the Chrome DevTools Console tab (right click on the page and choose Inspect Element) you should see an error that looks like:
@@ -30,8 +30,7 @@ Uncaught ReferenceError: $ is not defined
 This is because the `jquery_example.html` file contains a link to the `jquery_example.js` file and this file contains code (see line 1) that relies on the jQuery library. To fix this error add a link to the [jQuery CDN](https://developers.google.com/speed/libraries/devguide#jQuery) in the to the `<head>` section of the `jquery_example.html` file :
 
 ```
-<script src="https://ajax.googleapis.com/ajax/libs/jQuery/1.10.2/jQuery.min.js"></script>
-
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 ```
 Now if you refresh the browser you should see the simple web page with a colored background.
 
