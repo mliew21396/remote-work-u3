@@ -13,7 +13,8 @@ The challenges this week can be done in any order.
 3. [Ruby Challenges](3-ruby.md) *select 2*
 4. [Cultural Blog](4-cultural-blog.md)
 5. [Cohort Bonding](5-cohort-bonding.md)
-6. [BONUS Challenges](6-BONUS-challenges) *Optional*
+6. [Accountability Group](6-accountability-group.md)
+7. [BONUS Challenges](7-BONUS-challenges) *Optional*
 
 If this week is too light for you, complete all of the challenges and review any BONUS challenges you missed from previous weeks. Read the *Well-Grounded Rubyist* or re-read POODR.
 

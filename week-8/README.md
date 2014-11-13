@@ -14,7 +14,8 @@ The review will encourage you to dive deeper into topics and clean out any cobwe
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
 9. [GPS 3.2](9-gps3-2) [on JavaScript] **DO NOT READ UNTIL GPS SESSION**
-10. [BONUS Challenges](10-BONUS-challenges) **Optional**
+10.[Accountability Group](10-accountability-group.md)
+11. [BONUS Challenges](11-BONUS-challenges) **Optional**
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W8.**
 
