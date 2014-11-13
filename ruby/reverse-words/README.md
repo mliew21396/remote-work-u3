@@ -2,7 +2,6 @@
 
 ## Learning Competencies
 - Use strings, integers, arrays, and hashes
-- Translate driver test code into assert statements
 - Create methods that take arguments to modify the output
 
 ## Summary:

@@ -7,7 +7,7 @@
 - Create objects of different types in JavaScript
 
 ## Summary
-This book comes highly recommended by our staff, so we're asking you to read through it and answer some questions before starting the next challenges.
+*Eloquent Javascript* is a book that comes highly recommended by our staff, so we're asking you to read through it and answer some questions before starting the next challenges.
 
 For each release, read the appropriate chapter and answer the questions in the [javascript_notes.md](javascript_notes.md) file. If you are less into writing, you can always record a video to include rather than text. It's up to you!
 

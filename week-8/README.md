@@ -24,9 +24,12 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W
 
 **There are no extensions available for the last two weeks of Phase 0. It is vital to your ability to attend DBC on site that you get your work in by the deadline.**
 
-## Remember your expectations for the unit!
-- Pair at least twice each week. *You need to pair* ***6*** *times this unit.*
-- Give feedback for each person you paired with. *You need to submit at least 8 pieces of feedback in this unit.* (6 for peer-pairing, and 2 GPS)
-- Rate at least 7 pieces of [Meta Feedback](https://socrates.devbootcamp.com/feedback) per week on Socrates. *You need to rate 20 pieces of feedback per unit.*
+## Remember the Unit Expectations!
+
+Expectation | Times per Unit | Times per Week
+------------|----------|---------
+[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | 6 | >= 2
+[Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 8 | >=2
+Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
