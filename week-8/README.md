@@ -1,6 +1,8 @@
 # SQL and Review
 
-This week you'll learn a bit about SQL and databases and then move into review.
+Week 8 will be released the Friday before week 8 starts.
+
+<!-- This week you'll learn a bit about SQL and databases and then move into review.
 
 The review will encourage you to dive deeper into topics and clean out any cobwebs so you are ready to start Phase 1. Because you are covering some new material this week, week 8 will be a bit more demanding than week 9.
 
@@ -31,4 +33,4 @@ Expectation | Times per Unit | Times per Week
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 8 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
-## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
+## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) -->
