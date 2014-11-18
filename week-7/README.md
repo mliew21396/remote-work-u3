@@ -18,7 +18,7 @@ This week focuses on the basics of the JavaScript language. You will have more a
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
 9. [GPS 3.1](9-gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
-10.[Accountability Group](10-accountability-group.md)
+10. [Accountability Group](10-accountability-group.md)
 
 Note: There are no bonus challenges this week. Look to previous bonus challenges for additional work, or go crazy with the optional release in the solo challenge.
 
