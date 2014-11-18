@@ -31,7 +31,7 @@ Combined, `this.moveLeft();` calls .... on ....
 Consider, if you were going to write your own code (in Ruby) to do the same thing, would you have an idea of how to do that? (You don't need to do this, it's just something to think about.) Do you feel you have the tools with your Ruby tool belt to move something in the terminal? What about moving something on the DOM?
 
 ## Release 3: Answer the following questions
-When you are finished with the two campaigns, answer the following questions. You may want to look at some resources on JavaScript before answering.
+When you are finished with the two missions, answer the following questions. You may want to look at some resources on JavaScript before answering.
   - What is `this` referring to? Think programming-wise rather than in the terms of the game.
   - What does the `()` do in JavaScript?
   - What is the point of the semicolons?
