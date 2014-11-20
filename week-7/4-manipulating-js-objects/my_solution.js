@@ -115,7 +115,7 @@ assert(
 
 assert(
   (terah.children.colton instanceof Object),
-  "carter should be defined as an object and assigned as a child of Terah",
+  "colton should be defined as an object and assigned as a child of Terah",
   "12. "
   )
 
