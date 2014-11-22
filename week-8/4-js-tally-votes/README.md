@@ -38,9 +38,11 @@ var officers = {
 }
 ```
 
-Your task is to go through `votes` and record each student's votes in `voteCount`.  Once the votes have been tallied, assign the winners in `officers`.
+Your task is to go through `votes` and record each student's votes in `voteCount`. Once the votes have been tallied, assign the winners in `officers`.
 
 For this challenge, you will want to be familiar with `for ... in ...` [looping over](http://stackoverflow.com/questions/921789/how-to-loop-through-javascript-object-literal-with-objects-as-members) an object's properties as well as bracket notation and accessing nested properties. See this article on [JavaScript basics](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/) for help.
+
+## Releases
 
 ## Release 0: Run the Tests
 

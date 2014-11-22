@@ -8,7 +8,7 @@
 - Create, add properties to, delete properties from, and access values in object literals
 
 ## Summary
-For this challenge, assume there is a teacher with a list of students and a list of their respective test scores.  The teacher is providing you with this data which looks like ...
+In this challenge you will be taking your knowledge of JavaScript to the next level! Assume there is a teacher with a list of students and a list of their respective test scores.  The teacher is providing you with this data which looks like ...
 
 ```javascript
 var students = ["Joseph", "Susan", "William", "Elizabeth"]
@@ -24,8 +24,9 @@ You will take this data and transform it into a grade book.  The grade book will
 Follow the steps below to make the tests pass and complete the challenge in your [my_solution.js](my_solution.js) file.  The order of the steps
 corresponds to the order of the tests. After completing each step, run the code to check it has passed the test.
 
-In the past, you had the option of using dot notation or bracket notation. In this challenge you are forced to use bracket notation to reference some properties. Find out why in this [medium article](https://medium.com/@prufrock123/js-dot-notation-vs-bracket-notation-797c4e34f01d) on dot vs. bracket notation.
+In the past, you had the option of using dot notation or bracket notation. In this challenge you need to use bracket notation to reference some properties. Find out why in this [medium article](https://medium.com/@prufrock123/js-dot-notation-vs-bracket-notation-797c4e34f01d) on dot vs. bracket notation.
 
+## Releases
 ## Release 0: Create `gradebook`
 
 Create a variable `gradebook` and assign it the value of an empty object.
