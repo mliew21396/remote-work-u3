@@ -1,8 +1,8 @@
 # SQL and Review
 
-Week 8 will be released the Friday before week 8 starts.
+<!-- Week 8 will be released the Friday before week 8 starts. -->
 
-<!-- This week you'll learn a bit about SQL and databases and then move into review.
+This week you'll learn a bit about SQL and databases and then move into review.
 
 The review will encourage you to dive deeper into topics and clean out any cobwebs so you are ready to start Phase 1. Because you are covering some new material this week, week 8 will be a bit more demanding than week 9.
 
@@ -24,7 +24,8 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work by Sunday at 11:59pm.
 
-**There are no extensions available for the last two weeks of Phase 0. It is vital to your ability to attend DBC on site that you get your work in by the deadline.**
+####IMPORTANT
+There are no extensions available for the last two weeks of Phase 0. It is vital to your ability to attend DBC on site with your cohort that you get your work in by the deadline. Email us immediately if this will be a problem for you. If we do not hear from you and you do not have the work for weeks 1-8 turned in, we will automatically defer you to the next cohort.
 
 ## Remember the Unit Expectations!
 
@@ -34,4 +35,4 @@ Expectation | Times per Unit | Times per Week
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | 8 | >=2
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
-## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md) -->
+## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
