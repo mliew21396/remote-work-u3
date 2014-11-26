@@ -9,15 +9,23 @@
 
 ## Summary
 
-This challenge is about the Document Object Model (DOM) and JavaScript. You can manipulate the HTML elements on the DOM, view the browser history, create animations, and utilize the full screen of the computer all using JavaScript. As you can imagine, these are useful tricks for web developers!
+In this challenge, you will be using JavaScript to manipulate the Document Object Model(DOM). For more theory behind the concept of the DOM check out this document by the Mozilla Developer Network [MDN DOM guide](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM).
 
-To view the history of a site, open up the Chrome Dev Tools console in any website and enter `window.history.go(-1)` to go back in your history without using any buttons or keyboard shortcuts! To go further back use a smaller negative number ex. (-2, -3).
+Basically, the HTML elements and properties of the browser have been wrapped in objects that you can now manipulate with code. This allows you to manipulate the HTML and CSS along with other aspects of the browser on runtime. This interactivity is what makes websites so much more fun and useful than the static HTML that you used back when the web was born. That is if you were born back then.
 
-In this challenge, you will learn a bit about DOM manipulation using ECMAscript 5. No imported libraries such as jQuery will be used.
+JavaScript has built in functions to select and manipulate HTML and CSS, here are some resources you can use to research the methods necessary to complete the challenge:
 
-Please read the [MDN DOM guide](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM) for getting a good definition of the DOM and why it is important.
+Tutorials:
+- [tuts+ DOM tutorial](http://code.tutsplus.com/tutorials/javascript-and-the-dom-series-lesson-1--net-3134)
+- [w3schools change CSS guide](http://www.w3schools.com/js/js_htmldom_css.asp)
 
-You will find all of the methods you need in this resource [MDN document docs](https://developer.mozilla.org/en-US/docs/Web/API/document). Focus on the `getElementByClassName` and `getElementById` methods. You can also view this great [cheat sheet](http://overapi.com/html-dom/) by Over-API.
+Reference:
+- [W3schools DOM doc](http://www.w3schools.com/jsref/dom_obj_document.asp)
+- [MDN document properties](https://developer.mozilla.org/en-US/docs/Web/API/document)
+
+**REMEMBER**
+
+We are not using JQuery for this challenge, you have everything you need in vanilla JavaScript (ECMAScript 5, ECMAscript 6 should be released at the end of 2014).
 
 # Releases
 
