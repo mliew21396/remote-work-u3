@@ -62,8 +62,8 @@ You need to make sure your functions are manipulating the objects as you expect 
 For example. 
 
 ```Javascript
-console.log(tharin) // should return a Tharin Object with a goldCount of 0
-pickUp(tharin, gold) //this should add a count of 1 to tharin's goldCount
+console.log(tharin) // should log a Tharin Object to the console with a goldCount of 0
+pickUp(tharin, gold) //should add a count of 1 to tharin's goldCount
 
 ```
 
