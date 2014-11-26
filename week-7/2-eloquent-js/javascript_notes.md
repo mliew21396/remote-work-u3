@@ -60,7 +60,7 @@ Use the browser console to do this one. Node does not support the `prompt` funct
 - Create an object called "me" that stores your name, age, 3 favorite foods, and a quirk in your [my_solution.js](my_solution.js) file.
 
 
-- What object in Ruby is a JavaScript object with a name and value property similar to?
+- What is a JavaScript object with a name and value property similar to in Ruby?
 
 ```
 
