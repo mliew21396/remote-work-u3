@@ -48,15 +48,32 @@ Pseudocode your objects and functions. Write these in plain English and save the
 
 ## Release 2: Write your [initial code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
-Your functions don't have to actually create movement on the screen (unless you want them to), but think about how to pass information between objects using functions. Think about what information the functions need to have access to. You'll also need to think about how you will model behavior using code.
+Your functions don't have to actually create movement on the screen, but think about how to pass information between objects using functions. Think about what information the functions need to have access to. You'll also need to think about how you will model behavior using code.
 
 For example, if your mission is to collect gold, then you would need to have gold objects, a container for your gold, and a way to put gold into your container. You would probably also want a way to calculate how much gold you have.
 
-## Release 3: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+You will know you are done with the initial solution when you have at least:
+- 2 objects with properties
+- 2 functions that interact with those objects by adding or modifying the object's properties
 
-## Release 4: Manipulate objects on the DOM (Optional)
+## Release 3: Check your code!
+You need to make sure your functions are manipulating the objects as you expect it. This means you need to invoke the functions on your objects (just like you did in challenges 3 and 4). You should do this for each of the objects and functions you have. They should work together without any errors. 
+
+For example. 
+
+```Javascript
+console.log(tharin) // should return a Tharin Object with a goldCount of 0
+pickUp(tharin, gold) //this should add a count of 1 to the goldCount
+
+```
+
+## Release 4: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
+
+## Release 5: Manipulate objects on the DOM (Optional)
+NOTE: This could take a lot of time and is self-directed. Attempt this release at your own risk.
+
 Add your JavaScript objects to an HTML page. Use CSS to make it pretty. You may want to consider using ascii art. Then look up how to manipulate objects on a page with JavaScript using your functions.
 
 Avoid JQuery for now. You may want to check out the [W3 Schools JavaScript Intro](http://www.w3schools.com/js/js_intro.asp) or [JavaScript - HTML DOM Methods](http://www.w3schools.com/js/js_htmldom_methods.asp) for help.
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
