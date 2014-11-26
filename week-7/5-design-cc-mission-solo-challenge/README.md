@@ -36,7 +36,7 @@ Then consider:
 
 - Write the functions you'll need to manipulate your objects to complete your goals as well.
 
-You can also view the functions or get documentation on them in Code Combat:
+You can also view the functions or get documentation on them in Code Combat as a reference for how your functions should work or to understand how their functions are built.
 
 ![functions](../imgs/cc-functions.png)
 
