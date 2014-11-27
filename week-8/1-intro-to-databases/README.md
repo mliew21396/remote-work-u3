@@ -107,12 +107,12 @@ Create SQL Queries for the following:
 2. Select all data for all regions.
 3. Select the `state_name` and `population` for all states.
 4. Select the `state_name` and `population` for all states ordered by population. The most populous state should be at the top.
-5. Select the `state_names` for the states in region 7.
-6. Select the `state_names` and `population_density` with a population density over 50 ordered from least to most dense.
-7. Select all `state_names` for states with a population between 1 million and 1.5 million people.
-8. Select all `state_names` and `region_id` ordered by region in ascending order.
+5. Select the `state_name` for the states in region 7.
+6. Select the `state_name` and `population_density` for states with a population density over 50 ordered from least to most dense.
+7. Select the `state_name` for states with a population between 1 million and 1.5 million people.
+8. Select the `state_name` and `region_id` for states ordered by region in ascending order.
 9. Select the `region_name` for the regions with "Central" in the name.
-10. Select all of the `region_name`s and the `state_name`s in ascending order by `region_id`. Refer to the region by name. (This will involve joining the tables).
+10. Select the `region_name` and the `state_name` for all states and regions in ascending order by `region_id`. Refer to the region by name. (This will involve joining the tables).
 
 ## Release 4: One-to-Many Schema
 
