@@ -60,7 +60,7 @@ When the first person receives the refactored code from the last person, they ne
 
 When you receive the summary email from Person 1, send your repo link to the other students in your accountability group. Look at each person's solution and provide A.S.K. feedback to each person.
 
-## Release 5: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
+## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 In the reflection section of your solution file, reflect on your learning. Also answer the following:
 - What was this experience like?
 - Was your group successful in writing code that passed the tests?
