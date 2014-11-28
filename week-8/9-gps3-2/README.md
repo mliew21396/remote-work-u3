@@ -21,7 +21,7 @@ Create athlete profiles for you and your pair. Include your name, height, sport,
 
 ## RELEASE 1: Bulk up: Add properties to objects
 
-Use a for loop to add a property called `win` to every element in athleteArray. `win` should print "{name} won the {sport} event!"
+Use a for loop to add a property called `win` to every element in athleteArray. `win` should be a function that console logs: "{name} won the {sport} event!"
 
 Would it make more sense to have `win` be defined as a function expression or a function declaration?
 
