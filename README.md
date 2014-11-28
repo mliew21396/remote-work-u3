@@ -12,7 +12,7 @@ Each week will be released the Friday before the week starts.
 
 Expectation | Times per Unit |
 ------------|----------|
-[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing_sessions.md) | at least 6
+[Peer-Pair](https://github.com/Devbootcamp/phase-0-handbook/blob/master/peer-pairing-sessions.md) | at least 6
 [Give feedback](https://socrates.devbootcamp.com/feedback/new) to GPS and peer pairs | at least 8
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20
 
