@@ -1,4 +1,4 @@
-// U3.W8: Gradebook from Names and Scores
+// U3.W8: Tally Votes in JavaScript
 
 // I worked on this challenge [by myself, with:]
 
