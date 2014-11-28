@@ -13,9 +13,9 @@ In this challenge, you will be using JavaScript to manipulate the Document Objec
 
 Basically, the HTML elements and properties of the browser have been wrapped in objects that you can now manipulate with JavaScript. Technically, you can use any programming language to interact with the DOM, but it is most often done using JavaScript.
 
-This allows you to manipulate the HTML and CSS along with other aspects of the browser on runtime. This interactivity is what makes websites so much more fun and useful than the static HTML that you used back when the web was born. If you were born back the, that is.
+This allows you to manipulate the HTML and CSS along with other aspects of the browser on runtime. This interactivity is what makes websites so much more fun and useful than the static HTML that you used back when the web was born. If you were born back then, that is.
 
-JavaScript has built-in functions to select and manipulate HTML and CSS, read these tutorials to collect the tools necessary to complete this challenge. Then read the reference to see what else is available to you in DOM manipulation.
+JavaScript has built-in functions to select and manipulate HTML and CSS, read the following tutorials to learn the tools you need to complete the challenge. Then read the following references to learn more about DOM manipulation.
 
 Tutorials:
 - [tuts+ DOM tutorial](http://code.tutsplus.com/tutorials/javascript-and-the-dom-series-lesson-1--net-3134)
@@ -25,9 +25,7 @@ Reference:
 - [W3schools DOM doc](http://www.w3schools.com/jsref/dom_obj_document.asp)
 - [MDN document properties](https://developer.mozilla.org/en-US/docs/Web/API/document)
 
-**REMEMBER**
-
-We are not using JQuery for this challenge, you have everything you need in vanilla JavaScript (ECMAScript 5, ECMAscript 6 should be released at the end of 2014).
+**REMEMBER** Everything in this challenge should be done using vanilla JavaScript (ECMAScript 5, ECMAscript 6 should be released at the end of 2014), no JQuery should be used.
 
 # Releases
 
