@@ -23,7 +23,7 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work by Sunday at 11:59pm.
 
-**There are no extensions available for week 9. It is vital to your ability to attend DBC on site that you get your work in by the deadline.**
+**There are no extensions available for week 9. It is vital to your ability to attend DBC on site that you have all work for previous weeks in by this week.**
 
 ## Remember the Unit Expectations!
 
