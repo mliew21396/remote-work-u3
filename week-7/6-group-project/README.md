@@ -10,7 +10,7 @@
 - Collaborate with others to solve a problem
 
 ## Summary
-You will be required to work with others in your career as a developer, but you will not always know the larger goals or be responsible for implementing every feature. In this challenge, you will work with your accountability group to solve a series of small challenges. Each person will have a specific role and you are not allowed to pass along any information outside of your particular responsibility. The roles are determined by the order in your accountability group spreadsheet. The first person will have the first role, second person the second, etc. The goal is to try to communicate effectively in your roles, but your group doesn't necessarily need to have a working solution.
+You will be required to work with others in your career as a developer, but you will not always know the larger goals or be responsible for implementing every feature. In this challenge, you will work with your accountability group to solve a series of small challenges. Each person will have a specific role and you are not allowed to pass along any information outside of your particular responsibility. The roles are determined by the order in your accountability group spreadsheet. The first person will have the first role, second person the second, etc. The goal is to try to communicate effectively in your roles, but **your group doesn't necessarily need to have a working solution, this challenge is about the process.**
 
 Most of this challenge will probably need to be done between Thursday and Sunday (so you feel comfortable with JavaScript before hand). Email your group to decide on a potential schedule.
 
@@ -69,4 +69,3 @@ In the reflection section of your solution file, reflect on your learning. Also 
 ![3-person.jpg](/week-7/imgs/3-person.jpg)<br><br><br>
 ![4_person.jpg](/week-7/imgs/4_person.jpg)<br><br><br>
 ![5_person.jpg](/week-7/imgs/5_person.jpg)<br><br><br>
-<!-- ![6_person.jpg](/week_3/imgs/6_person.jpg)<br><br><br> -->
