@@ -68,7 +68,7 @@ id | region_name |
 
 As you can see, the region is referred to by its `id` in the `states` table rather than by its name. That is because it is faster for the computer to search for numbers rather than strings.
 
-## Release 2: Schema Design
+## Release 3: Schema Design
 When designing a database, it is a good idea to draw out a design where you identify the table and field (column) names.
 
 For the VirusPredictor example, the two tables would be represented like this:
@@ -94,7 +94,7 @@ As you can see, there is a line connecting the `id` field from the `regions` tab
 
 **NOTE:** In [SQL Designer](https://socrates.devbootcamp.com/sql), you'll notice that you can pick a "type" for each field.  For example, the birthday field should be a "date" type.  There's a core set of data types that all SQL-based databases support, but many have additional types. You can read more about that at [w3schools.com](http://www.w3schools.com/sql/sql_datatypes.asp) or on [Wikipedia](http://en.wikipedia.org/wiki/SQL#Data_types). For now, don't worry about using the perfect data type (i.e. `varchar` vs. `text`), just use the one that colors it appropriately. SQL Designer is a bit weird to use. You have to use the menu at the right and then play with it a bit. You'll get the hang of it soon!
 
-## Release 3: SELECT statements
+## Release 4: SELECT statements
 Now that you know a bit about the database and its contents, it's time to use SQL to query the information.
 
 Before you can do that, you'll want to navigate to this directory in your terminal and type `sqlite3 state_region.sqlite3`. This will put you into a SQLite shell where you can experiment with SQL commands. You can see the schema for the database by calling `.schema`. You can quit by typing `.exit`.
@@ -114,7 +114,7 @@ Create SQL Queries for the following:
 9. Select the `region_name` for the regions with "Central" in the name.
 10. Select the `region_name` and the `state_name` for all states and regions in ascending order by `region_id`. Refer to the region by name. (This will involve joining the tables).
 
-## Release 4: One-to-Many Schema
+## Release 5: One-to-Many Schema
 
 In the 1995 Teen Comedy *Clueless*, Cher (the main character) had a lot of outfits, and an entire software program to help her decide what to wear. Make a simple schema design in [SQL Designer](https://socrates.devbootcamp.com/sql) to include `persons` and `outfits` tables. Create at least 4 fields (with general types**) for each table. One of the fields in the `persons` table should refer to the `id` in the `outfits` table. You should reference the [conventions.md](conventions.md) file to read about database naming conventions.
 

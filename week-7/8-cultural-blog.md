@@ -9,6 +9,8 @@
 ## Summary
 Last week you learned about Stereotype Threat. One of the antidotes identified by Claude M. Steele in his book is affirmation. In this blog you will identify values that are important to you and consider how your values may help you combat Stereotype Threat at Dev Bootcamp.
 
+If you want more information about how affirmation can help with stereotype threat, please use [this resource](http://www.reducingstereotypethreat.org/reduce.html#encouragingself).
+
 ## Release 0: Copy your Blog Template
 In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c7-values.html`.
 
@@ -56,15 +58,15 @@ Volunteering         | Wealth               | Will-power
 Wisdom               |[add any that I missed]|
 
 
-## Release 2: Select a value
-Pick one value and write a couple of sentences about why the value you chose is important to you.
-
-## Release 3: Values in your Life
+## Release 2: Values in your Life
 Answer the following for the values you chose in Exercise 1:
 
 In general, I try to live up to these values:
 
 Disagree 1 ----- 2 ----- 3 ----- 4 ----- 5 Agree
+
+## Release 3: Select a value
+Pick one value and write a couple of sentences about why the value you chose is important to you.
 
 ## Release 4: Advice
 What was the last topic that someone asked for your advice on?
@@ -81,7 +83,7 @@ Link to your blog on the index of your github.io site and push your changes.
 
 Now it's time to show off your work and share your knowledge with your cohort-mates using Twitter!
 
-Tweet your blog post using #DBCValue
+Tweet your blog post using **#DBCValue**.
 
 ## Release 8: Read
 Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!

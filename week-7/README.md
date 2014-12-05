@@ -1,10 +1,8 @@
 # Introduction to JavaScript
 
-<!-- Please do not start week 7. We will release it with changes at least by the Friday before the week begins. -->
-
 JavaScript is known as the "language of the web." It is a powerful object-oriented language that is light-weight and can communicate with the browser. This week, you will be introduced to basic JavaScript syntax like variables and functions. JavaScript will be treated as a language in its own right and the challenges will be very similar to the Ruby challenges you have been working on.
 
-This week focuses on the basics of the JavaScript language. You will have more advanced JavaScript challenges and more opportunities to use JavaScript to manipulate the DOM in weeks 8 and 9. We give you a book resource to go through. If you would like to supplement with [Codecademy's JavaScript track](http://www.codecademy.com/en/tracks/javascript), you should feel free to do that.
+This week focuses on the basics of the JavaScript language. You will have more advanced JavaScript challenges and more opportunities to use JavaScript to manipulate the DOM in weeks 8 and 9. We give you a book resource to go through. If you would like to supplement the book with [Codecademy's JavaScript track](http://www.codecademy.com/en/tracks/javascript), you should feel free to do that.
 
 **You have an asynchronous group challenge this week. Take a look at it early so you don't get blind-sided.**
 
@@ -20,7 +18,7 @@ This week focuses on the basics of the JavaScript language. You will have more a
 9. [GPS 3.1](9-gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
 10. [Accountability Group](10-accountability-group.md)
 
-Note: There are no bonus challenges this week. Look to previous bonus challenges for additional work, or go crazy with the optional release in the solo challenge.
+Note: There are no bonus challenges this week. Look to previous bonus challenges for additional work, or go crazy with the optional release in the solo challenge or check out a book or two on JavaScript.
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W7.** Only other DBC students can actually see your repositories because they are private.
 
@@ -42,4 +40,4 @@ Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## Resources
 - [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Dev Bootcamp's JavaScript Lab Material](reading-material/javascript_intro_lab)
+- [Dev Bootcamp's JavaScript Reading](reading-material/javascript_intro_lab)

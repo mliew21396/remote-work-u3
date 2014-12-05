@@ -10,6 +10,8 @@
 ## Summary
 Have you ever wanted to create a game that teaches people something? It's actually really challenging. In this challenge you will play two missions in [Code Combat](http://codecombat.com/play), an open-source project that aims to teach people JavaScript. You can determine for yourself whether it succeeds at its mission (and give their team feedback if you wish).
 
+We are directing you to this resource for a couple reasons. First, to have a bit of fun. Second, we would like you to use your Ruby knowledge to analyze JavaScript commands. Third, it's a good idea to get a bit of typing practice with JavaScript syntax.
+
 ## Releases
 
 ## Release 0: Beginner Campaign
@@ -21,17 +23,17 @@ Use the fundamentals you learned in Ruby to analyze what each command you typed 
 ## Release 2: Analyze the syntax
 Can you break down each command to determine what it's doing? Select two to break down.
 
-For Example, if you were to select `this.moveLeft();` you could writes something like:
+For Example, if you were to select `this.moveLeft();` you could write something like:
 
 `this` is a/an .....
 `moveLeft` is a/an ....
 `();` does ...
 Combined, `this.moveLeft();` calls .... on ....
 
-Consider, if you were going to write your own code (in Ruby) to do the same thing, would you have an idea of how to do that? (You don't need to do this, it's just something to think about.) Do you feel you have the tools with your Ruby tool belt to move something in the terminal? What about moving something on the DOM?
+Consider, if you were going to write your own code (in Ruby) to do the same thing, would you have an idea of how to do that? (You don't need to do this, it's just something to think about). Do you feel you have the tools with your Ruby tool belt to move something in the terminal? What about moving something on the DOM?
 
 ## Release 3: Answer the following questions
-When you are finished with the two missions, answer the following questions. You may want to look at some resources on JavaScript before answering.
+When you are finished with the two missions, answer the following questions. You may want to look at some resources on JavaScript to help.
   - What is `this` referring to? Think programming-wise rather than in the terms of the game.
   - What does the `()` do in JavaScript?
   - What is the point of the semicolons?
