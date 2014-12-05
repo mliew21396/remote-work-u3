@@ -14,11 +14,11 @@ This is an open-ended challenge so there are a lot of things you can do with it 
 **In order to fully complete the challenge, you will need to:**
 - Create at least 2 objects with properties
 - Create at least 2 functions that interact with those objects by adding or modifying the object's properties
-- Call the functions (invoke the function) **Make sure the output is actually what you expect!**
+- Call each function (invoke the function) **Make sure the output is actually what you expect!**
 
-You should use time-management strategies to keep yourself on task and motivated. Check in with yourself often. This can be a simple challenge if you design it that way, or you could build an elaborate game. Keep it simple at first. You can always add on later.
+You should use time-management strategies to keep yourself on task. Check in with yourself often. This can be a simple challenge if you design it that way, or you could build an elaborate game. Keep it simple at first. You can always add on later.
 
-Click [here](http://kiopelani.github.io/Projects/orpheus_game.html) to see one student's game (they completed the optional release to make it a web game). You don't have to go this in depth, but it's a great example of student creativity.
+Click [here](http://kiopelani.github.io/Projects/orpheus_game.html) to see one student's game (they completed the optional release to make it a web game). You don't have to go this in depth, but it's a great example of creativity.
 
 ## Release 0: Design your Mission
 
@@ -29,37 +29,37 @@ Remember how Code Combat had goals to complete a mission? They were visible at t
 Write an outline of your overall mission and goals to complete your mission as comments in your [my_solution.js](my_solution.js) file. Remember to keep them simple!
 
 Then consider:
-- Who are the main characters in your mission? They will be an object. What properties should they have? Write these as comments in the description section.If you look to Code Combat for an example, you can see an Objects properties when you hover over `this`. In the image below, you can see the current information for Tharin.
+- Who are the main characters in your mission? They will be an object. What properties should they have? Write these as comments in the description section.If you look to Code Combat for an example, you can see an Objects properties when you hover over `this`. In the image below, you can see Tharin (the object) and his properties to give you an example of how your objects could look.
 - Consider any other objects you need. Do you need a sword? What about a cannon, death ray, gold, magic seeds, etc.? Write those as comments in the description section as well.
+
+Remember, you need to have at least two objects defined and used in this challenge.
 
 ![objects](../imgs/cc-objects.png)
 
-- Write the functions you'll need to manipulate your objects to complete your goals as well.
+- Write at least two functions you'll need to manipulate your objects to complete your goals as well.
 
-You can also view the functions or get documentation on them in Code Combat as a reference for how your functions should work or to understand how their functions are built.
+For example, if your mission is to collect gold, then you would need to have gold objects, and a way to add gold to your object. You would probably also want a way to calculate how much gold you have. you could use a function `pickUp` that requires two arguments, the object picking up the gold, and what they are picking up.
+
+Your functions don't have to actually create movement on the screen, but think about how to pass information between objects using functions. Think about what information the functions need to have access to. You'll also need to consider how you will model behavior using code.
+
+If you want more inspiration, you can view Code Combat's documentation to see a bit of how their functions are built and used.
 
 ![functions](../imgs/cc-functions.png)
 
 ## Release 1: [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
-Pseudocode your objects and functions. Write these in plain English and save them as comments.
+Now that you have defined your objects and functions, it's time to pseudocode. Make sure your pseudocode is broken down to easily implementable steps.*
 
-*NOTE: Make sure your pseudocode is broken down to easily implementable steps.*
-
-## Release 2: Write your [initial code](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
-
-Your functions don't have to actually create movement on the screen, but think about how to pass information between objects using functions. Think about what information the functions need to have access to. You'll also need to think about how you will model behavior using code.
-
-For example, if your mission is to collect gold, then you would need to have gold objects, a container for your gold, and a way to put gold into your container. You would probably also want a way to calculate how much gold you have.
+## Release 2: Write your [initial solution](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/initial-solution.md)
 
 You will know you are done with the initial solution when you have at least:
 - 2 objects with properties
 - 2 functions that interact with those objects by adding or modifying the object's properties
 
 ## Release 3: Check your code!
-You need to make sure your functions are manipulating the objects as you expect it. This means you need to invoke the functions on your objects (just like you did in challenges 3 and 4). You should do this for each of the objects and functions you have. They should work together without any errors. 
+You need to make sure your functions are manipulating the objects as you expect it. This means you need to invoke the functions on your objects (just like you did in challenges 3 and 4). You should do this for each of the objects and functions you have. They should work together without any errors.
 
-For example. 
+For example, if I had a `tharin` object who had a goldCount property, I could invoke the functions like this:
 
 ```Javascript
 console.log(tharin) // should log a tharin Object to the console with a goldCount of 0
