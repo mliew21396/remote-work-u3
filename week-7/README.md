@@ -40,4 +40,4 @@ Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## Resources
 - [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Dev Bootcamp's JavaScript Lab Material](reading-material/javascript_intro_lab)
+- [Dev Bootcamp's JavaScript Reading](reading-material/javascript_intro_lab)
