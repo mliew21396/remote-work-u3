@@ -1,6 +1,6 @@
 # Review
 
-Week 9 will be released the Friday before week 9 starts.
+Week 9 will be released the Friday before week 9 starts. (Friday, Jan. 2)
 
 <!-- You are only one week away from Phase 1. We hope you're excited! This week's workload is a little lighter, which will hopefully give you some breathing room for moving and resting before Phase 1 starts. See your friends, spend time with your family, but also make sure to solidify the fundamentals. Try teaching anyone who will listen the concepts you've learned. Teaching is the best way to determine what could be improved.
 
