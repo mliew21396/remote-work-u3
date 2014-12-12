@@ -29,7 +29,7 @@ At some point during Phase 0, you've probably wanted a handy cheat sheet that wo
 Create a wireframe for your cheat sheet. You can do it on paper or using a wireframing tool. Take an picture/screen shot of your wireframe and upload it into this directory.
 
 ## Release 2: Create a template
-Create a new file in your github.io repository called `cheatsheet.html`
+Create a new file in your github.io repository called `cheat-sheet.html`
 
 Design your page with the idea that you and your cohort-mates are the clients. How would you want a cheat sheet to look to be effective as you go through Dev Bootcamp?
 
