@@ -3,8 +3,9 @@
 # U3.W8: Conflict
 
 ## Learning Competencies
-- Describe how you dealt with a conflict
-- Evaluate whether your actions produced positive or negative reactions
+- Describe a conflict
+- Analyze the basic emotions you felt during a conflict
+- Assess what you would do differently in a new conflict
 
 ## Release 0: New file
 In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c8-conflict.html`.
