@@ -69,7 +69,7 @@ Disagree 1 ----- 2 ----- 3 ----- 4 ----- 5 Agree
 Pick one value and write a couple of sentences about why the value you chose is important to you.
 
 ## Release 4: Advice
-What was the last topic that someone asked for your advice on?
+What was the last topic that someone asked for your advice on? Did it relate to any of the values you found important?
 
 ## Release 5: Values and Stereotype threat
 How do you feel when you think about your values? Do you think it can help you mediate stereotype threat if you recognize you feel it?
