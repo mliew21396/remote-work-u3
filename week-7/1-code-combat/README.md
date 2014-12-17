@@ -5,7 +5,7 @@
 - Manipulate an object using JavaScript
 - Analyze how commands work using Object-Oriented principles
 - Explain what `()` does in JavaScript
-- Use error messages correct syntax mistakes
+- Use error messages to correct syntax mistakes
 
 ## Summary
 Have you ever wanted to create a game that teaches people something? It's actually really challenging. In this challenge you will play two missions in [Code Combat](http://codecombat.com/play), an open-source project that aims to teach people JavaScript. You can determine for yourself whether it succeeds at its mission (and give their team feedback if you wish).
