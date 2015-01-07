@@ -56,8 +56,8 @@ Paste the correct SQL queries for each of the following challenges below. There 
 
   **SQL Query:**
 
-## Release 4: `persons` and `outfits` Schema
+## Release 5: `persons` and `outfits` Schema
 <!-- Include a link to your schema design here -->
 
 
-## Release 5: Reflection
+## Release 6: Reflection
