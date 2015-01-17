@@ -1,3 +1,9 @@
+// U3.W9:JQuery
+
+
+// I worked on this challenge [by myself, with: ].
+// This challenge took me [#] hours.
+
 $(document).ready(function(){
 
 //RELEASE 0:

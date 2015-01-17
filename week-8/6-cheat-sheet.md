@@ -10,6 +10,8 @@
 ## Summary:
 At some point during Phase 0, you've probably wanted a handy cheat sheet that would have all the information you've ever wanted on a topic, in a simple form. Well, they do exist, but they aren't as good as the cheat sheet you can make! This is your chance to create a one-page cheat sheet on any Phase 0 topic. You can use these as references as you go through Dev Bootcamp!
 
+Keep track of how much time you spend on this challenge.
+
 
 ## Release 0: Select a topic for a cheat sheet
  - Ruby BASICS

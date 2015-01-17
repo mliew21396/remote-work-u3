@@ -4,6 +4,8 @@
 //  1.
 //  2.
 
+// This challenge took us [#] hours.
+
 
 // 0. Warm Up
 

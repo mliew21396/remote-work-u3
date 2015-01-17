@@ -1,13 +1,14 @@
 /*
 U3.W8: Gradebook from Names and Scores
 
+I worked on this challenge [by myself, with:]
+This challenge took me [#] hours.
+
 You will work with the following two variables.  The first, students, holds the names of four students.
 The second, scores, holds groups of test scores.  The relative positions of elements within the two
 variables match (i.e., 'Joseph' is the first element in students; his scores are the first value in scores.).
 
 Do not alter the students and scores code.
-
-I worked on this challenge [by myself, with:]
 
 */
 
