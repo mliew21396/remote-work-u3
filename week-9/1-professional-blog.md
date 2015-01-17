@@ -12,6 +12,8 @@ You've been blogging over 8 weeks now, and you have a lot of great material! Now
 
 Don't forget to continue contributing to your blog when you are on site as well. Blogging won't be mandatory, but it will certainly be useful for solidifying concepts.
 
+Keep track of how much time you spend on this challenge.
+
 ## Releases
 
 ## Release 0: Revisit your github.io site

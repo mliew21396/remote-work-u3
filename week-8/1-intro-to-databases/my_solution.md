@@ -1,6 +1,7 @@
 # U3.W8: Introduction to Databases
 
 #### I worked on this challenge [by myself, with: ]
+#### This challenge took me [#] hours.
 
 ## Release 4: SQL Queries
 
