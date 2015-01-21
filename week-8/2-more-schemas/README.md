@@ -25,7 +25,7 @@ The general rule of thumb is to use a one-to-one relationship if you have a rela
 For the example above, all countries now have capital cities, but prior to the late-eighteenth/ early-nineteenth centuries, many countries (or places where a group of similar people lived) did not have a capital city. So it would be possible to have a lot of information about the country, and have `NULL` for any `capital_city_name` field.
 
 ## Release 1: Your One-to-one Schema
-Create your own one-to-one schema using [SQL Designer](https://socrates.devbootcamp.com/sql). You can create your own example or use an existing example from this [list](http://examples.yourdictionary.com/one-to-one-relationship-examples.html). Each table should have at least four fields. When you finish your schema, take a screen shot, upload it to the imgs directory in this challenge, and display it inline in your [my_solution.md](my_solution.md) file.
+Create your own one-to-one schema using [SQL Designer](https://socrates.devbootcamp.com/sql). Create your own example. Each table should have at least four fields. When you finish your schema, take a screen shot, upload it to the imgs directory in this challenge, and display it inline in your [my_solution.md](my_solution.md) file.
 
 ## Release 2: Many to Many Relationships
 Many-to-many relationships are common and relatively easy to understand.
