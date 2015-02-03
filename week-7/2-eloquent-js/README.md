@@ -11,7 +11,7 @@
 
 For each release, read the appropriate chapter and answer the questions in the [javascript_notes.md](javascript_notes.md) file. If you are less into writing, you can always record a video to include rather than text. It's up to you!
 
-For the sections in [javascript_notes.md](javascript_notes.md) that ask you to solve a problem using JavaScript, write the code in [my_solution.js](my_solution.js) and run it in node unless prompted to do otherwise.
+For the sections in [javascript_notes.md](javascript_notes.md) that ask you to solve a problem using JavaScript, write the code in [my_solutions.js](my_solutions.js) and run it in node unless prompted to do otherwise.
 
 If you prefer a more active style of learning, you can also use [codecademy's JavaScript track](http://www.codecademy.com/en/tracks/javascript) to supplement and get practice, but make sure to still answer the questions in [javascript_notes.md](javascript_notes.md).
 
