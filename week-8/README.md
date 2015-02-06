@@ -4,7 +4,7 @@
 
 This week you'll learn a bit about SQL and databases and then move into review.
 
-The review will encourage you to dive deeper into topics and clean out any cobwebs so you are ready to start Phase 1. Because you are covering some new material this week, week 8 will be more demanding than week 9. The JavaScript challenges are also more challenging, so you may want to pair on those.
+The review will encourage you to dive deeper into topics and clean out any cobwebs so you are ready to start Phase 1. Because you are covering some new material this week, week 8 will be more demanding than week 9. The JavaScript challenges are also more difficult, so you may want to pair on those.
 
 Please keep track of how much time you spend on each challenge.
 
