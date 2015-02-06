@@ -23,18 +23,18 @@ Use the fundamentals you learned in Ruby to analyze what each command you typed 
 ## Release 2: Analyze the syntax
 Can you break down each command to determine what it's doing? Select two to break down.
 
-For Example, if you were to select `this.moveLeft();` you could write something like:
+For Example, if you were to select `self.moveLeft();` you could write something like:
 
-`this` is a/an .....
+`self` is a/an .....
 `moveLeft` is a/an ....
 `();` does ...
-Combined, `this.moveLeft();` calls .... on ....
+Combined, `self.moveLeft();` calls .... on ....
 
 Consider, if you were going to write your own code (in Ruby) to do the same thing, would you have an idea of how to do that? (You don't need to do this, it's just something to think about). Do you feel you have the tools with your Ruby tool belt to move something in the terminal? What about moving something on the DOM?
 
 ## Release 3: Answer the following questions
 When you are finished with the two missions, answer the following questions. You may want to look at some resources on JavaScript to help.
-  - What is `this` referring to? Think programming-wise rather than in the terms of the game.
+  - What is `self` referring to? Think programming-wise rather than in the terms of the game.
   - What does the `()` do in JavaScript?
   - What is the point of the semicolons?
 
