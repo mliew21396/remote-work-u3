@@ -20,7 +20,7 @@ This design demonstrates a one-to-one relationship because a country can have at
 
 One-to-one relationships are especially difficult to understand because it's difficult to see when you would use one. For example,  you could create a field for a `capital_city_name` in the `countries` table rather than making a separate table for `capital_cities`.
 
-The general rule of thumb is to use a one-to-one relationship if you have a relationship where a group of fields (relating to something like `captial_cities`) can all optionally be empty (signified by `NULL`).
+The general rule of thumb is to use a one-to-one relationship if you have a relationship where a group of fields (relating to something like `captial_cities`) can all optionally be empty (signified by `NULL`). Watch [this video](https://www.youtube.com/watch?v=a0Ov6TGhpyI) for another example of why you would use it. (Pardon the technical difficulties).
 
 For the example above, all countries now have capital cities, but prior to the late-eighteenth/ early-nineteenth centuries, many countries (or places where a group of similar people lived) did not have a capital city. So it would be possible to have a lot of information about the country, and have `NULL` for any `capital_city_name` field.
 
