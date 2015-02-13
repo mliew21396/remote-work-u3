@@ -19,14 +19,17 @@ def valid_triangle?(a, b, c, sum)
   sum += largest
   largest = c
   else sum += c
-  end
   if sum > largest
   return "true"
   else return "false"
   end
-  else return "false"
+  else return false
   end
 end
+
+p valid_triangle?
+p valid_triangle?(1,4,7, 8)
+p valid_triangle?(2,2,10, 15)
 
 
 # Answer the question for each bug
@@ -49,10 +52,6 @@ end
 
 # Refactored Solution (Comment the other code to run this)
 
-
-
-
-# DRIVER TESTS GO BELOW THIS LINE
 
 
 

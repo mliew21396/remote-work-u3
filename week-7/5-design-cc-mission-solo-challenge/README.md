@@ -18,7 +18,7 @@ This is an open-ended challenge so there are a lot of things you can do with it 
 
 You should use time-management strategies to keep yourself on task. Check in with yourself often. This can be a simple challenge if you design it that way, or you could build an elaborate game. Keep it simple at first. You can always add on later.
 
-Click [here](http://imears.github.io/super_starfish/SuperStarFish.html) to see one student's game (they completed the optional release to make it a web game). You don't have to go this in depth, but it's a great example of creativity.
+To see an example of one student's theme creativity, click [here](http://imears.github.io/super_starfish/SuperStarFish.html). There is no reason to make your solution Code Combat themed, and there is also no reason to go this in depth unless you have the time. START with and MVP and start SMALL. If you have time, desire, and energy, THEN make it more complex and do the bonus release. No one is comparing your code to other cohort-mates. This challenge is all about you, your learning, and your creativity. The overall goal is simply to create objects and functions that interact. Period.
 
 ## Release 0: Design your Mission
 

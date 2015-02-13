@@ -28,7 +28,7 @@ You should complete any coding sections in the [my_solution.js](my_solution.js) 
 
 - Write a program that asks for a user to input their favorite food. After they hit return have the program say: "Hey! That's my favorite too!"
 
-Use the browser console to do this one. Node does not support the `prompt` function. Paste your solution in the box below.
+**Use the browser console (in Dev Tools) to do this one. Node does not support the `prompt` or `alert` function. Paste your solution in the box below.**
 
 ```javascript
 
