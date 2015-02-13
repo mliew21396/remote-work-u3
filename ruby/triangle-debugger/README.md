@@ -10,7 +10,7 @@ Debugging is an art, and some weeks you will likely spend most of your time debu
 
 ## Release 1: Consider
 
-For each bug (there are three initial bugs that cause interpreter errors), consider the following questions:
+For each bug, consider the following questions:
 - Do you have enough information to decipher the problem?
 - Is the error message referencing a line in your file, or a different file?
 - Is there a methodology that you are following to systematically tackle these bugs?  What is your first step?
