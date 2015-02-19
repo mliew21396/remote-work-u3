@@ -41,7 +41,7 @@ You'll want to follow the outline below. Note that each step should build on but
 
 6. Add a spouse property to `adam` and assign it the value of `terah`.
 
-7. Add a children property to `terah` and and use object literal notation to assign
+7. Add a children property to `terah` and use object literal notation to assign
  this variable to an empty object.
 
 8. Add a `carson` property to the value of the `terah` children property. `carson` should be an object with a property `name` with the value "Carson".
