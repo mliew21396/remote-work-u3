@@ -32,7 +32,7 @@ The user stories should be easily translated into pseudocode by the next person 
 
 **Email your `my_solution.js` URL to the next person in your group.**
 
-## Release 1: Translate User Stories into [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)(Person 2)
+## Release 1: Translate User Stories into [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md) (Person 2)
 
 Based **only** on the user stories you received from the first person, pseudocode the logic you would need to implement each story. Your pseudocode should be small steps that can be easily translated into code.
 
