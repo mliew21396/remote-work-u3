@@ -24,33 +24,29 @@ If you have a three person group, follow the graphic to see who should do which 
 
 Look at the `tests.js` file in this directory.
 
-**Rename your [my_solution.js](./my_solution.js) file to `user_stories.js`.**
-
 Based on the tests, write user stories that describe what the code needs to do. User stories take the following format:
 
 As a user, I want to...
 
 The user stories should be easily translated into pseudocode by the next person in your group.  However, a user story is *NOT* pseudocode -- it should describe the experience of someone *using* the function.  Words like `array` or `loop` or any word not known to a non-technical person should not be used. You can specify the function name.
 
-**Email your `user_stories.js` URL to the next person in your group.**
+**Email your `my_solution.js` URL to the next person in your group.**
 
 ## Release 1: Translate User Stories into [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)(Person 2)
-**Rename your [my_solution.js](./my_solution.js) file to `pseudocode.js`**
 
 Based **only** on the user stories you received from the first person, pseudocode the logic you would need to implement each story. Your pseudocode should be small steps that can be easily translated into code.
 
-**Email the `pseudocode.js` URL without the user stories to the next person/people in your group.**
+**Email the `my_solution.js` URL without the user stories to the next person/people in your group.**
 
 ## Release 2: Translate Pseudocode into Code (Person 3)
-**Rename your [my_solution.js](./my_solution.js) file to  `initial_solution.js`**
 
 When you receive a file with pseudocode, translate it into JavaScript. Do not deviate from the pseudocode given to you. When you finish, make sure the code runs without any syntax errors, and send your solution to the next person in your group (again based on the graphics below).
 
+If you are in a group where two of you are assigned this role, you can choose to pair or work separately and then compare your solutions.
+
 ## Release 3: Refactor the Initial Solution (Person 4)
 
-**Rename your [my_solution.js](./my_solution.js) file to `refactored.js`**
-
-When you receive the `initial_solution.js` links, refactor it. Then translate each chunk back into user stories. You may not change the way the code works, even if it's broken. The inputs and outputs must stay the same. You will send your refactored code and user stories to the first person in the group.
+When you receive the `my_solution.js` links, refactor it. Then translate each chunk back into user stories. You may not change the way the code works, even if it's broken. The inputs and outputs must stay the same. You will send your refactored code and user stories to the first person in the group.
 
 ## Release 4: Put it all together (Person 1)
 
