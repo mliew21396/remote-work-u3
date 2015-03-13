@@ -11,6 +11,8 @@ Last week you learned about Stereotype Threat. Claude M. Steele argues one of th
 
 If you want more information about how affirmation can help with stereotype threat, please use [this resource](http://www.reducingstereotypethreat.org/reduce.html#encouragingself).
 
+
+
 ## Release 0: Copy your Blog Template
 In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c7-values.html`.
 
