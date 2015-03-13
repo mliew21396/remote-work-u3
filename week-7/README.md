@@ -11,12 +11,14 @@ This week focuses on the basics of the JavaScript language. You will have more a
 2. [Eloquent JavaScript](2-eloquent-js)
 3. [JavaScript Variables and Objects](3-js-variables-objects)
 4. [Manipulating JavaScript Objects](4-manipulating-js-objects)
-5. [Design Your Own Code Combat Mission- SOLO CHALLENGE](5-design-cc-mission-solo-challenge)
-6. [Group Project](6-group-project) **Check this out early!**
-7. [Technical Blog](7-technical-blog.md)
-8. [Cultural Blog](8-cultural-blog.md)
-9. [GPS 3.1](9-gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
-10. [Accountability Group](10-accountability-group.md)
+5. [Separate Numbers with Commas in JavaScript](5-nums-commas) **Mandatory Pairing Challenge**
+6. [Design Your Own Code Combat Mission- SOLO CHALLENGE](6-design-cc-mission-solo-challenge)
+7. [Group Project](7-group-project) **Check this out early!**
+8. [Technical Blog](8-technical-blog.md)
+9. [Cultural Blog](9-cultural-blog.md)
+10. [GPS 3.1](10-gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
+11. [Accountability Group](11-accountability-group.md)
+12. [BONUS Ideas](12-BONUS) *Optional*
 
 Note: There are no bonus challenges this week. Look to previous bonus challenges for additional work, or go crazy with the optional release in the solo challenge or check out a book or two on JavaScript.
 

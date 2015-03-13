@@ -7,9 +7,11 @@
 - Explain how to use affirmation to help you succeed
 
 ## Summary
-Last week you learned about Stereotype Threat. One of the antidotes identified by Claude M. Steele in his book is affirmation. In this blog you will identify values that are important to you and consider how your values may help you combat Stereotype Threat at Dev Bootcamp.
+Last week you learned about Stereotype Threat. Claude M. Steele argues one of the ways to combat Stereotype Threat is affirmation. In this blog you will identify values that are important to you and consider how your values may help you combat Stereotype Threat at Dev Bootcamp. Some of you may feel that you won't combat stereotype threat at DBC, so think about another arena where you might. Consider the negative stereotypes about a group you belong to and think about how that might impact your performance or behavior.
 
 If you want more information about how affirmation can help with stereotype threat, please use [this resource](http://www.reducingstereotypethreat.org/reduce.html#encouragingself).
+
+
 
 ## Release 0: Copy your Blog Template
 In your [USERNAME].github.io/blog directory, copy your blog template into a new HTML file named `c7-values.html`.

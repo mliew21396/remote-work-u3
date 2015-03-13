@@ -1,4 +1,5 @@
 [Week 7 Home](../)
+
 # U3.W7: Code Combat's Beginner Campaign
 
 ## Learning Competencies
