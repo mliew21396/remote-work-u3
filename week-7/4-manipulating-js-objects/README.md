@@ -1,4 +1,5 @@
 [Week 7 Home](../)
+
 # U3.W7: Manipulating JavaScript Objects
 
 ## Learning Competencies
@@ -62,5 +63,5 @@ When all of the tests have passed, your final `terah` object will be logged to t
 
 ## Release 3: Commit and push your changes!
 
-## Release 4: [Review other's solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) **(Mandatory)**
+## Release 4: [Review other's solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) **(Optional, but strongly recommended)**
 Were there differences in the way you implemented the code based on the tests? Leave an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two comments for this challenge).
