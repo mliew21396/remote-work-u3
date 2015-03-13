@@ -41,4 +41,4 @@ With your pair, refactor your initial solution. Evaluate the variable names and 
 ## Release 5: Commit and Push your changes
 
 ## Release 6: [Review other's solutions](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/review.md) **(Mandatory)**
-Leave an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. (You are expected to leave at least two issues to different people for this challenge).
+Leave an issue telling the student what they did well and can do better next time. Be kind, specific and actionable. You are expected to leave at least two issues to different people for this challenge.
