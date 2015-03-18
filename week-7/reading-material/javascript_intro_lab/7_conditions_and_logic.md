@@ -51,9 +51,6 @@ All of these are the same as in Ruby, but just to refresh your memory here are s
 
 2 > 5 || 4 < 7;
 // => true (the second conditional evaluates to true, thus the pair evaluates to true)
-
-7 > 8 && 0 > -1;
-// => false (both conditionals evaluate to false)
 ```
 
 Notice that the only way an `&&` is true is if both original statements are true, and the only way an `||` is false is if both original statements are false. 
