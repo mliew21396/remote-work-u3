@@ -1,25 +1,25 @@
 # SQL and Review
 
-Week 8 will be released the Friday before week 8 starts.
+<!-- Week 8 will be released the Friday before week 8 starts. -->
 
-<!-- This week you'll learn a bit about SQL and databases and then move into review.
+This week you'll go into more depth with Javascript, learn a bit about SQL and databases, and then move into review.
 
-The review will encourage you to dive deeper into topics and clean out any cobwebs so you are ready to start Phase 1. Because you are covering some new material this week, week 8 will be more demanding than week 9. The JavaScript challenges are also more difficult, so you may want to pair on those.
+The review will encourage you to dive deeper into topics and clean out any cobwebs so you are ready to start Phase 1. Because you are covering some new material this week, week 8 will be more demanding than week 9.
 
 Please keep track of how much time you spend on each challenge.
 
 ## Challenges
-1. [Introduction to Databases](1-intro-to-databases)
-2. [More Schemas](2-more-schemas)
-3. [JavaScript Gradebook](3-js-gradebook)
-4. [JavaScript Tally Votes](4-js-tally-votes)
-5. [Ruby Challenge](5-ruby.md)
-6. [Cheat Sheet](6-cheat-sheet.md) **Pairing Challenge**
-7. [Technical Blog](7-technical-blog.md)
-8. [Cultural Blog](8-cultural-blog.md)
-9. [GPS 3.2](9-gps3-2) [on JavaScript] **DO NOT READ UNTIL GPS SESSION**
-10. [Accountability Group](10-accountability-group.md)
-11. [BONUS Challenges](11-BONUS-challenges) **Optional**
+1. [JavaScript Gradebook](js-gradebook)
+2. [JavaScript Tally Votes](js-tally-votes) **Pairing Challenge**
+3. [Introduction to Databases](intro-to-databases)
+4. [More Schemas](more-schemas)
+5. [Ruby Challenge](ruby.md)
+6. [Cheat Sheet](cheat-sheet.md) **Pairing Challenge**
+7. [Technical Blog](technical-blog.md)
+8. [Cultural Blog](cultural-blog.md)
+9. [GPS 3.2](gps3-2) [on JavaScript] **DO NOT READ UNTIL GPS SESSION**
+10. [Accountability Group](accountability-group.md)
+11. [BONUS Challenges](BONUS-challenges) **Optional**
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W8.**
 
@@ -38,4 +38,3 @@ Expectation | Times per Unit | Times per Week
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
- -->

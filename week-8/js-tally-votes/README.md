@@ -1,6 +1,6 @@
 [Week 8 Home](../)
 
-#U3.W8: Tally Votes in JavaScript
+#U3.W8: Tally Votes in JavaScript Pairing Challenge
 
 ## Learning Competencies
 - Define local variables in JavaScript

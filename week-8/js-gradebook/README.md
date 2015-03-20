@@ -21,7 +21,7 @@ var scores = [ [80, 70, 70, 100],
 
 You will take this data and transform it into a grade book.  The grade book will be a JavaScript object.
 
-Follow the steps below to make the tests pass and complete the challenge in your [my_solution.js](my_solution.js) file.  The order of the steps
+Follow the steps below to make the tests pass and complete the challenge in your [my_solution.js](my_solution.js) file. The order of the steps
 corresponds to the order of the tests. After completing each step, run the code to check it has passed the test.
 
 In the past, you had the option of using dot notation or bracket notation. In this challenge you need to use bracket notation to reference some properties. Find out why in this [medium article](https://medium.com/@prufrock123/js-dot-notation-vs-bracket-notation-797c4e34f01d) on dot vs. bracket notation.
