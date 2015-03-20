@@ -14,7 +14,7 @@
 
 
 // Release 3: Answer the following questions:
-//   - What is `this` referring to? Think programming-wise rather than in the terms of the game.
+//   - What is `self` referring to? Think programming-wise rather than in the terms of the game.
 //   - What does the `()` do in JavaScript?
 //   - What is the point of the semicolons?
 
