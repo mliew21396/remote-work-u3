@@ -12,7 +12,7 @@ Please keep track of how much time you spend on each challenge.
 1. [Introduction to Databases](1-intro-to-databases)
 2. [More Schemas](2-more-schemas)
 3. [JavaScript Gradebook](3-js-gradebook)
-4. [JavaScript Tally Votes](4-js-tally-votes)
+4. [JavaScript Tally Votes](4-js-tally-votes) **Pairing Challenge**
 5. [Ruby Challenge](5-ruby.md)
 6. [Cheat Sheet](6-cheat-sheet.md) **Pairing Challenge**
 7. [Technical Blog](7-technical-blog.md)
