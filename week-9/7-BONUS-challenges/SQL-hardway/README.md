@@ -8,7 +8,7 @@
 - Destroy and alter tables
 
 ## Release 0: Learn SQL the Hard Way
-Go to [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/). This is a work-in-progress by the author. He may miss a few steps that you'll want to google as you go. Use the [4-Intro to SQLite](4-intro-to-SQLite) challenge to help you through as well.
+Go to [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/). This is a work-in-progress by the author. He may miss a few steps that you'll want to google as you go. Use the [Intro to SQLite](../intro-to-SQLite) challenge to help you through as well.
 
 Read the preface through Chapter 13.
 
