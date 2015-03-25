@@ -30,7 +30,8 @@ Uncaught ReferenceError: $ is not defined
 This is because the `jquery_example.html` file contains a link to the `jquery_example.js` file and this file contains code (see line 1) that relies on the jQuery library. To fix this error add a link to the [jQuery CDN](https://developers.google.com/speed/libraries/devguide#jQuery) in the to the `<head>` section of the `jquery_example.html` file :
 
 ```
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
 ```
 Now if you refresh the browser you should see the simple web page with a colored background.
 
