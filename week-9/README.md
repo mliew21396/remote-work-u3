@@ -8,13 +8,13 @@ You are only one week away from Phase 1. We hope you're excited! This week's wor
 
 The challenges can be done in any order.
 
-1. [Professional Blog](1-professional-blog.md)
-2. [JavaScript Challenges](2-JavaScript) *select 2*
-3. [Ruby Challenges](3-ruby.md) *select 2*
-4. [Cultural Blog](4-cultural-blog.md)
-5. [Cohort Bonding](5-cohort-bonding.md)
-6. [Accountability Group](6-accountability-group.md)
-7. [BONUS Challenges](7-BONUS-challenges) *Optional*
+1. [Professional Blog](professional-blog.md)
+2. [JavaScript Challenges](JavaScript) *select 2*
+3. [Ruby Challenges](ruby.md) *select 2*
+4. [Cultural Blog](cultural-blog.md)
+5. [Cohort Bonding](cohort-bonding.md)
+6. [Accountability Group](accountability-group.md)
+7. [BONUS Challenges](BONUS-challenges) *Optional*
 
 If this week is too light for you, complete all of the challenges and review any BONUS challenges you missed from previous weeks. Read or re-read the *Well-Grounded Rubyist* or *Practical Object-Oriented Design in Ruby*.
 
