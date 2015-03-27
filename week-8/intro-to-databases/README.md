@@ -102,9 +102,17 @@ SQL Designer is a bit weird to use. You have to use the menu at the right and th
 ## Release 4: SELECT statements
 Now that you know a bit about the database and its contents, it's time to use SQL to query the information.
 
-Before you can do that, you'll want to navigate to this directory in your terminal and type `sqlite3 state_region.sqlite3`. This will put you into a SQLite shell where you can experiment with SQL commands. You can see the schema for the database by calling `.schema`. You can quit by typing `.exit`.
+First, type this into your terminal:
+```shell
+cat << EOF > ~/.sqliterc
+.headers on
+.mode column
+EOF﻿
+```
 
-Go through each of the queries below in the SQLite shell. If your command works properly, it should match the answer in the my_solution.md file.
+Now you'll want to navigate to this directory in your terminal and type `sqlite3 state_region.sqlite3`. This will put you into a SQLite shell where you can experiment with SQL commands. You can see the schema for the database by calling `.schema`. You can quit by typing `.exit`.
+
+Go through each of the queries below in the SQLite shell. If your command works properly, it should display and match the answer in the my_solution.md file.
 
 You'll want to look up commands for each of the challenges using the [SQL Tutorial on w3schools.com](http://www.w3schools.com/sql/). Once you find the correct SQL query (the correct code that returns what it should return), you'll need to add the proper commands to your [my_solution.md](my_solution.md) file. The correct output is shown in the [my_solution.md](my_solution.md) file. Don't worry if the names of states and regions are cut off.
 
