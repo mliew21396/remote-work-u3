@@ -13,11 +13,13 @@ You have been building programs that need to store data. Up to this point you ha
 ## Releases
 
 ## Release 0: Introduction to Databases
-If this is your first time working with databases, you will probably want to look through a couple of these resources.
+Select one or two of these resources to get introduced to databases then work through the challenge. If you have some experience with SQL or databases, you may just want to research and find your own refresher. If you need more information you think you can get from the videos, return to them.
+
 - [VIDEO: Database Basics](https://www.youtube.com/watch?v=oxuy4AP860g)
 - [VIDEO: Databases and SQL - an introduction](http://www.youtube.com/watch?v=SVV7HjKmFY4)
 - [VIDEO: Database Fundamentals](http://www.youtube.com/watch?v=xNJZYX6tpWU)
 - [VIDEO: Relational Database Concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
+- [Stanford VIDEO Course: Databases](https://www.youtube.com/channel/UC5ZAemhQUQuNqW3c9Jkw8ug/videoshttps%3A//class.stanford.edu/courses/Home/Databases/Engineering/about)
 - [READING: Relational Database Design](http://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
 
 ## Release 1: One to Many Relationships
@@ -86,18 +88,31 @@ For the VirusPredictor example, the two tables would be represented like this:
 </pre>
 
 You can use a design tool like [SQL Designer](https://socrates.devbootcamp.com/sql) to draw your schema.
+
 This tool requires you to specify a data type for each field and color codes it accordingly. In the image below, the yellow fields represent numeric values and the red fields represent text values.
 
 ![states_region](imgs/states_region.png)
 
 As you can see, there is a line connecting the `id` field from the `regions` table to the `region_id` field from the `states` table. This line shows that the two tables are connected by those fields, thus the two numbers should be the same. For example, if you look at Arizona, you can see the `region_id` is 8, which means Arizona belongs to the Mountain region.
 
-**NOTE:** In [SQL Designer](https://socrates.devbootcamp.com/sql), you'll notice that you can pick a "type" for each field.  For example, the birthday field should be a "date" type.  There's a core set of data types that all SQL-based databases support, but many have additional types. You can read more about that at [w3schools.com](http://www.w3schools.com/sql/sql_datatypes.asp) or on [Wikipedia](http://en.wikipedia.org/wiki/SQL#Data_types). For now, don't worry about using the perfect data type (i.e. `varchar` vs. `text`), just use the one that colors it appropriately. SQL Designer is a bit weird to use. You have to use the menu at the right and then play with it a bit. You'll get the hang of it soon!
+**NOTE:** In [SQL Designer](https://socrates.devbootcamp.com/sql), you'll notice that you can pick a "type" for each field.  For example, the birthday field should be a "date" type.  There's a core set of data types that all SQL-based databases support, but many have additional types. You can read more about that at [w3schools.com](http://www.w3schools.com/sql/sql_datatypes.asp) or on [Wikipedia](http://en.wikipedia.org/wiki/SQL#Data_types). For now, don't worry about using the perfect data type (i.e. `varchar` vs. `text`), just use the one that colors it appropriately.
+
+SQL Designer is a bit weird to use. You have to use the menu at the right and then play with it a bit. Here's what you can do to get started. First click on "Add Table" then click anywhere on the graph "paper." To add fields, click on the table and then "add field." To connect tables, click on the `id` of the first table, and then click on "connect foreign key." Then click on the field in the other table you want to connect it to.
 
 ## Release 4: SELECT statements
 Now that you know a bit about the database and its contents, it's time to use SQL to query the information.
 
-Before you can do that, you'll want to navigate to this directory in your terminal and type `sqlite3 state_region.sqlite3`. This will put you into a SQLite shell where you can experiment with SQL commands. You can see the schema for the database by calling `.schema`. You can quit by typing `.exit`.
+First, type this into your terminal:
+```shell
+cat << EOF > ~/.sqliterc
+.headers on
+.mode column
+EOF﻿
+```
+
+Now you'll want to navigate to this directory in your terminal and type `sqlite3 state_region.sqlite3`. This will put you into a SQLite shell where you can experiment with SQL commands. You can see the schema for the database by calling `.schema`. You can quit by typing `.exit`.
+
+Go through each of the queries below in the SQLite shell. If your command works properly, it should display and match the answer in the my_solution.md file.
 
 You'll want to look up commands for each of the challenges using the [SQL Tutorial on w3schools.com](http://www.w3schools.com/sql/). Once you find the correct SQL query (the correct code that returns what it should return), you'll need to add the proper commands to your [my_solution.md](my_solution.md) file. The correct output is shown in the [my_solution.md](my_solution.md) file. Don't worry if the names of states and regions are cut off.
 

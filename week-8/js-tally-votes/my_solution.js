@@ -1,6 +1,8 @@
 // U3.W8: Tally Votes in JavaScript
 
-// I worked on this challenge [by myself, with:]
+// This is a pairing challenge, make sure you pair on it.
+
+// I worked on this challenge with:
 // This challenge took me [#] hours.
 
 // These are the votes cast by each student. Do not alter these objects here.
