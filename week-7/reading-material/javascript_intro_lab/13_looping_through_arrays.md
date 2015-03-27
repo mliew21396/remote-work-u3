@@ -76,8 +76,37 @@ for (i in nums) {
 
 The `i` variable still acts as an incrementor, just like the longhand syntax (`for (var i=0; i<n; i++)`) above.  Did you expect it to hold the value of each element in the array?  Nope, sorry.
 
-`for...in` is different from the above syntax in one very important sense: it will iterate through the elements of an enumerable object *in an arbitrary order*.  Do not use `for...in` if you are concerned with maintaining the sequential order of your array.
+`for...in` will look for any enumerable properties available to the object, including any in the prototype chain. This can introduce unintended data into your loop! Run this code in your console to see an example:
 
+```Javascript
+testArray = [1,2,3,4,5]
+
+for (i in testArray) {
+  console.log(testArray[i])
+} 
+// outputs 1 2 3 4 5 as expected
+
+// now lets add a property to the prototype chain
+
+Array.prototype.newProp = "I live in the Array prototype!"
+
+for (i in testArray) {
+  console.log(testArray[i])
+} 
+```
+
+To combat this we can either use the long form `for` loop, or you can add this line to make sure that the `for..in` loop does not try to look up the prototype chain.
+
+```Javascript
+testArray = [1,2,3,4,5]
+
+Array.prototype.newProp = "I live in the Array prototype!"
+
+for (i in testArray) {
+  if (testArray.hasOwnProperty(i))
+    console.log(testArray[i])
+} 
+```
 Click [next](14_each_map_select_max.md) to go to the next section.
 
 ### References
