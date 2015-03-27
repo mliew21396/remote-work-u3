@@ -9,19 +9,18 @@
 3. Use JavaScript built-in methods
 4. Debug using Node's error messages
 
-
 ## Summary
 It is finally time... for the Phase 0 JavaScript Olympics! You will be completing a pentathlon of challenges to stretch your JavaScript knowledge. You will be going through a variety of tasks, some of them you will know how to do already, some will test your research abilities.
 
-Write your code in Stypi and run your code in Node.
+Write your code in Coder Pad and run your code in with the built-in Node interpreter.
 
 ## RELEASE 0: Warm up: Objects
 
-Create athlete profiles for you and your pair. Include your name, height, sport, and quote. You should use object literal notation for this exercise. Test in Node to make sure your properties are defined properly. Create a variable athleteArray that holds your athlete profiles to use in the next release. 
+Create athlete profiles for you and your pair. Include your name, height, sport, and quote. You can use object literal notation for this exercise. Validate that your properties are properly defined by writing tests and running the code in Node.
 
 ## RELEASE 1: Bulk up: Add properties to objects
 
-Use a for loop to add a property called `win` to every element in athleteArray. `win` should be a function that console logs: "{name} won the {sport} event!"
+Create a function that takes an array of athletes and adds a property `win` to each athlete in the array. `win` should print "{name} won the {event}!"
 
 Would it make more sense to have `win` be defined as a function expression or a function declaration?
 
