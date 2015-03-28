@@ -13,3 +13,5 @@ If you have time and want the practice, collect them all!
 5. [Rectangle Class](../ruby/rectangle-class)
 6. [Reverse Words](../ruby/reverse-words)
 7. [Triangle Debugger](../ruby/triangle-debugger)
+
+If you want (even) more Ruby challenges, you can find a bunch of them on [Rubeque](http://www.rubeque.com/problems). They have challenges at different levels, so you'll be sure to find some that are at the right level for you.

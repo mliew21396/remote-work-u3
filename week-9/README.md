@@ -1,20 +1,20 @@
 # Review
 
-Week 9 will be released the Friday before week 9 starts.
+<!-- Week 9 will be released the Friday before week 9 starts. -->
 
-<!-- You are only one week away from Phase 1. We hope you're excited! This week's workload is a little lighter, which will hopefully give you some breathing room for moving and resting before Phase 1 starts. See your friends, spend time with your family, but also make sure to solidify the fundamentals. Try teaching anyone who will listen the concepts you've learned. Teaching is the best way to determine what you need to work on.
+You are only one week away from Phase 1. We hope you're excited! This week's workload is a little lighter, which will hopefully give you some breathing room for moving and resting before Phase 1 starts. See your friends, spend time with your family, but also make sure to solidify the fundamentals. Try teaching anyone who will listen the concepts you've learned. Teaching is the best way to determine what you need to work on.
 
 ## Challenges
 
-The challenges this week can be done in any order.
+The challenges can be done in any order.
 
-1. [Professional Blog](1-professional-blog.md)
-2. [JavaScript Challenges](2-JavaScript) *select 2*
-3. [Ruby Challenges](3-ruby.md) *select 2*
-4. [Cultural Blog](4-cultural-blog.md)
-5. [Cohort Bonding](5-cohort-bonding.md)
-6. [Accountability Group](6-accountability-group.md)
-7. [BONUS Challenges](7-BONUS-challenges) *Optional*
+1. [Professional Blog](professional-blog.md)
+2. [JavaScript Challenges](JavaScript) *select 2*
+3. [Ruby Challenges](ruby.md) *select 2*
+4. [Cultural Blog](cultural-blog.md)
+5. [Cohort Bonding](cohort-bonding.md)
+6. [Accountability Group](accountability-group.md)
+7. [BONUS Challenges](BONUS-challenges) *Optional*
 
 If this week is too light for you, complete all of the challenges and review any BONUS challenges you missed from previous weeks. Read or re-read the *Well-Grounded Rubyist* or *Practical Object-Oriented Design in Ruby*.
 
@@ -35,4 +35,3 @@ Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
 
- -->
