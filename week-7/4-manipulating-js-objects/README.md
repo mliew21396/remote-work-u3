@@ -22,7 +22,7 @@ var terah = {
 }
 ```
 
-Releases
+##Releases
 
 ## Release 0: Run the tests
 You will find test code in the [my_solution.js](./my_solution.js) file associated with this challenge. Run the code from the command line using Node.js. All tests will log `true` in the console when they pass--`false`, otherwise.
