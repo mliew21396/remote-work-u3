@@ -1,4 +1,4 @@
- // U3.W7: Design your own Code Combat Mission
+ // U3.W7: Design Basic Game Solo Challenge
 
 // This is a solo challenge
 
