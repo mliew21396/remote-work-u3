@@ -17,7 +17,7 @@ This week focuses on the basics of the JavaScript language. You will have more a
 8. [Cultural Blog](cultural-blog.md)
 9. [GPS 3.1](gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
 10. [Accountability Group](accountability-group.md)
-11. [BONUS Ideas](BONUS) *Optional*
+11. [BONUS](BONUS) *Optional*
 
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W7.** Only other DBC students can actually see your repositories because they are private.
