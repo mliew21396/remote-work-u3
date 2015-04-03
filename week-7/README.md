@@ -19,7 +19,6 @@ This week focuses on the basics of the JavaScript language. You will have more a
 10. [Accountability Group](accountability-group.md)
 11. [BONUS Ideas](BONUS) *Optional*
 
-Note: There are no bonus challenges this week. Look to previous bonus challenges for additional work, or go crazy with the optional release in the solo challenge or check out a book or two on JavaScript.
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W7.** Only other DBC students can actually see your repositories because they are private.
 
