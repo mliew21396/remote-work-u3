@@ -7,18 +7,17 @@ This week focuses on the basics of the JavaScript language. You will have more a
 **You have an asynchronous group challenge this week. Take a look at it early so you don't get blind-sided.**
 
 ## Challenges
-1. [Code Combat](code-combat)
-2. [Eloquent JavaScript](eloquent-js)
-3. [JavaScript Variables and Objects](js-variables-objects)
-4. [Manipulating JavaScript Objects](manipulating-js-objects)
-5. [Separate Numbers with Commas in JavaScript](nums-commas) **Mandatory Pairing Challenge**
-6. [Design Your Own Code Combat Mission- SOLO CHALLENGE](design-basic-game-solo-challenge)
-7. [Group Project](group-project) **Check this out early!**
-8. [Technical Blog](technical-blog.md)
-9. [Cultural Blog](cultural-blog.md)
-10. [GPS 3.1](gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
-11. [Accountability Group](accountability-group.md)
-12. [BONUS Ideas](BONUS) *Optional*
+1. [Eloquent JavaScript](eloquent-js)
+2. [JavaScript Variables and Objects](js-variables-objects)
+3. [Manipulating JavaScript Objects](manipulating-js-objects)
+4. [Separate Numbers with Commas in JavaScript](nums-commas) **Mandatory Pairing Challenge**
+5. [Design Your Own Code Combat Mission- SOLO CHALLENGE](design-basic-game-solo-challenge)
+6. [Group Project](group-project) **Check this out early!**
+7. [Technical Blog](technical-blog.md)
+8. [Cultural Blog](cultural-blog.md)
+9. [GPS 3.1](gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
+10. [Accountability Group](accountability-group.md)
+11. [BONUS Ideas](BONUS) *Optional*
 
 Note: There are no bonus challenges this week. Look to previous bonus challenges for additional work, or go crazy with the optional release in the solo challenge or check out a book or two on JavaScript.
 
