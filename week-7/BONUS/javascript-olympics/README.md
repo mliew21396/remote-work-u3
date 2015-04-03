@@ -1,7 +1,6 @@
 [Week 8 Home](../)
-# U3.W8: GPS 3.2 - JavaScript
+# U3.W8: JavaScript Olympics
 
-**DO NOT READ THROUGH OR ATTEMPT THIS CHALLENGE BEFORE YOUR GUIDED PAIRING SESSION.**
 
 ## Learning Competencies
 1. Create and manipulate objects in JavaScript
