@@ -10,6 +10,8 @@
 ## Summary
 Now that you have learned a bit about JavaScript, it's time to use that knowledge a bit more. In this challenge you will be creating a series of variables. The values of the variables will be different types of JavaScript objects. Since you've already worked with variables a bit in the last challenge, this challenge should be mostly review.
 
+This challenge doesn't take very long for most people, so if you are pairing, you'll probably want to pair on both this challenge and [4. Manipulating JavaScript Objects](../manipulating-js-objects/README.md).
+
 ## Release 0: Test-Driven Development
 If you look at the bottom of your [my_solution.js](my_solution.js) file, you'll see a function `assert`. These are tests that will help drive your development. In the developer world, basing your code off of tests is called Test-Driven Development (TDD) and is popular with many developers. Read [The Newbie's Guide to Test-Driven Development](http://code.tutsplus.com/tutorials/the-newbies-guide-to-test-driven-development--net-13835) to learn more about TDD if you're interested.
 
