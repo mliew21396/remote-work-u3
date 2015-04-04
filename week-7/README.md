@@ -11,13 +11,14 @@ This week focuses on the basics of the JavaScript language. You will have more a
 2. [JavaScript Variables and Objects](js-variables-objects)
 3. [Manipulating JavaScript Objects](manipulating-js-objects)
 4. [Separate Numbers with Commas in JavaScript](nums-commas) **Mandatory Pairing Challenge**
-5. [Design Your Own Code Combat Mission- SOLO CHALLENGE](design-basic-game-solo-challenge)
-6. [Group Project](group-project) **Check this out early!**
-7. [Technical Blog](technical-blog.md)
-8. [Cultural Blog](cultural-blog.md)
-9. [GPS 3.1](gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
-10. [Accountability Group](accountability-group.md)
-11. [BONUS](BONUS) *Optional*
+5. [JavaScript Olympics Challenge](javascript-olympics)
+6. [Design Your Own Code Combat Mission- SOLO CHALLENGE](design-basic-game-solo-challenge)
+7. [Group Project](group-project) **Check this out early!**
+8. [Technical Blog](technical-blog.md)
+9. [Cultural Blog](cultural-blog.md)
+10. [GPS 3.1](gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
+11. [Accountability Group](accountability-group.md)
+12. [BONUS](BONUS) *Optional*
 
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W7.** Only other DBC students can actually see your repositories because they are private.
