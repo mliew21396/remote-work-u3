@@ -2,8 +2,6 @@
 
 # U3.W7: Extra Study Ideas (Optional)
 
-- [Javascript Olympics Challenge](javascript-olympics)
-
 - Go through Codecademy's [JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
 
 - Research adding JavaScript to Websites and incorporate some of what you learned into your blog. There is a lot of information out there on how to do this. You may find this chapter on [Web Building - Adding Code (JavaScript)](http://www.w3schools.com/website/web_spa_javascript.asp) from w3schools.com useful.

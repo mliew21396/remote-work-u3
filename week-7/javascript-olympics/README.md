@@ -11,11 +11,9 @@
 ## Summary
 It is finally time... for the Phase 0 JavaScript Olympics! You will be completing a pentathlon of challenges to stretch your JavaScript knowledge. You will be going through a variety of tasks, some of them you will know how to do already, some will test your research abilities.
 
-Write your code in Coder Pad and run your code in with the built-in Node interpreter.
-
 ## RELEASE 0: Warm up: Objects
 
-Create athlete profiles for you and your pair. Include your name, height, sport, and quote. You can use object literal notation for this exercise. Validate that your properties are properly defined by writing tests and running the code in Node.
+Create athlete profiles for you and a friend. Include your name, height, sport, and quote. You can use object literal notation for this exercise. Validate that your properties are properly defined by writing tests and running the code in Node.
 
 ## RELEASE 1: Bulk up: Add properties to objects
 
@@ -53,4 +51,4 @@ console.log(michaelPhelps.name + " " + michaelPhelps.sport + " " + michaelPhelps
 
 ## Release 5: Reflect
 
-Whew! Nice work, you must be exhausted, take some time to cool down and reflect individually after the session is over. Include your reflection in your [my_solution.js](my_solution.js) file. This should take about 10-15 minutes.
+Whew! Nice work, you must be exhausted, take some time to cool down and reflect. Include your reflection in your [my_solution.js](my_solution.js) file. This should take about 10-15 minutes.
