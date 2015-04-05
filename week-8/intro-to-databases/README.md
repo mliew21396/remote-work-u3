@@ -77,7 +77,7 @@ For the VirusPredictor example, the two tables would be represented like this:
 
 <pre>
 +--------------------+        +-------------+
-| states             |        | region      |
+| states             |        | regions     |
 +--------------------+        +-------------+
 | id                 |      --| id          |
 | state_name         |    /   | region_name |
