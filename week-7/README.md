@@ -12,7 +12,7 @@ This week focuses on the basics of the JavaScript language. You will have more a
 3. [Manipulating JavaScript Objects](manipulating-js-objects)
 4. [Separate Numbers with Commas in JavaScript](nums-commas) **Mandatory Pairing Challenge**
 5. [JavaScript Olympics Challenge](javascript-olympics)
-6. [Design Your Own Code Combat Mission- SOLO CHALLENGE](design-basic-game-solo-challenge)
+6. [Design a Basic Game- SOLO CHALLENGE](design-basic-game-solo-challenge)
 7. [Group Project](group-project) **Check this out early!**
 8. [Technical Blog](technical-blog.md)
 9. [Cultural Blog](cultural-blog.md)
