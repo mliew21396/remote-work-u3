@@ -10,11 +10,10 @@
 
 # Initial Solution
 class Rectangle
-  attr_accessor :width, :height
 
-  def initialize(width, height)
+  def initialize(width, length)
     @width  = width
-    @height = height
+    @length = length
   end
 
 
