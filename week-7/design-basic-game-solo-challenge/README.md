@@ -21,7 +21,7 @@ You should use time-management strategies to keep yourself on task. Check in wit
 
 START with and MVP and start SMALL. If you have time, desire, and energy, THEN make it more complex and do the bonus release. No one is comparing your code to other cohort-mates. This challenge is all about you, your learning, and your creativity. The overall goal is simply to create objects and functions that interact. Period.
 
-<!-- See [this example](example_solution.js) to see a solution that is solid, simple, and fulfills the expectations. Push yourself to be creative. -->
+See [this example](example_solution.js) to see a solution that is solid, simple, and fulfills the expectations. Push yourself to be creative if you have the time.
 
 ## Release 0: Play a sample game
 
