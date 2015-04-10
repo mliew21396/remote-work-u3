@@ -17,9 +17,8 @@ Please keep track of how much time you spend on each challenge.
 6. [Cheat Sheet](cheat-sheet.md) **Pairing Challenge**
 7. [Technical Blog](technical-blog.md)
 8. [Cultural Blog](cultural-blog.md)
-9. [GPS 3.2](gps3-2) [on JavaScript] **DO NOT READ UNTIL GPS SESSION**
-10. [Accountability Group](accountability-group.md)
-11. [BONUS Challenges](BONUS-challenges) **Optional**
+9. [Accountability Group](accountability-group.md)
+10. [BONUS Challenges](BONUS-challenges) **Optional**
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W8.**
 
