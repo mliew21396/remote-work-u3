@@ -2,8 +2,8 @@
 // Overall mission: Collect the treasure and move to the next level
 // Goals:Avoid the Dragon, collect the treasure
 // Characters: Player, Dragon
-// Objects:Player(position, health, ammont of gold), Dragon
-// Functions:moveUp, moveDown, moveForwad, moveBack
+// Objects:Player(position, health, amount of gold), Dragon
+// Functions:moveUp, moveDown, moveForward, moveBack
 
 // Pseudocode
 //Declare a 'player' object that will have properties as position and success
