@@ -1,4 +1,4 @@
-# SQL and Review
+# Week 8: SQL and Review
 
 <!-- Week 8 will be released the Friday before week 8 starts.  -->
 
