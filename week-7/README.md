@@ -1,4 +1,4 @@
-# Introduction to JavaScript
+# Week 7: Introduction to JavaScript
 
 JavaScript is known as the "language of the web." It is a powerful object-oriented language that is light-weight and can communicate with the browser. This week, you will be introduced to basic JavaScript syntax like variables and functions. JavaScript will be treated as a language in its own right and the challenges will be very similar to the Ruby challenges you have been working on.
 
