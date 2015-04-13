@@ -135,7 +135,7 @@ In the 1995 Teen Comedy *Clueless*, Cher (the main character) had a lot of outfi
 
 When you finish, take a screen shot of your schema design, upload it into the imgs directory and include it inline in your [my_solution.md](my_solution.md) file.
 
-** For types, just select the type that creates the right color. It doesn't matter right now whether you select between TEXT or VARCHAR for example. As long as it's yellow you're okay.
+** For types, just select the type that creates the right color. It doesn't matter right now whether you select between TEXT or VARCHAR for example. As long as it's red you're okay.
 
 ## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 Reflect on your process and learning in the [my_solution.md](my_solution.md) file.
