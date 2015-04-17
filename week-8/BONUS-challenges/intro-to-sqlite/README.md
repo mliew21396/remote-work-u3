@@ -117,7 +117,7 @@ Need help?  This [tutorial](http://zetcode.com/databases/sqlitetutorial/) may pr
 
 ## Release 4: Change a value
 
-Oops.  It turns out Kimmy's not so pleased about her new nickname.  She's also not so pleased that her first name was spelled wrong. We need to change all three of these things!
+Oops.  It turns out Kimmy's not so pleased about her new nickname.  She's also not so pleased that her first name was spelled wrong. We need to change both of these things!
 Kimmy's correctly spelled name is "Kimmy Lin" and she'd likely be less perturbed with a nickname like "Ninja Coder".
 
 Check out the [tutorial](http://zetcode.com/databases/sqlitetutorial/) for some help.  You should be able to do this with a single line SQL statement!
