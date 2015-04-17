@@ -1,10 +1,8 @@
-// GPS 3.2 - JavaScript
+ // U3.W7: JavaScript Olympics
 
-// YOUR FULL NAMES:
-//  1.
-//  2.
+// I paired [by myself, with:] on this challenge.
 
-// This challenge took us [#] hours.
+// This challenge took me [#] hours.
 
 
 // 0. Warm Up
