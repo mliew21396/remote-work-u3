@@ -9,6 +9,8 @@
 ## Summary
 In this challenge, you will dive in to SQL - Structured Query Language for databases. SQL is a language that allows you to retrieve data from a relational database. It is a programming language in its own right, so the goal here will be to learn how to use some of the syntax and get used to it's basics. You'll be using SQLzoo for this.
 
+NOTE: SQLzoo is notoriously buggy. If you run into issues (like in the quiz) where it doesn't seem to be working, you may want to try a new browser, but it may just not work. Unfortunately, I think the creators of SQLzoo are no longer maintaining it and there aren't many good alternatives out there. You should feel free to look for some, and let us know if you find any because new things are being created all of the time!
+
 ## Release 0: Go to [SQLzoo](http://sqlzoo.net/wiki/Main_Page)
 Start the first set of exercises "SELECT basics".  Complete this set and complete the quiz that is linked to at the bottom. **DO NOT CREATE AN ACCOUNT - There is an annoying bug in SQLZoo that gives users issues when they try.**
 
