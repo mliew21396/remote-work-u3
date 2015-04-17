@@ -16,7 +16,7 @@ The challenges can be done in any order.
 6. [Accountability Group](accountability-group.md)
 7. [BONUS Challenges](BONUS-challenges) *Optional*
 
-If this week is too light for you, complete all of the challenges and review any BONUS challenges you missed from previous weeks. Read or re-read the *Well-Grounded Rubyist* or *Practical Object-Oriented Design in Ruby*.
+If this week is too light for you, complete all of the challenges and review any BONUS challenges you missed from previous weeks. Re-read sections of the *Well-Grounded Rubyist* or *Practical Object-Oriented Design in Ruby* in preparation for Phase 1.
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W9.**
 
