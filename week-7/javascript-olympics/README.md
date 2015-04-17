@@ -1,5 +1,5 @@
-[Week 8 Home](../)
-# U3.W8: JavaScript Olympics
+[Week 7 Home](../)
+# U3.W7: JavaScript Olympics
 
 
 ## Learning Competencies
