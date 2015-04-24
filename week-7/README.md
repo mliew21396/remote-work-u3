@@ -23,6 +23,8 @@ Number | Challenge Name | Est. time (hrs)**
 11. | [Accountability Group](accountability-group.md) | N/A
 12. | [BONUS](BONUS) *Optional* | N/A
 
+** These length estimates are calculated from past cohort averages.
+
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W7.** Only other DBC students can actually see your repositories because they are private.
 
