@@ -7,18 +7,21 @@ This week focuses on the basics of the JavaScript language. You will have more a
 **You have an asynchronous group challenge this week. Take a look at it early so you don't get blind-sided.**
 
 ## Challenges
-1. [Eloquent JavaScript](eloquent-js)
-2. [JavaScript Variables and Objects](js-variables-objects)
-3. [Manipulating JavaScript Objects](manipulating-js-objects)
-4. [Separate Numbers with Commas in JavaScript](nums-commas) **Mandatory Pairing Challenge**
-5. [JavaScript Olympics Challenge](javascript-olympics)
-6. [Design a Basic Game- SOLO CHALLENGE](design-basic-game-solo-challenge)
-7. [Group Project](group-project) **Check this out early!**
-8. [Technical Blog](technical-blog.md)
-9. [Cultural Blog](cultural-blog.md)
-10. [GPS 3.1](gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!**
-11. [Accountability Group](accountability-group.md)
-12. [BONUS](BONUS) *Optional*
+
+Number | Challenge Name | Est. time (hrs)**
+-------|----------------|----------
+1. | [Eloquent JavaScript](eloquent-js) | 3.5
+2. | [JavaScript Variables and Objects](js-variables-objects) | 1
+3. | [Manipulating JavaScript Objects](manipulating-js-objects) | 1
+4. | [Separate Numbers with Commas in JavaScript](nums-commas) **Mandatory Pairing Challenge** | 1.75
+5. | [JavaScript Olympics Challenge](javascript-olympics) | 1.75
+6. | [Design a Basic Game- SOLO CHALLENGE](design-basic-game-solo-challenge) | 4.25
+7. | [Group Project](group-project) **Check this out early!** | 1.25
+8. | [Technical Blog](technical-blog.md) | 1.5
+9. | [Cultural Blog](cultural-blog.md) | 1.25
+10. | [GPS 3.1](gps3-1) [Ruby Challenge] **DO NOT READ UNTIL YOUR GPS SESSION!** | 1.5
+11. | [Accountability Group](accountability-group.md) | N/A
+12. | [BONUS](BONUS) *Optional* | N/A
 
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W7.** Only other DBC students can actually see your repositories because they are private.
