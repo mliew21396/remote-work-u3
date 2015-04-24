@@ -20,7 +20,7 @@ You should have the `congress_poll_results.db` in this challenge directory (It m
 Take a look at the schemas included.  Type `.schema`.  There should be 3 tables, `congress_members`, `voters`, and `votes`.  Do a couple `select` statements on the congress_members table. (This is where most of the stats will be coming from).
 
 ## Release 2: Run Existing Code
-Run your [my_solution.rb](my_solution.rb) file. It should have some existing code that accesses the database, and attempts some queries.  Run the code.  Is there an error?  There should be!
+Run your [my_solution.rb](my_solution.rb) file. It should have some existing code that accesses the database, and attempts some queries.  Run the code. 
 
 ## Release 3: Try Again
 Run the Ruby file again. What is the output? Take a look at the code. How does it open the database?  How does it execute SQL statements?  See if you can play around with the existing code to change the output in interesting ways. You may want to peek back into the `congress_poll_results.db` file to see the schema.
