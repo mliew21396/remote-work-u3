@@ -13,7 +13,7 @@
 ## Summary
 jQuery is a feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. In this challenge you will write some basic jQuery to modify a simple web page.
 
-You may want to take a look at Codecademy's [JQuery Course](http://www.codecademy.com/jQuery) before tackling this challenge.
+You may want to take a look at Codecademy's [JQuery Course](http://www.codecademy.com/tracks/jquery) before tackling this challenge.
 
 ## Releases
 
