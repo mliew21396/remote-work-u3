@@ -11,16 +11,16 @@ The review will encourage you to dive deeper into topics and clean out any cobwe
 Number | Challenge Name | Est. time (hrs)**
 -------|----------------|----------
 1. | [JavaScript Gradebook](js-gradebook) | 2
-2. | [JavaScript Tally Votes](js-tally-votes) **Pairing Challenge** | 3
+2. | [JavaScript Tally Votes](js-tally-votes) (**Pairing Challenge**) | 3
 3. | [Introduction to Databases](intro-to-databases) | 2
 4. | [More Schemas](more-schemas) | 1.25
 5. | [Ruby Challenge](ruby.md) | 1.5
-6. | [Cheat Sheet](cheat-sheet.md) **Pairing Challenge** | 2.25
+6. | [Cheat Sheet](cheat-sheet.md) (**Pairing Challenge**) | 2.25
 7. | [Technical Blog](technical-blog.md) | 1.5
 8. | [Cultural Blog](cultural-blog.md) | 1.25
 9. | [Accountability Group](accountability-group.md) | N/A
-10. | Read POODR (Ch. 5-7) *(In preparation for Phase 1)* | N/A
-11. | [BONUS Challenges](BONUS-challenges) **Optional** | N/A
+10. | Read POODR (Ch. 5-7) (*In preparation for Phase 1*) | N/A
+11. | [BONUS Challenges](BONUS-challenges) (**Optional**) | N/A
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W8.**
 
