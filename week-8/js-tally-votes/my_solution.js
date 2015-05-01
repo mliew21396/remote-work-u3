@@ -1,6 +1,4 @@
-// U3.W8: Tally Votes in JavaScript
-
-// This is a pairing challenge, make sure you pair on it.
+// U3.W8: Tally Votes in JavaScript Pairing Challenge.
 
 // I worked on this challenge with:
 // This challenge took me [#] hours.

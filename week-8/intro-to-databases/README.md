@@ -102,7 +102,8 @@ SQL Designer is a bit weird to use. You have to use the menu at the right and th
 ## Release 4: SELECT statements
 Now that you know a bit about the database and its contents, it's time to use SQL to query the information.
 
-First, type this into your terminal:
+Navigate to this directory in your terminal and type the following: (if you are not using Windows):
+
 ```shell
 cat << EOF > ~/.sqliterc
 .headers on
@@ -110,7 +111,9 @@ cat << EOF > ~/.sqliterc
 EOF﻿
 ```
 
-Now you'll want to navigate to this directory in your terminal and type `sqlite3 state_region.sqlite3`. This will put you into a SQLite shell where you can experiment with SQL commands. You can see the schema for the database by calling `.schema`. You can quit by typing `.exit`.
+Now type `sqlite3 state_region.sqlite3`. (This will open up the file using a SQLite shell) You will be able to experiment with SQL commands in the SQLite shell. View the schema for the database by calling `.schema`. You can quit the SQL shell by typing `.exit`.
+
+If you are using Windows, use the [SQLite documentation](https://www.sqlite.org/cli.html) to turn on headers and set the mode (seen in the code above) once you've opened the file.
 
 Go through each of the queries below in the SQLite shell. If your command works properly, it should display and match the answer in the my_solution.md file.
 

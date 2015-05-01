@@ -13,10 +13,10 @@ In this challenge you will be taking your knowledge of JavaScript to the next le
 ```javascript
 var students = ["Joseph", "Susan", "William", "Elizabeth"]
 
-var scores = [ [80, 70, 70, 100],
-               [85, 80, 90, 90],
-               [75, 70, 80, 75],
-               [100, 90, 95, 85] ]
+var scores = [ [80, 70, 70, 100], // Joseph's cores
+               [85, 80, 90, 90], // Susan's scores
+               [75, 70, 80, 75], // William's scores
+               [100, 90, 95, 85] ] // Elizabeth's scores
 ```
 
 You will take this data and transform it into a grade book.  The grade book will be a JavaScript object.
@@ -55,6 +55,8 @@ Add the `getAverage` property to `gradebook` and assign it the value of a functi
 ## Release 5: Create the function `average`
 
 Have `average` accept an array of integers and return the average of those integers.
+
+NOTE: `getAverage` and `average` are different functions.
 
 ## Release 6: Modify `getAverage`
 
