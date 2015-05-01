@@ -3,9 +3,15 @@
 # U3.W7: GPS 3.1 Create an Electronic Grocery List
 
 ## Learning Competencies:
-- Implement a basic Ruby class and identify when to use instance variables
-- Identify the attributes and methods of a class based on user stories
-- Identify tradeoffs between simple OO design patterns
+- Identify tradeoffs between simple Object-Oriented design patterns
+- Write User Stories
+- Prioritize user stories to incorporate into an MVP (Minimum Viable Product)
+- Write driver code to check whether the code works
+- Translate pseudocode into code
+- Create classes with attributes and appropriate methods
+- Explain how to access attributes outside of a class
+- Modify objects and data structures
+
 
 ## Summary
 In this challenge, you will create an electronic grocery list command-line application. Show off the object-oriented design principles you learned last week. You should spend time discussing trade offs with different designs. This is your grocery list, so get creative and have fun, but also make it great code!
