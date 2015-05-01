@@ -2,9 +2,14 @@
 # U3.W7: Design a Basic Game [SOLO CHALLENGE](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md)
 
 ## Learning Competencies
+- Write pseudocode in a general, non-language-specific style
 - Define local variables in JavaScript
-- Create, add properties to, delete properties from, and access property values of JavaScript Object literals
-- Add functions to objects in JavaScript
+- Create objects using object literal notation
+- Access properties of objects
+- Create and add functions to objects in JavaScript
+- Call functions
+- Refactor the initial solution to make it more readable and concise
+- Reflect on thinking and coding process
 - BONUS: Integrate HTML, CSS, and JavaScript to display and manipulate objects
 
 ## Summary

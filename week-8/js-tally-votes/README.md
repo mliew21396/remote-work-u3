@@ -42,6 +42,8 @@ Your task is to go through `votes` and record each student's votes in `voteCount
 
 For this challenge, you will want to be familiar with `for ... in ...` [looping over](http://stackoverflow.com/questions/921789/how-to-loop-through-javascript-object-literal-with-objects-as-members) an object's properties as well as bracket notation and accessing nested properties. See these articles on [JavaScript basics](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/) and [JavaScript Objects](http://javascript.info/tutorial/objects) for help.
 
+This is a difficult challenge, and you will be expected to research quite a few concepts on your own. Before you start, you may want to create a nested object and practice iterating over it and accessing the variables inside it.
+
 ## Releases
 
 ## Release 0: Run the Tests

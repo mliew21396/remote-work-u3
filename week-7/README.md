@@ -6,7 +6,7 @@ This week focuses on the basics of the JavaScript language. You will have more a
 
 **You have an asynchronous group challenge this week. Take a look at it early so you don't get blind-sided.**
 
-## Challenges
+## Challenges and Tasks
 
 Number | Challenge Name | Est. time (hrs)**
 -------|----------------|----------
