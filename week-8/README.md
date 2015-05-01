@@ -22,6 +22,8 @@ Number | Challenge Name | Est. time (hrs)**
 10. | Read POODR (Ch. 5-7) (*In preparation for Phase 1*) | N/A
 11. | [BONUS Challenges](BONUS-challenges) (**Optional**) | N/A
 
+** These length estimates are calculated from past cohort averages.
+
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W8.**
 
 ## Submitting your work
