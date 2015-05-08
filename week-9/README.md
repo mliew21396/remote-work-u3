@@ -15,7 +15,8 @@ Number | Challenge Name | Est. time (hrs)**
 5. | [Cohort Bonding](cohort-bonding.md) | N/A
 6. | [Accountability Group](accountability-group.md) | N/A
 7. | Read POODR (Ch. 8-9) (*In preparation for Phase 1*) | N/A
-8. | [BONUS Challenges](BONUS-challenges) (*Optional*) | N/A
+8. | Read *Well-Grounded Rubyist* ch. 4 (*In preparation for Phase 1*) | N/A
+9. | [BONUS Challenges](BONUS-challenges) (*Optional*) | N/A
 
 ** These length estimates are calculated from past cohort averages.
 
