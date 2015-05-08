@@ -9,25 +9,30 @@
 ## Summary
 [*Eloquent Javascript*](http://eloquentjavascript.net/) is a book that comes highly recommended, so we're asking you to read through it and answer some questions before starting the next challenges.
 
-For each release, read the appropriate chapter and answer the questions in the [javascript_notes.md](javascript_notes.md) file. If you are less into writing, you can always record a video to include rather than text. It's up to you!
 
 For the sections in [javascript_notes.md](javascript_notes.md) that ask you to solve a problem using JavaScript, write the code in [my_solutions.js](my_solutions.js) and run it in node unless prompted to do otherwise.
 
 If you prefer a more active style of learning, you can also use [codecademy's JavaScript track](http://www.codecademy.com/en/tracks/javascript) to supplement and get practice, but make sure to still answer the questions in [javascript_notes.md](javascript_notes.md).
 
-As you might expect, this challenge generally takes quite a bit of time. If you want to pair on it, I suggest reading the book separately and then working on the [javascript_notes.md](javascript_notes.md) together.
-
 ## Releases:
 
 ## Release 0: [Introduction](http://eloquentjavascript.net/00_intro.html)
 
+Answer the questions in the [javascript_notes.md](javascript_notes.md) file.
+
 ## Release 1: [Ch. 1: Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
 
+Remember to answer the questions in the [javascript_notes.md](javascript_notes.md) file.
+
 ## Release 2: [Ch. 2: Program Structure](http://eloquentjavascript.net/02_program_structure.html)
+
+Remember to answer the questions in the [javascript_notes.md](javascript_notes.md) file.
 
 ## Release 3: [Ch. 3: Functions](http://eloquentjavascript.net/03_functions.html)
 
 Skip the sections on closure and recursion.
+
+Remember to answer the questions in the [javascript_notes.md](javascript_notes.md) file.
 
 ## Release 4: [Ch. 4: Data Structures: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 
@@ -35,6 +40,8 @@ You may skip the following sections:
 - The lycanthrope’s log
 - Computing Correlation
 - from Further Arrayology to The Global Object
+
+Remember to answer the questions in the [javascript_notes.md](javascript_notes.md) file.
 
 Read the chapter summary.
 
