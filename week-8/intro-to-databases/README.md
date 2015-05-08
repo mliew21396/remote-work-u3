@@ -136,7 +136,7 @@ Create SQL Queries for the following:
 ## Release 5: One-to-Many Schema
 
 ![closet](../imgs/closet.jpeg)
-![mismatch](../imgs/clueless-mismatch.jpg)
+![mismatch](../imgs/mismatch.jpg)
 
 In the 1995 Teen Comedy *Clueless*, Cher (the main character) had a lot of outfits, and an entire software program to help her decide what to wear. Make a simple schema design in [SQL Designer](https://socrates.devbootcamp.com/sql) to include `persons` and `outfits` tables. Create at least 4 fields (with general types**) for each table. One of the fields in the `outfits` table should refer to the `id` in the `persons` table. You should reference the [conventions.md](conventions.md) file to read about database naming conventions.
 
