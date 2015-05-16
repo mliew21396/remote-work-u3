@@ -18,9 +18,10 @@ Number | Challenge Name | Est. time (hrs)**
 6. | [Cheat Sheet](cheat-sheet.md) (**Pairing Challenge**) | 2.25
 7. | [Technical Blog](technical-blog.md) | 1.5
 8. | [Cultural Blog](cultural-blog.md) | 1.25
-9. | [Accountability Group](accountability-group.md) | N/A
-10. | Read POODR (Ch. 5-7) (*In preparation for Phase 1*) | N/A
-11. | [BONUS Challenges](BONUS-challenges) (**Optional**) | N/A
+9. | [Week 8 Quiz](https://www.classmarker.com/online-test/start/?quiz=rqq555675e3b682f)(**Mandatory** - Use DBC email address) | < 1
+10. | [Accountability Group](accountability-group.md) | N/A
+11. | Read POODR (Ch. 5-7) (*In preparation for Phase 1*) | N/A
+12. | [BONUS Challenges](BONUS-challenges) (**Optional**) | N/A
 
 ** These length estimates are calculated from past cohort averages.
 
