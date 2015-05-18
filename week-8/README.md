@@ -1,8 +1,8 @@
 # Week 8: SQL and Review
 
-<!-- Week 8 will be released Monday. -->
+Week 8 will be released by 10am PST on Monday.
 
-This week you'll go into more depth with Javascript, learn a bit about SQL and databases, and then move into review.
+<!-- This week you'll go into more depth with Javascript, learn a bit about SQL and databases, and then move into review.
 
 The review will encourage you to dive deeper into topics and clean out any cobwebs so you are ready to start Phase 1. Because you are covering some new material this week, week 8 will be more demanding than week 9.
 
@@ -18,9 +18,10 @@ Number | Challenge Name | Est. time (hrs)**
 6. | [Cheat Sheet](cheat-sheet.md) (**Pairing Challenge**) | 2.25
 7. | [Technical Blog](technical-blog.md) | 1.5
 8. | [Cultural Blog](cultural-blog.md) | 1.25
-9. | [Accountability Group](accountability-group.md) | N/A
-10. | Read POODR (Ch. 5-7) (*In preparation for Phase 1*) | N/A
-11. | [BONUS Challenges](BONUS-challenges) (**Optional**) | N/A
+9. | [Week 8 Quiz](https://www.classmarker.com/online-test/start/?quiz=rqq555675e3b682f)(**Mandatory** - Use DBC email address) | < 1
+10. | [Accountability Group](accountability-group.md) | N/A
+11. | Read POODR (Ch. 5-7) (*In preparation for Phase 1*) | N/A
+12. | [BONUS Challenges](BONUS-challenges) (**Optional**) | N/A
 
 ** These length estimates are calculated from past cohort averages.
 
@@ -41,3 +42,4 @@ Expectation | Times per Unit | Times per Week
 Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
+ -->
