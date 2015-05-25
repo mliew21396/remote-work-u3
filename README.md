@@ -2,9 +2,9 @@
 
 This unit has a lot of review built in and introduces you to a few new concepts in JavaScript as well as basics of SQL and Schema Design.
 
-## [Week 7: JavaScript](week-7/README.md)
-## [Week 8: SQL and Review](week-8/README.md)
-<!-- ## [Week 9: Review](week-9/README.md) -->
+### [Week 7: JavaScript](week-7/README.md)
+###[Week 8: SQL and Review](week-8/README.md)
+<!-- ### [Week 9: Review](week-9/README.md) -->
 
 ## Unit Goals
 
