@@ -86,4 +86,6 @@ Add your JavaScript objects to an HTML page. Use CSS to make it pretty. You may 
 
 Avoid JQuery for now. You may want to check out the [W3 Schools JavaScript Intro](http://www.w3schools.com/js/js_intro.asp), [JavaScript - HTML DOM Methods](http://www.w3schools.com/js/js_htmldom_methods.asp) or [JavaScript Basics, part 6](http://www.htmlgoodies.com/primers/jsp/article.php/3594621) for help.
 
+You'll want to host this on your [USERNAME].github.io site in the projects directory - see this week's [Blog Improvement](blog-improvement.md) challenge for details.
+
 ## Release 6: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
