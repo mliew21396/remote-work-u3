@@ -25,7 +25,8 @@ If this week is too light for you, complete all of the challenges and review any
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W9.**
 
 ## Submitting your work
-- You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work by Sunday at 11:59pm.
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
+- The week's work is due Monday (DBC Phase 1 Start day!) by 8:00am PST.
 
 **There are no extensions available for week 9. It is vital to your ability to attend DBC on site that you have all work for previous weeks in by this week.**
 
