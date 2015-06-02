@@ -3,10 +3,10 @@
 
 
 ## Learning Competencies
-1. Create and manipulate objects in JavaScript
-2. Define functions in JavaScript
-3. Use JavaScript built-in methods
-4. Debug using Node's error messages
+- Create and manipulate objects in JavaScript
+- Define functions in JavaScript
+- Use JavaScript built-in methods
+- Debug using Node's error messages
 
 ## Summary
 It is finally time...for the Phase 0 JavaScript Olympics! You will be completing a pentathlon of challenges to stretch your JavaScript knowledge. You will be going through a variety of tasks, some of them you will know how to do already, some will test your research abilities.
