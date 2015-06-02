@@ -28,7 +28,8 @@ Number | Challenge Name | Est. time (hrs)**
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W8.**
 
 ## Submitting your work
-- You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work by Sunday at 11:59pm.
+- You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
+- The week's work is due Monday by 10:00am PST.
 
 #### IMPORTANT
 There are no extensions available for the last two weeks of Phase 0. It is vital to your ability to attend DBC on site with your cohort that you get your work in by the deadline. Email us immediately if this will be a problem for you. If we do not hear from you and you do not have the work for weeks 1-8 turned in, we will automatically move you to the next cohort.

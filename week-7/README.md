@@ -31,7 +31,7 @@ This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W
 
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
-- The week's work is due each Sunday by 11:59pm.
+- The week's work is due Monday by 10:00am PST.
 
 **If you do not finish by the deadline:**
 - Complete the week 7 extension request. (You only get to apply for an extension for week 7 in Unit 3).
