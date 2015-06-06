@@ -30,7 +30,7 @@ See [this example](example_solution.js) to see a solution that is solid, simple,
 
 ## Release 0: Play a sample game
 
-[Code Combat](http://codecombat.com/play/dungeon) is a site aimed at teaching people how to program by playing a game. We are going to use their example to walk you through this process. If you want to experience it, go to the link above. When you select the language, be sure to select "JavaScript."
+[Code Combat](http://codecombat.com/play/dungeon) is a site aimed at teaching people how to program by playing a game. We are going to use their example to walk you through this process. If you want to experience it, go to the link above. When you select the language, be sure to select "JavaScript." We are using this as an example. You can create whatever kind of game you want.
 
 ![Mission goals](../imgs/cc-mission.png)
 
@@ -85,6 +85,8 @@ NOTE: This could take a lot of time and is self-directed. Attempt this release a
 Add your JavaScript objects to an HTML page. Use CSS to make it pretty. You may want to consider using ascii art. Then look up how to manipulate objects on a page with JavaScript using your functions.
 
 Avoid JQuery for now. You may want to check out the [W3 Schools JavaScript Intro](http://www.w3schools.com/js/js_intro.asp), [JavaScript - HTML DOM Methods](http://www.w3schools.com/js/js_htmldom_methods.asp) or [JavaScript Basics, part 6](http://www.htmlgoodies.com/primers/jsp/article.php/3594621) for help.
+
+You may also find John Duckett's books on HTML and CSS as well as JavaScript and JQuery helpful (just avoid the JQuery part) for this release.
 
 You'll want to host this on your [USERNAME].github.io site in the projects directory - see this week's [Blog Improvement](blog-improvement.md) challenge for details.
 
