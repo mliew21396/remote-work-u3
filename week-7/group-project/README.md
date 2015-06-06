@@ -11,7 +11,7 @@
 
 ## Summary
 
-First, please check your accountability group is the same by looking at the spreadsheet in the google+ community.
+First, please check your accountability group is the same by looking at the spreadsheet in the community.
 
 You will be required to work with others in your career as a developer, but you will not always know the larger goals or be responsible for implementing every feature. In this challenge, you will work with your accountability group to solve a series of small challenges. Each person will have a specific role and you are not allowed to pass along any information outside of your particular responsibility. The roles are determined by the order in your accountability group spreadsheet. The first person will have the first role, second person the second, etc. The goal is to try to communicate effectively in your roles, but **your group doesn't necessarily need to have a working solution, this challenge is about the process.**
 
@@ -53,7 +53,7 @@ When you receive the `my_solution.js` links, refactor it. Then translate each ch
 
 ## Release 4: Put it all together (Person 1)
 
-When the first person receives the refactored code from the last person, they need to run the code with the tests. Which tests pass? Which tests fail? Send a summary with the code and user stories you received to the rest of the group.
+When the first person receives the refactored code from the last person, they need to run the code with the tests. Which tests pass? Which tests fail? Send a summary with the code and user stories you received to the rest of the group. When you receive the summary, copy and paste the code into your solution file.
 
 ## Release 5: Compile (Everyone)
 
