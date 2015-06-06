@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 - Use HTML tags to present content on a website
-- Position HTML elements using CSS padding, borders, and margins
+- Format HTML elements using the CSS padding, borders, and margin properties
 - Use CSS to add and format colors, fonts, icons, images, etc.
 
 ## Summary:
