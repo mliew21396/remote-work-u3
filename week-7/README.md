@@ -17,12 +17,13 @@ Number | Challenge Name | Est. time (hrs)**
 5. | [JavaScript Olympics](javascript-olympics) | 1.75
 6. | [Design a Basic Game- SOLO CHALLENGE](design-basic-game-solo-challenge) | 4.25
 7. | [Group Project](group-project) **(Check this out early!)** | 1.25
-8. | [Technical Blog](technical-blog.md) | 1.5
-9. | [Cultural Blog](cultural-blog.md) | 1.25
-10. | [GPS 3.1 - Ruby](gps3-1) **(DO NOT READ UNTIL YOUR GPS SESSION!)** | 1.5
-11. | [Week 7 Quiz](https://www.classmarker.com/online-test/start/?quiz=fx6555670aa75465) (**Mandatory** - Use DBC email address) | < 1
-11. | [Accountability Group](accountability-group.md) | N/A
-12. | [BONUS](BONUS) *(Optional)* | N/A
+8. | [Blog Improvement](blog-improvement.md)
+9. | [Technical Blog](technical-blog.md) | 1.5
+10. | [Cultural Blog](cultural-blog.md) | 1.25
+11. | [GPS 3.1 - Ruby](gps3-1) **(DO NOT READ UNTIL YOUR GPS SESSION!)** | 1.5
+12. | [Week 7 Quiz](https://www.classmarker.com/online-test/start/?quiz=fx6555670aa75465)(**Mandatory** - Use DBC email address) | < 1
+13. | [Accountability Group](accountability-group.md) | N/A
+14. | [BONUS](BONUS) *(Optional)* | N/A
 
 ** These length estimates are calculated from past cohort averages.
 
