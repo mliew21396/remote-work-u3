@@ -79,7 +79,7 @@ assert(
 
 assert(
   terah.spouse.spouse === terah,
-  "Terahs spouses spouse property should refer back to the terah.",
+  "Terah's spouse's spouse property should refer back to the terah object.",
   "6. "
 )
 
