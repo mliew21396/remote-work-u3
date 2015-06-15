@@ -8,12 +8,14 @@
 - Illustrate fundamentals of web design and user experience in your website
 
 ## Summary:
-At some point during Phase 0, you've probably wanted a handy cheat sheet that would have all the information you've ever wanted on a topic, in a simple form. Well, they do exist, but they aren't as good as the cheat sheet you can make! This is your chance to create a one-page cheat sheet on any Phase 0 topic. You can use these as references as you go through Dev Bootcamp!
-
-Keep track of how much time you spend on this challenge.
+At some point during Phase 0, you've probably wanted a handy cheat sheet that would have all the information you've ever wanted on a topic in a simple form. Well, they do exist, but they aren't as good as the cheat sheet you can make! This is your chance to create a one-page cheat sheet on any Phase 0 topic. You can use these as references as you go through Dev Bootcamp!
 
 
-## Release 0: Select a topic for a cheat sheet
+## Release 0: Discuss
+This can be a difficult challenge to pair on, so make sure you are both on the same page before starting. Discuss what you would like to put on it and how you want it designed.
+
+These are just general topics, you can choose to make your cheat sheet about anything within any of these topics as well.
+
  - Ruby BASICS
  - Ruby Enumerables
  - Ruby Hashes, Arrays, Strings, Integers
@@ -31,7 +33,7 @@ Keep track of how much time you spend on this challenge.
 Create a wireframe for your cheat sheet. You can do it on paper or using a wireframing tool. Take an picture/screen shot of your wireframe and upload it into this directory.
 
 ## Release 2: Create a template
-Create a new file in your github.io repository called `cheat-sheet.html`
+Create a new file in your github.io repository called `cheat-sheet.html`. You will paste your cheat-sheet here later. Then create an html file on a site like JSFiddle so you can easily work together.
 
 Design your page with the idea that you and your cohort-mates are the clients. How would you want a cheat sheet to look to be effective as you go through Dev Bootcamp?
 
