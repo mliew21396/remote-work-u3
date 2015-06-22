@@ -1,8 +1,8 @@
 # Week 9: Review
 
-Week 9 will be released by 10am PST on Monday.
+<!-- Week 9 will be released by 10am PST on Monday. -->
 
-<!-- You are only one week away from Phase 1. We hope you're excited! This week's workload is a little lighter, which will hopefully give you some breathing room for moving and resting before Phase 1 starts. See your friends, spend time with your family, but also make sure to solidify the fundamentals. Try teaching anyone who will listen the concepts you've learned. Teaching is the best way to determine what you need to work on.
+You are only one week away from Phase 1. We hope you're excited! This week's workload is a little lighter, which will hopefully give you some breathing room for moving and resting before Phase 1 starts. See your friends, spend time with your family, but also make sure to solidify the fundamentals. Try teaching anyone who will listen the concepts you've learned. Teaching is the best way to determine what you need to work on.
 
 ## Challenges and Tasks
 
@@ -24,6 +24,7 @@ If this week is too light for you, complete all of the challenges and review any
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W9.**
 
+
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
 - The week's work is due Monday (DBC Phase 1 Start day!) by 8:00am PST.
@@ -40,4 +41,3 @@ Rate [feedback](https://socrates.devbootcamp.com/feedback) | 20 | 7
 
 ## [Resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md)
 
- -->

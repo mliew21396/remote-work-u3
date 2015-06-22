@@ -4,6 +4,8 @@ JavaScript is known as the "language of the web." It is a powerful object-orient
 
 This week focuses on the basics of the JavaScript language. You will have more advanced JavaScript challenges and more opportunities to use JavaScript to manipulate the DOM in weeks 8 and 9. We give you a book resource to go through. If you would like to supplement the book with [Codecademy's JavaScript track](http://www.codecademy.com/en/tracks/javascript), you should feel free to do that.
 
+Check out some of the videos below the challenges and tasks for help with these challenges!
+
 **You have an asynchronous group challenge this week. Take a look at it early so you don't get blind-sided.**
 
 ## Challenges and Tasks
@@ -29,6 +31,11 @@ Number | Challenge Name | Est. time (hrs)**
 
 
 This week you'll want to request feedback on Twitter using the hashtag **#DBCU3W7.** Only other DBC students can actually see your repositories because they are private.
+
+## Video Resources
+- [Object-Literal Basics in JavaScript](https://talks.devbootcamp.com/object-literal-basics-in-javascript)
+- [dot vs. bracket notation in JavaScript]()
+
 
 ## Submitting your work
 - You must complete the [week's submission form](http://apply.devbootcamp.com) to turn in your work.
