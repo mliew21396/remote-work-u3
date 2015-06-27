@@ -21,9 +21,9 @@ If you have trouble getting into contact with people in your group, please conta
 
 **Do NOT look at the tests if you are not person 1!**
 
-If you have a three person group, follow the graphic to see who should do which roles.
+Please follow the graphics at the bottom of the page to determine who should do which roles.
 
-## Release 0: Translate Tests into User Stories (Person 1)
+## Release 0: Tests to User Stories
 
 Look at the `tests.js` file in this directory.
 
@@ -35,25 +35,25 @@ The user stories should be easily translated into pseudocode by the next person 
 
 **Email your `my_solution.js` URL to the next person in your group.**
 
-## Release 1: Translate User Stories into [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md) (Person 2)
+## Release 1: User Stories to [Pseudocode](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/pseudocode.md)
 
 Based **only** on the user stories you received from the first person, pseudocode the logic you would need to implement each story. Your pseudocode should be small steps that can be easily translated into code.
 
 **Email the `my_solution.js` URL without the user stories to the next person/people in your group.**
 
-## Release 2: Translate Pseudocode into Code (Person 3)
+## Release 2: Pseudocode to Code
 
 When you receive a file with pseudocode, translate it into JavaScript. Do not deviate from the pseudocode given to you. When you finish, make sure the code runs without any syntax errors, and send your solution to the next person in your group (again based on the graphics below).
 
 If you are in a group where two of you are assigned this role, you can choose to pair or work separately and then compare your solutions.
 
-## Release 3: Refactor the Initial Solution (Person 4)
+## Release 3: Refactor and write User Stories
 
 When you receive the `my_solution.js` links, refactor it. Then translate each chunk back into user stories. You may not change the way the code works, even if it's broken. The inputs and outputs must stay the same. You will send your refactored code and user stories to the first person in the group.
 
-## Release 4: Put it all together (Person 1)
+## Release 4: Put it all together (back to first person)
 
-When the first person receives the refactored code from the last person, they need to run the code with the tests. Which tests pass? Which tests fail? Send a summary with the code and user stories you received to the rest of the group. When you receive the summary, copy and paste the code into your solution file.
+When the first person receives the refactored code from the last person, they need to paste the final code in the `tests.js` file and run the code with the tests. Which tests pass? Which tests fail? Send a summary with the code and user stories you received to the rest of the group. When you receive the summary, copy and paste the code into your solution file.
 
 ## Release 5: Compile (Everyone)
 
