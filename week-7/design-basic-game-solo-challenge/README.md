@@ -24,11 +24,11 @@ This is an open-ended challenge so there are a lot of things you can do with it 
 
 You should use time-management strategies to keep yourself on task. Check in with yourself often. This can be a simple challenge if you design it that way, or you could build an elaborate game. Keep it simple at first. You can always add on later.
 
-START with and MVP and start SMALL. If you have time, desire, and energy, THEN make it more complex and do the bonus release. No one is comparing your code to other cohort-mates. This challenge is all about you, your learning, and your creativity. The overall goal is simply to create objects and functions that interact. Period.
+START with and MVP and start SMALL. If you have time, desire, and energy, THEN make it more complex and do the bonus release. No one is comparing your code to other cohort-mates. This challenge is all about you, your learning, and your creativity. The overall goal is simply to create objects and functions that interact. Period. If you want to make a version of an existing game, that's fine too.
 
 See [this example](example_solution.js) to see a solution that is solid, simple, and fulfills the expectations. Push yourself to be creative if you have the time as [this student](http://imikie.github.io/site-master.html#) did.
 
-## Release 0: Play a sample game
+## Release 0: Outline your game objectives
 
 [Code Combat](http://codecombat.com/play/dungeon) is a site aimed at teaching people how to program by playing a game. We are going to use their example to walk you through this process. If you want to experience it, go to the link above. When you select the language, be sure to select "JavaScript." We are using this as an example. You can create whatever kind of game you want.
 
@@ -37,7 +37,7 @@ See [this example](example_solution.js) to see a solution that is solid, simple,
 Write an outline of your overall mission and goals to complete your mission as comments in your [my_solution.js](my_solution.js) file. Remember to keep them simple!
 
 Then consider:
-- Who are the main characters in your game? They will be an object. What properties should they have? Write these as comments in the description section. In an earlier version of Code Combat, you could see an Object's properties when you hovered over `this`. In the image below, you can see Tharin (the object) and his properties to give you an example of how your objects could look.
+- Who are the main characters or thing in your game? They will be an object. What properties should they have? Write these as comments in the description section. In an earlier version of Code Combat, you could see an Object's properties when you hovered over `this`. In the image below, you can see Tharin (the object) and his properties to give you an example of how your objects could look.
 - Consider any other objects you need. Do you need a sword? What about a cannon, death ray, gold, magic seeds, etc.? Write those as comments in the description section as well.
 
 Remember, you need to have at least two objects defined and used in this challenge.
@@ -46,7 +46,7 @@ Remember, you need to have at least two objects defined and used in this challen
 
 - Write at least two functions you'll need to manipulate your objects to complete your goals as well.
 
-For example, if your game goal is to collect gold, then you would need to have gold objects, and a way to add gold to your object. You would probably also want a way to calculate how much gold you have. you could use a function `pickUp` that requires two arguments, the object picking up the gold, and what they are picking up.
+For example, if your game goal is have a leprechaun collect gold, then you would need to have gold objects, and a way to add gold to your leprechaun. You would probably also want a way to calculate how much gold you have. you could use a function `pickUp` that requires two arguments, the object picking up the gold, and what they are picking up.
 
 Your functions don't have to actually create movement on the screen, but think about how to pass information between objects using functions. Think about what information the functions need to have access to. You'll also need to consider how you will model behavior using code.
 
