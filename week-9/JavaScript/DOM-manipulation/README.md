@@ -9,7 +9,7 @@
 
 ## Summary
 
-In this challenge, you will be using JavaScript to manipulate the Document Object Model (DOM). For more theory behind the concept of the DOM check out this document by the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM).
+In this challenge, you will be using JavaScript to manipulate the Document Object Model (DOM). For more theory behind the concept of the DOM check out these resources by the Mozilla Developer Network: [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) [DOM Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM).
 
 Basically, the HTML elements and properties of the browser have been wrapped in objects that you can now manipulate with JavaScript. Technically, you can use any programming language to interact with the DOM, but it is most often done using JavaScript.
 
@@ -19,7 +19,7 @@ JavaScript has built-in functions to select and manipulate HTML and CSS, read th
 
 Tutorials:
 - [tuts+ DOM tutorial](http://code.tutsplus.com/tutorials/javascript-and-the-dom-series-lesson-1--net-3134)
-- [w3schools change CSS guide](http://www.w3schools.com/js/js_htmldom_css.asp)
+- [w3schools Change CSS guide](http://www.w3schools.com/js/js_htmldom_css.asp)
 
 Reference:
 - [W3schools DOM doc](http://www.w3schools.com/jsref/dom_obj_document.asp)
