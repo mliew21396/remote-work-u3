@@ -22,7 +22,7 @@ Start the first set of exercises "SELECT basics".  Complete this set and complet
 * 5 SUM and COUNT
 * 6 JOIN (#8-13 of the tutorial is **BONUS**!)
 
-You will need to do some research as you go. The tutorial is more meant to get you to experiment and try queries. It's not really intended to teach. So this is a good time to amp up your researching skills! [w3schools.com](http://www.w3schools.com/sql/default.asp) is a pretty good reference.
+You will need to do some research as you go. The tutorial is more meant to get you to experiment and try queries. It's not really intended to teach. So this is a good time to amp up your researching skills! [w3schools.com](http://www.w3schools.com/sql/default.asp) is a pretty good reference for SQL Queries. Unfortunately there aren't a whole lot of great resources for learning SQL for how established it is.
 
 When you finish each required quiz, take a screenshot of it. You'll need to include it in your solution file.
 
