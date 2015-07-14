@@ -4,7 +4,7 @@
 
 - Go through Codecademy's [JavaScript Track](http://www.codecademy.com/en/tracks/javascript)
 
-- Research adding JavaScript to Websites and incorporate some of what you learned into your blog. There is a lot of information out there on how to do this. You may find this chapter on [Web Building - Adding Code (JavaScript)](http://www.w3schools.com/website/web_spa_javascript.asp) from w3schools.com useful.
+- Research adding JavaScript to Websites and incorporate some of what you learned into your blog. There is a lot of information out there on how to do this. You may find this chapter on [Web Building - Adding Code (JavaScript)](http://www.w3schools.com/website/web_spa_javascript.asp) from w3schools.com useful as a starting point.
 
 - Try working with nested arrays and objects in JavaScript to track data. See if you can access, modify, combine that data. Here are some ideas:
 
