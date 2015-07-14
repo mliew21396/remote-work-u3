@@ -117,7 +117,7 @@ If you are using Windows, use the [SQLite documentation](https://www.sqlite.org/
 
 Go through each of the queries below in the SQLite shell. If your command works properly, it should display and match the answer in the my_solution.md file.
 
-You'll want to look up commands for each of the challenges using the [SQL Tutorial on w3schools.com](http://www.w3schools.com/sql/). Once you find the correct SQL query (the correct code that returns what it should return), you'll need to add the proper commands to your [my_solution.md](my_solution.md) file. The correct output is shown in the [my_solution.md](my_solution.md) file. Don't worry if the names of states and regions are cut off.
+You'll want to look up commands for each of the challenges using the [SQL Documentation on w3schools.com](http://www.w3schools.com/sql/). This is one of the better resources to help with SQL queries. Once you find the correct SQL query (the correct code that returns what it should return), you'll need to add the proper commands to your [my_solution.md](my_solution.md) file. The correct output is shown in the [my_solution.md](my_solution.md) file. Don't worry if the names of states and regions are cut off.
 
 Create SQL Queries for the following:
 (Make sure all queries end with a semi-colon, if you forget, just enter it on the next line.)
