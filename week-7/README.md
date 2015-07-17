@@ -19,7 +19,7 @@ Number | Challenge Name | Est. time (hrs)**
 5. | [JavaScript Olympics](javascript-olympics) | 1.75
 6. | [Design a Basic Game- SOLO CHALLENGE](design-basic-game-solo-challenge) | 4.25
 7. | [Group Project](group-project) **(Check this out early!)** | 1.25
-8. | [Blog Improvement](blog-improvement.md)
+8. | [Blog Improvement](blog-improvement.md) | N/A
 9. | [Technical Blog](technical-blog.md) | 1.5
 10. | [Cultural Blog](cultural-blog.md) | 1.25
 11. | [GPS 3.1 - Ruby](gps3-1) **(DO NOT READ UNTIL YOUR GPS SESSION!)** | 1.5
