@@ -26,7 +26,7 @@ Now look at creating a new tweet. What fields are available? Put the fields you'
 What is the relationship between `users` and `tweets`? Where do you think they are connected? Explain your answer.
 
 ## Release 3: Make the Schema
-Now go to [SQL Designer](http://socrates.devbootcamp.com/sql) and create your tables and fields. Take a screen shot and put it in the [imgs](../imgs) directory and then display it in your solution file.
+Now go to [SQL Designer](https://schemadesigner.devbootcamp.com) and create your tables and fields. Take a screen shot and put it in the [imgs](../imgs) directory and then display it in your solution file.
 
 ## Release 4: Create SQL Statements that would access your tables and return:
 - all the tweets for a certain user id
