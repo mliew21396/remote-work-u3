@@ -87,7 +87,7 @@ For the VirusPredictor example, the two tables would be represented like this:
 +--------------------+
 </pre>
 
-You can use a design tool like [SQL Designer](https://socrates.devbootcamp.com/sql) to draw your schema.
+You can use a design tool like [SQL Designer](https://schemadesigner.devbootcamp.com) to draw your schema.
 
 This tool requires you to specify a data type for each field and color codes it accordingly. In the image below, the yellow fields represent numeric values and the red fields represent text values.
 
@@ -95,7 +95,7 @@ This tool requires you to specify a data type for each field and color codes it 
 
 As you can see, there is a line connecting the `id` field from the `regions` table to the `region_id` field from the `states` table. This line shows that the two tables are connected by those fields, thus the two numbers should be the same. For example, if you look at Arizona, you can see the `region_id` is 8, which means Arizona belongs to the Mountain region.
 
-**NOTE:** In [SQL Designer](https://socrates.devbootcamp.com/sql), you'll notice that you can pick a "type" for each field.  For example, the birthday field should be a "date" type.  There's a core set of data types that all SQL-based databases support, but many have additional types. You can read more about that at [w3schools.com](http://www.w3schools.com/sql/sql_datatypes.asp) or on [Wikipedia](http://en.wikipedia.org/wiki/SQL#Data_types). For now, don't worry about using the perfect data type (i.e. `varchar` vs. `text`), just use the one that colors it appropriately.
+**NOTE:** In [SQL Designer](https://schemadesigner.devbootcamp.com), you'll notice that you can pick a "type" for each field.  For example, the birthday field should be a "date" type.  There's a core set of data types that all SQL-based databases support, but many have additional types. You can read more about that at [w3schools.com](http://www.w3schools.com/sql/sql_datatypes.asp) or on [Wikipedia](http://en.wikipedia.org/wiki/SQL#Data_types). For now, don't worry about using the perfect data type (i.e. `varchar` vs. `text`), just use the one that colors it appropriately.
 
 SQL Designer is a bit weird to use. You have to use the menu at the right and then play with it a bit. Here's what you can do to get started. First click on "Add Table" then click anywhere on the graph "paper." To add fields, click on the table and then "add field." To connect tables, click on the `id` of the first table, and then click on "connect foreign key." Then click on the field in the other table you want to connect it to.
 
@@ -138,7 +138,7 @@ Create SQL Queries for the following:
 ![mismatch](../imgs/mismatch.jpg)
 ![closet](../imgs/closet.jpeg)
 
-In the 1995 Teen Comedy *Clueless*, Cher (the main character) had a lot of outfits, and an entire software program to help her decide what to wear. Make a simple schema design in [SQL Designer](https://socrates.devbootcamp.com/sql) to include `persons` and `outfits` tables. Create at least 4 fields (with general types**) for each table. One of the fields in the `outfits` table should refer to the `id` in the `persons` table. You should reference the [conventions.md](conventions.md) file to read about database naming conventions.
+In the 1995 Teen Comedy *Clueless*, Cher (the main character) had a lot of outfits, and an entire software program to help her decide what to wear. Make a simple schema design in [SQL Designer](https://schemadesigner.devbootcamp.com) to include `persons` and `outfits` tables. Create at least 4 fields (with general types**) for each table. One of the fields in the `outfits` table should refer to the `id` in the `persons` table. You should reference the [conventions.md](conventions.md) file to read about database naming conventions.
 
 When you finish, take a screen shot of your schema design, upload it into the imgs directory and include it inline in your [my_solution.md](my_solution.md) file.
 
