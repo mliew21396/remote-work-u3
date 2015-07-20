@@ -25,7 +25,7 @@ The general rule of thumb is to use a one-to-one relationship if you have a rela
 For the example above, all countries now have capital cities, but prior to the late-eighteenth/ early-nineteenth centuries, many countries (or places where a group of similar people lived) did not have a capital city. So it would be possible to have a lot of information about the country, and have `NULL` for any `capital_city_name` field.
 
 ## Release 1: Your One-to-one Schema
-Create your own one-to-one schema using [SQL Designer](https://socrates.devbootcamp.com/sql). Create your own example. Each table should have at least four fields. When you finish your schema, take a screen shot, upload it to the imgs directory in this challenge, and display it inline in your [my_solution.md](my_solution.md) file.
+Create your own one-to-one schema using [SQL Designer](https://schemadesigner.devbootcamp.com). Create your own example. Each table should have at least four fields. When you finish your schema, take a screen shot, upload it to the imgs directory in this challenge, and display it inline in your [my_solution.md](my_solution.md) file.
 
 ## Release 2: Many to Many Relationships
 Many-to-many relationships are common and relatively easy to understand.
@@ -41,7 +41,7 @@ Other information can be added to a join table that is specific to that instance
 ## Release 3: GroceryList
 Remember the GroceryList challenge? A `GroceryList` has many `Items`. `Items` can belong to many different `GroceryList`s. (Remember that Ruby classes use CamelCase whereas table names use snake_case).
 
-Model the relationship between `grocery_lists` and `items` using [SQL Designer](https://socrates.devbootcamp.com/sql). Each table should have at least four fields in each. You should also model the join table. When you finish your schema, take a screen shot, upload it to the imgs directory in this challenge, and display it inline in your [my_solution.md](my_solution.md) file.
+Model the relationship between `grocery_lists` and `items` using [SQL Designer](https://schemadesigner.devbootcamp.com). Each table should have at least four fields in each. You should also model the join table. When you finish your schema, take a screen shot, upload it to the imgs directory in this challenge, and display it inline in your [my_solution.md](my_solution.md) file.
 
 ## Release 4: [Reflect](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/reflection-guidelines.md)
 Reflect on your process and learning in the [my_solution.md](my_solution.md) file.
