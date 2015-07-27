@@ -1,12 +1,13 @@
- // U3.W7: JavaScript Variables and Objects
+// U3.W7: JavaScript Variables and Objects
 
-// I paired [by myself, with:] on this challenge.
+// I paired by myself on this challenge.
 
 // __________________________________________
 // Write your code below.
-
-
-
+secretNumber = 7
+password = "just open the door"
+allowedIn = false
+members = ["John", "Joe", "Moe", "Mary"]
 
 
 
@@ -87,3 +88,6 @@ assert(
   "The fourth element in the value of members should be 'Mary'.",
   "9. "
 )
+
+// Reflection
+//This challenge was good in introducing TDD. I enjoyed seeing how the syntax of these tests work. I'm interested in taking these tests to the next level.
