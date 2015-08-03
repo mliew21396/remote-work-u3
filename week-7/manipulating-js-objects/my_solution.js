@@ -1,6 +1,6 @@
  // U3.W7: Manipulating JavaScript Objects
 
-// I worked on this challenge: [by myself, with: ]
+// I worked on this challenge: by myself.
 
 // There is a section below where you will write your code.
 
@@ -35,7 +35,7 @@ adam.children = terah.children
 // __________________________________________
 // Reflection: Use the reflection guidelines
 //This was an interesting way to learn to jump through the array nesting for javascript objects. I was pretty straightforward, but I enjoyed seeing how it interacted with the tests below.
-//
+//This challenge was good in that it reinforced more complex JS object manipulation. It wasn't as strong as the previous challenge but it was still nice to do.
 //
 //
 //
