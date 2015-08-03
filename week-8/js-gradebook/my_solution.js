@@ -22,21 +22,32 @@ var scores = [ [80, 70, 70, 100],
 
 
 
-
-
 // __________________________________________
 // Write your code below.
-
-
-
-
-
-
-
+var gradebook = {Joseph: {testScores:scores[0]},
+                  Susan: {testScores:scores[1]},
+                  William: {testScores:scores[2]},
+                  Elizabeth: {testScores:scores[3]},
+                  addScore: function (name,score) {
+                    gradebook[name].testScores.push(score);
+                  },
+                  getAverage: function(name) {
+                    return average(gradebook[name].testScores);
+                  },
+                  average: function (array) {
+                  }
+                };
+function average (array) {
+  var sum = 0;
+  for (var i = 0 ; i < array.length; i++) {
+      sum += array[i]
+  };
+  return sum / array.length;
+}
 
 // __________________________________________
 // Refactored Solution
-
+// Seems refactored enough
 
 
 
@@ -46,7 +57,7 @@ var scores = [ [80, 70, 70, 100],
 
 // __________________________________________
 // Reflect
-
+//I liked that this challenge reinforced the concepts in the medium article. The focus that when using variables with JS objects, bracket notation must be used and that the properties of JS objects are always strings. Even though I read it, this practice was definitely needed.
 
 
 
