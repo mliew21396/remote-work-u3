@@ -15,7 +15,7 @@ members = ["John", "Joe", "Moe", "Mary"]
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here.
-//
+//This challenge was fun, I liked using error driven testing to get more hands on. I hope we have more challenges like this since I learned where my weakpoints and strengths were after doing the readings.
 //
 //
 //
