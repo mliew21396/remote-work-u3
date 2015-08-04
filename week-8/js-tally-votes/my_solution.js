@@ -65,16 +65,68 @@ var officers = {
 }
 
 // Pseudocode
+// For loop through the votes object for the voter/key,
+//  Assignments for each role/position
+//    will use similar loops for each above
+//Create a new funciton to determine the winner when comparing the votes in the voteCount object.
+  //use a for loop to compare each of the values an return the maxkey
+//Set in the officers function with the above winner function
+
+
 
 
 // __________________________________________
 // Initial Solution
 
+// votes.key1.key2 will yield the name voted
+// key1 is voter   key2 is office
+// voteCount.president.[name voted] += 1
 
+for (var key1 in votes){
+  if (votes.hasOwnProperty(key1)) {
 
+    nv1 = votes[key1].president;
+    if (isNaN(voteCount.president[nv1]))                     {voteCount.president[nv1] = 1} else {
+    voteCount.president[nv1] += 1};
 
+    nv2 = votes[key1].vicePresident;
+    if (isNaN(voteCount.vicePresident[nv2])) {voteCount.vicePresident[nv2] = 1} else {
+    voteCount.vicePresident[nv2] +=1};
 
+    nv3 = votes[key1].secretary;
+    if (isNaN(voteCount.secretary[nv3]))
+      {voteCount.secretary[nv3] = 1
+    } else {
+      voteCount.secretary[nv3] +=1;
+    };
 
+    nv4 = votes[key1].treasurer;
+    if (isNaN(voteCount.treasurer[nv4]))
+      {voteCount.treasurer[nv4] = 1
+    } else {
+      voteCount.treasurer[nv4] +=1;
+    };
+  };
+};
+
+function winner(voteroll){
+//   console.log(voteroll);
+//   console.log("-----")
+  var max = 0; var maxkey ="";
+  for (var key in voteroll) {
+//     console.log(max);
+    if (voteroll[key] > max) {
+      maxkey = key;
+      max = voteroll[maxkey];
+    };
+  };
+  return maxkey;
+};
+
+officers.president = winner(voteCount.president);
+officers.vicePresident = winner(voteCount.vicePresident);
+officers.secretary = winner(voteCount.secretary);
+officers.treasurer = winner(voteCount.treasurer);
 
 // __________________________________________
 // Refactored Solution
@@ -86,11 +138,7 @@ var officers = {
 
 // __________________________________________
 // Reflection
-
-
-
-
-
+// This challenge was good once good pseudocode was written. Mapping out the loops and conditionals was key in this challenge. I found looking at the object formats to be really helpful and envision how I would loop through them. David and I had some syntax issues but were able to figure them out with some time. Overall, I like this challenge.
 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
@@ -152,3 +200,6 @@ assert(
   "Ivy should be elected Treasurer.",
   "8. "
 )
+
+
+
