@@ -59,7 +59,7 @@ Paste the correct SQL queries for each of the following challenges below. There 
 
 ## Release 5: `persons` and `outfits` Schema
 <!-- Include a link to your schema design here -->
-![alt text](https://github.com/mliew21396/phase-0-unit-3/week-8/intro-to-databases/imgs/Sql tables.png "Sql Tables")
+![alt text](https://github.com/mliew21396/phase-0-unit-3/week-8/intro-to-databases/imgs/Sql_tables.png "Sql Tables")
 
 
 
