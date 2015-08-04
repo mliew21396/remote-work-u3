@@ -60,7 +60,7 @@ NOTE: `getAverage` and `average` are different functions.
 
 ## Release 6: Modify `getAverage`
 
-Modify `getAverage` so that it accepts a `name` as a String (e.g., "Joseph") and returns that student's average score. Use the average function you created in Release 4.
+Modify `getAverage` so that it accepts a `name` as a String (e.g., "Joseph") and returns that student's average score. Use the average function you created in Release 5.
 
 ## Release 7: [Refactor](https://github.com/Devbootcamp/phase-0-handbook/blob/master/coding-references/refactoring.md)
 
