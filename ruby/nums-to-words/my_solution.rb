@@ -214,3 +214,4 @@ p num_to_english(283)
 
 
 # Reflection
+# I had fun with this challenge. I accidentally thought the prompt asked for english to number so finished that and then realized I was supposed to do the other way, oops. I redid everything from the beginning but decided to leave my other solution for kicks at the end. This challenge was harder than the first two but I felt good once I got into a rhythm. I'll be pairing with Paulo on this later so we refactor/expand on each other's solutions. It will be good to read an interprete each other's code.
