@@ -6,7 +6,7 @@ You are only one week away from Phase 1. We hope you're excited! This week's wor
 
 ## Challenges and Tasks
 
-Number | Challenge Name | Est. time (hrs)**
+Number | Challenge Name | Avg. time (hrs)**
 -------|----------------|----------
 1. | [Professional Blog](professional-blog.md) | 4
 2. | [JavaScript Challenges](JavaScript) (*select 2*) | 3.25
