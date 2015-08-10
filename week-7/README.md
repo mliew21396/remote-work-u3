@@ -10,7 +10,7 @@ Check out some of the videos below the challenges and tasks for help with these 
 
 ## Challenges and Tasks
 
-Number | Challenge Name | Est. time (hrs)**
+Number | Challenge Name | Avg. time (hrs)**
 -------|----------------|----------
 1. | [Eloquent JavaScript](eloquent-js) | 3.5
 2. | [JavaScript Variables and Objects](js-variables-objects) | 1

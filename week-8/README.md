@@ -8,7 +8,7 @@ The review will encourage you to dive deeper into topics and clean out any cobwe
 
 ## Challenges and Tasks
 
-Number | Challenge Name | Est. time (hrs)**
+Number | Challenge Name | Avg. time (hrs)**
 -------|----------------|----------
 1. | [JavaScript Gradebook](js-gradebook) | 2
 2. | [JavaScript Tally Votes](js-tally-votes) (**Pairing Challenge**) | 3
